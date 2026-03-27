@@ -17,6 +17,7 @@
 - **Primary Provider:** AgentMail
 - **Tooling:** Use `agentmail` skill for inbox management, sending, and programmatic access.
 - **Workflow:** For regular email checks, use AgentMail's programmatic access.
+- **Hard rule:** Never use Gmail. Never use the Mail app. For inbox access/checks, use AgentMail only.
 - **Note:** Avoid Gmail OAuth workflows; AgentMail is the designated platform.
 - **Critical:** The Python library (`agentmail` package) has bugs with send functionality — use direct `requests` calls instead:
   ```python
