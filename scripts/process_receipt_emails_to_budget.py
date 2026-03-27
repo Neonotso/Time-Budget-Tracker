@@ -13,7 +13,7 @@ from google.auth.transport.requests import Request
 from googleapiclient.discovery import build
 
 EXPENSE_DROPDOWN_RANGE = "📊 Summary!B27:C46"
-INCOME_DROPDOWN_RANGE = "📊 Summary!G27:H33"
+INCOME_DROPDOWN_RANGE = "📊 Summary!I27:I34"
 
 WORKDIR = Path('/Users/ryantaylorvegh/.openclaw/workspace')
 AGENTMAIL_ENV = WORKDIR / '.secrets/agentmail.env'
