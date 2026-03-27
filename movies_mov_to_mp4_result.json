@@ -1,0 +1,35 @@
+{
+  "found_mov": 6,
+  "converted": 4,
+  "skipped": 2,
+  "failed": 0,
+  "converted_files": [
+    {
+      "from": "/Users/ryantaylorvegh/Movies/Ever Deeper.mov",
+      "to": "/Users/ryantaylorvegh/Movies/Ever Deeper.mp4"
+    },
+    {
+      "from": "/Users/ryantaylorvegh/Movies/God, Make That Fruit Grow/God, Make That Fruit Grow - fadeout.mov",
+      "to": "/Users/ryantaylorvegh/Movies/God, Make That Fruit Grow/God, Make That Fruit Grow - fadeout.mp4"
+    },
+    {
+      "from": "/Users/ryantaylorvegh/Movies/God, Make That Fruit Grow/God, Make That Fruit Grow-trim.mov",
+      "to": "/Users/ryantaylorvegh/Movies/God, Make That Fruit Grow/God, Make That Fruit Grow-trim.mp4"
+    },
+    {
+      "from": "/Users/ryantaylorvegh/Movies/God, Make That Fruit Grow/God, Make That Fruit Grow.mov",
+      "to": "/Users/ryantaylorvegh/Movies/God, Make That Fruit Grow/God, Make That Fruit Grow.mp4"
+    }
+  ],
+  "skipped_files": [
+    {
+      "file": "/Users/ryantaylorvegh/Movies/CapCut/Ryan Vegh first half/Ryan Vegh first half-1.mov",
+      "reason": "mp4_exists"
+    },
+    {
+      "file": "/Users/ryantaylorvegh/Movies/fun little map population recording.mov",
+      "reason": "mp4_exists"
+    }
+  ],
+  "failed_files": []
+}

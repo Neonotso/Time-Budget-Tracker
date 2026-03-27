@@ -1,0 +1,658 @@
+{
+  "total_files_scanned": 657,
+  "files_with_missing": 584,
+  "missing_by_field": {
+    "release year": 501,
+    "album": 543,
+    "\"track #\"": 543,
+    "key": 541,
+    "time signature": 540,
+    "tempo": 581,
+    "length": 501,
+    "released": 543,
+    "started": 542,
+    "genre": 543
+  },
+  "top_files_with_most_missing": [
+    {
+      "file": "Moth To The Flame/Moth To The Flame.md",
+      "missing": [
+        "release year",
+        "album",
+        "\"track #\"",
+        "key",
+        "time signature",
+        "tempo",
+        "length",
+        "released",
+        "started",
+        "genre"
+      ],
+      "count": 10
+    },
+    {
+      "file": "God Almighty Lord Of All/God Almighty Lord Of All.md",
+      "missing": [
+        "release year",
+        "album",
+        "\"track #\"",
+        "key",
+        "time signature",
+        "tempo",
+        "length",
+        "released",
+        "started",
+        "genre"
+      ],
+      "count": 10
+    },
+    {
+      "file": "My, My Mind/My, My Mind.md",
+      "missing": [
+        "release year",
+        "album",
+        "\"track #\"",
+        "key",
+        "time signature",
+        "tempo",
+        "length",
+        "released",
+        "started",
+        "genre"
+      ],
+      "count": 10
+    },
+    {
+      "file": "Isaiah 25/Isaiah 25.md",
+      "missing": [
+        "release year",
+        "album",
+        "\"track #\"",
+        "key",
+        "time signature",
+        "tempo",
+        "length",
+        "released",
+        "started",
+        "genre"
+      ],
+      "count": 10
+    },
+    {
+      "file": "Without A Cause/Without A Cause.md",
+      "missing": [
+        "release year",
+        "album",
+        "\"track #\"",
+        "key",
+        "time signature",
+        "tempo",
+        "length",
+        "released",
+        "started",
+        "genre"
+      ],
+      "count": 10
+    },
+    {
+      "file": "Beautiful Flower Of God/Beautiful Flower Of God.md",
+      "missing": [
+        "release year",
+        "album",
+        "\"track #\"",
+        "key",
+        "time signature",
+        "tempo",
+        "length",
+        "released",
+        "started",
+        "genre"
+      ],
+      "count": 10
+    },
+    {
+      "file": "Be Near To Me/Be Near To Me.md",
+      "missing": [
+        "release year",
+        "album",
+        "\"track #\"",
+        "key",
+        "time signature",
+        "tempo",
+        "length",
+        "released",
+        "started",
+        "genre"
+      ],
+      "count": 10
+    },
+    {
+      "file": "Every Day Is A New Beginning/Every Day Is A New Beginning.md",
+      "missing": [
+        "release year",
+        "album",
+        "\"track #\"",
+        "key",
+        "time signature",
+        "tempo",
+        "length",
+        "released",
+        "started",
+        "genre"
+      ],
+      "count": 10
+    },
+    {
+      "file": "Finding It Hard/Finding It Hard.md",
+      "missing": [
+        "release year",
+        "album",
+        "\"track #\"",
+        "key",
+        "time signature",
+        "tempo",
+        "length",
+        "released",
+        "started",
+        "genre"
+      ],
+      "count": 10
+    },
+    {
+      "file": "Whom Have I In Heaven But You/Whom Have I In Heaven But You.md",
+      "missing": [
+        "release year",
+        "album",
+        "\"track #\"",
+        "key",
+        "time signature",
+        "tempo",
+        "length",
+        "released",
+        "started",
+        "genre"
+      ],
+      "count": 10
+    },
+    {
+      "file": "Perfect For Me/Perfect For Me.md",
+      "missing": [
+        "release year",
+        "album",
+        "\"track #\"",
+        "key",
+        "time signature",
+        "tempo",
+        "length",
+        "released",
+        "started",
+        "genre"
+      ],
+      "count": 10
+    },
+    {
+      "file": "My Body/My Body.md",
+      "missing": [
+        "release year",
+        "album",
+        "\"track #\"",
+        "key",
+        "time signature",
+        "tempo",
+        "length",
+        "released",
+        "started",
+        "genre"
+      ],
+      "count": 10
+    },
+    {
+      "file": "Endless Embrace Of Your Love/Endless Embrace Of Your Love.md",
+      "missing": [
+        "release year",
+        "album",
+        "\"track #\"",
+        "key",
+        "time signature",
+        "tempo",
+        "length",
+        "released",
+        "started",
+        "genre"
+      ],
+      "count": 10
+    },
+    {
+      "file": "You Are God, Amen/You Are God, Amen.md",
+      "missing": [
+        "release year",
+        "album",
+        "\"track #\"",
+        "key",
+        "time signature",
+        "tempo",
+        "length",
+        "released",
+        "started",
+        "genre"
+      ],
+      "count": 10
+    },
+    {
+      "file": "Oh How Wonderful Are You Jesus/Oh How Wonderful Are You Jesus.md",
+      "missing": [
+        "release year",
+        "album",
+        "\"track #\"",
+        "key",
+        "time signature",
+        "tempo",
+        "length",
+        "released",
+        "started",
+        "genre"
+      ],
+      "count": 10
+    },
+    {
+      "file": "I Look Up To The Holy God/I Look Up To The Holy God.md",
+      "missing": [
+        "release year",
+        "album",
+        "\"track #\"",
+        "key",
+        "time signature",
+        "tempo",
+        "length",
+        "released",
+        "started",
+        "genre"
+      ],
+      "count": 10
+    },
+    {
+      "file": "Moments of Grace/Moments of Grace.md",
+      "missing": [
+        "release year",
+        "album",
+        "\"track #\"",
+        "key",
+        "time signature",
+        "tempo",
+        "length",
+        "released",
+        "started",
+        "genre"
+      ],
+      "count": 10
+    },
+    {
+      "file": "Born Again/Born Again.md",
+      "missing": [
+        "release year",
+        "album",
+        "\"track #\"",
+        "key",
+        "time signature",
+        "tempo",
+        "length",
+        "released",
+        "started",
+        "genre"
+      ],
+      "count": 10
+    },
+    {
+      "file": "Oh Marvelous Love Of My Blessed Jesus/Oh Marvelous Love Of My Blessed Jesus.md",
+      "missing": [
+        "release year",
+        "album",
+        "\"track #\"",
+        "key",
+        "time signature",
+        "tempo",
+        "length",
+        "released",
+        "started",
+        "genre"
+      ],
+      "count": 10
+    },
+    {
+      "file": "The Longing Of The Soul/The Longing Of The Soul.md",
+      "missing": [
+        "release year",
+        "album",
+        "\"track #\"",
+        "key",
+        "time signature",
+        "tempo",
+        "length",
+        "released",
+        "started",
+        "genre"
+      ],
+      "count": 10
+    },
+    {
+      "file": "An Overturned Lantern/An Overturned Lantern.md",
+      "missing": [
+        "release year",
+        "album",
+        "\"track #\"",
+        "key",
+        "time signature",
+        "tempo",
+        "length",
+        "released",
+        "started",
+        "genre"
+      ],
+      "count": 10
+    },
+    {
+      "file": "I Came To Magnify The Lord - 2/I Came To Magnify The Lord - 2.md",
+      "missing": [
+        "release year",
+        "album",
+        "\"track #\"",
+        "key",
+        "time signature",
+        "tempo",
+        "length",
+        "released",
+        "started",
+        "genre"
+      ],
+      "count": 10
+    },
+    {
+      "file": "Shema Yisrael/Shema Yisrael.md",
+      "missing": [
+        "release year",
+        "album",
+        "\"track #\"",
+        "key",
+        "time signature",
+        "tempo",
+        "length",
+        "released",
+        "started",
+        "genre"
+      ],
+      "count": 10
+    },
+    {
+      "file": "Taste And See/Taste And See.md",
+      "missing": [
+        "release year",
+        "album",
+        "\"track #\"",
+        "key",
+        "time signature",
+        "tempo",
+        "length",
+        "released",
+        "started",
+        "genre"
+      ],
+      "count": 10
+    },
+    {
+      "file": "If Tacos Could Talk-Oh!/If Tacos Could Talk-Oh!.md",
+      "missing": [
+        "release year",
+        "album",
+        "\"track #\"",
+        "key",
+        "time signature",
+        "tempo",
+        "length",
+        "released",
+        "started",
+        "genre"
+      ],
+      "count": 10
+    },
+    {
+      "file": "Up Above The Dark Plain/Up Above The Dark Plain.md",
+      "missing": [
+        "release year",
+        "album",
+        "\"track #\"",
+        "key",
+        "time signature",
+        "tempo",
+        "length",
+        "released",
+        "started",
+        "genre"
+      ],
+      "count": 10
+    },
+    {
+      "file": "Turn On The Light/Turn On The Light.md",
+      "missing": [
+        "release year",
+        "album",
+        "\"track #\"",
+        "key",
+        "time signature",
+        "tempo",
+        "length",
+        "released",
+        "started",
+        "genre"
+      ],
+      "count": 10
+    },
+    {
+      "file": "Whatchu Want/Whatchu Want.md",
+      "missing": [
+        "release year",
+        "album",
+        "\"track #\"",
+        "key",
+        "time signature",
+        "tempo",
+        "length",
+        "released",
+        "started",
+        "genre"
+      ],
+      "count": 10
+    },
+    {
+      "file": "Tidal Wave Of Grace/Tidal Wave Of Grace.md",
+      "missing": [
+        "release year",
+        "album",
+        "\"track #\"",
+        "key",
+        "time signature",
+        "tempo",
+        "length",
+        "released",
+        "started",
+        "genre"
+      ],
+      "count": 10
+    },
+    {
+      "file": "I Can't Get Low Enough/I Can't Get Low Enough.md",
+      "missing": [
+        "release year",
+        "album",
+        "\"track #\"",
+        "key",
+        "time signature",
+        "tempo",
+        "length",
+        "released",
+        "started",
+        "genre"
+      ],
+      "count": 10
+    },
+    {
+      "file": "Offer My Body As A Living Sacrifice/Offer My Body As A Living Sacrifice.md",
+      "missing": [
+        "release year",
+        "album",
+        "\"track #\"",
+        "key",
+        "time signature",
+        "tempo",
+        "length",
+        "released",
+        "started",
+        "genre"
+      ],
+      "count": 10
+    },
+    {
+      "file": "A Summer Song/A Summer Song.md",
+      "missing": [
+        "release year",
+        "album",
+        "\"track #\"",
+        "key",
+        "time signature",
+        "tempo",
+        "length",
+        "released",
+        "started",
+        "genre"
+      ],
+      "count": 10
+    },
+    {
+      "file": "Even If You Take Everything/Even If You Take Everything.md",
+      "missing": [
+        "release year",
+        "album",
+        "\"track #\"",
+        "key",
+        "time signature",
+        "tempo",
+        "length",
+        "released",
+        "started",
+        "genre"
+      ],
+      "count": 10
+    },
+    {
+      "file": "My Soul's Tied In Your Soul/My Soul's Tied In Your Soul.md",
+      "missing": [
+        "release year",
+        "album",
+        "\"track #\"",
+        "key",
+        "time signature",
+        "tempo",
+        "length",
+        "released",
+        "started",
+        "genre"
+      ],
+      "count": 10
+    },
+    {
+      "file": "This Is Where I Belong/This Is Where I Belong.md",
+      "missing": [
+        "release year",
+        "album",
+        "\"track #\"",
+        "key",
+        "time signature",
+        "tempo",
+        "length",
+        "released",
+        "started",
+        "genre"
+      ],
+      "count": 10
+    },
+    {
+      "file": "Worst Of All Sinners/Worst Of All Sinners.md",
+      "missing": [
+        "release year",
+        "album",
+        "\"track #\"",
+        "key",
+        "time signature",
+        "tempo",
+        "length",
+        "released",
+        "started",
+        "genre"
+      ],
+      "count": 10
+    },
+    {
+      "file": "Work In Progress (I Need Help Too)/Work In Progress (I Need Help Too).md",
+      "missing": [
+        "release year",
+        "album",
+        "\"track #\"",
+        "key",
+        "time signature",
+        "tempo",
+        "length",
+        "released",
+        "started",
+        "genre"
+      ],
+      "count": 10
+    },
+    {
+      "file": "Do Not Forget His Faithfulness/Do Not Forget His Faithfulness.md",
+      "missing": [
+        "release year",
+        "album",
+        "\"track #\"",
+        "key",
+        "time signature",
+        "tempo",
+        "length",
+        "released",
+        "started",
+        "genre"
+      ],
+      "count": 10
+    },
+    {
+      "file": "Here Goes Nothing/Here Goes Nothing.md",
+      "missing": [
+        "release year",
+        "album",
+        "\"track #\"",
+        "key",
+        "time signature",
+        "tempo",
+        "length",
+        "released",
+        "started",
+        "genre"
+      ],
+      "count": 10
+    },
+    {
+      "file": "I Love The Way/I Love The Way.md",
+      "missing": [
+        "release year",
+        "album",
+        "\"track #\"",
+        "key",
+        "time signature",
+        "tempo",
+        "length",
+        "released",
+        "started",
+        "genre"
+      ],
+      "count": 10
+    }
+  ]
+}

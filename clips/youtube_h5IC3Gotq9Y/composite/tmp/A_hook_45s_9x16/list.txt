@@ -1,0 +1,4 @@
+file '/Users/ryantaylorvegh/.openclaw/workspace/clips/youtube_h5IC3Gotq9Y/composite/tmp/A_hook_45s_9x16/part_1.mp4'
+file '/Users/ryantaylorvegh/.openclaw/workspace/clips/youtube_h5IC3Gotq9Y/composite/tmp/A_hook_45s_9x16/part_2.mp4'
+file '/Users/ryantaylorvegh/.openclaw/workspace/clips/youtube_h5IC3Gotq9Y/composite/tmp/A_hook_45s_9x16/part_3.mp4'
+file '/Users/ryantaylorvegh/.openclaw/workspace/clips/youtube_h5IC3Gotq9Y/composite/tmp/A_hook_45s_9x16/part_4.mp4'

@@ -1,0 +1,171 @@
+My Songs review queue (prioritized)
+
+Total newly copied from backup: 192
+Conflict copies to review: 4
+
+Review order: 1=lyrics/docs first → 9=lowest priority metadata
+
+Priority 1 (54 files):
+    1. __MY ARRANGEMENTS__/God, Be My Vision/God Be My Vision (easy to play).rtf
+    2. __MY ARRANGEMENTS__/God, Be My Vision/God, Be My Vision -- Easy.txt
+    3. __MY ARRANGEMENTS__/God, Be My Vision/God, Be My Vision.txt
+    4. __MY ARRANGEMENTS__/I Look Up To The Holy God/I Look Up To The Holy God - C#m.docx
+    5. __MY ARRANGEMENTS__/I Look Up To The Holy God/I Look Up To The Holy God - C#m.pages
+    6. __MY ARRANGEMENTS__/I Look Up To The Holy God/I Look Up To The Holy God - Cm (original key).docx
+    7. __MY ARRANGEMENTS__/I Look Up To The Holy God/I Look Up To The Holy God - Cm (original key).pages
+    8. __MY ARRANGEMENTS__/Lord I Need You/Chords/Lord I Need You - RV arrangement - EASIER.pages
+    9. __MY ARRANGEMENTS__/Lord I Need You/Chords/Lord I Need You EASY.txt
+   10. __OLD__/M-A-A-M-E.doc
+   11. __SONG IDEAS__/Cmaj7#11 C7#5#9 Fmaj913 F#m7b5 Dsus4 Db7b5 C69 Abmb6 G6 Fadd9 Bbadd2….pages
+   12. __SONG IDEAS__/Even if I have to say no.pages
+   13. __SONG IDEAS__/G A E E (C# D#) (E F#) — (AG A6#11G).pages
+   14. __SONG IDEAS__/I've Nearly Died.doc
+   15. __SONG IDEAS__/Into the Hands of Evil.txt
+   16. __SONG IDEAS__/Just Stop.doc
+   17. __SONG IDEAS__/Let Your Name Live On.doc
+   18. __SONG IDEAS__/More Is Never Enough.doc
+   19. __SONG IDEAS__/Time's Running Out (Repent)/Time's Running Out (Don't Die).pages
+   20. Beautiful Flower of God.txt
+   21. Blazing Light of God/Blazing Light of God - Key of Em - 2-22-24.pages
+   22. Do Not Forget His Faithfulness.txt
+   23. Endless Embrace Of Your Love.rtf
+   24. Even If You Take Everything.txt
+   25. Even If You Take Everything/Even If You Take Everything.rtf
+   26. Every Day Is A New Beginning.txt
+   27. For The Rest Of The Night.txt
+   28. God, Make That Fruit Grow!.txt
+   29. I Came To Magnify The Lord - 2.txt
+   30. I Came To Magnify The Lord.txt
+   31. I Look Up To The Holy God/I Look Up To The Holy God - C#m (Ryans-M1-Mac.hsd1.mi.comcast.net's conflicted copy 2024-06-03).pages
+   32. I Will Be Still.pages
+   33. If Tacos Could Talk-Oh!/If Tacos Could Talk-Oh!.doc
+   34. If Tacos Could Talk-Oh!/If Tacos Could Talk-Oh!.txt
+   35. Isaiah 25.pages
+   36. Live In Purity.pages
+   37. Moments of Grace.txt
+   38. Moth To The Flame.txt
+   39. My Heart Was Lost/My Heart Was Lost - chords.pages
+   40. My Soul's Tied In Your Soul.txt
+   41. My, My Mind (Ryan’s M1 Mac's conflicted copy 2025-05-15).txt
+   42. My, My Mind.txt
+   43. Oh How Wonderful Are You Jesus.doc
+   44. Oh Marvelous Love Of My Blessed Jesus.pages
+   45. Perfect For Me.doc
+   46. Think About The Good Things (Always Be Thankful).txt
+   47. Tidal Wave of Grace.txt
+   48. Up Above The Dark Plain/New Guitar Version/Up Above The Dark Plain -- Easy.txt
+   49. What You Think Of My Life.doc
+   50. Without A Cause/Without A Cause -- weird chords.txt
+   51. Without A Cause/Without A Cause.txt
+   52. Work In Progress (I Need Help, Too).txt
+   53. You Are God, Amen/God, You Are The Highest God.txt
+   54. You Prepare My Path For Me (finished).txt
+
+Priority 2 (13 files):
+    1. __MY ARRANGEMENTS__/God, Be My Vision/God, Be My Vision -- D to Eb to E.pdf
+    2. __MY ARRANGEMENTS__/God, Be My Vision/God, Be My Vision.pdf
+    3. __SONG IDEAS__/The Fear Of The Lord/The Fear Of The Lord.pdf
+    4. For The Rest Of The Night - Ryan Vegh - D.pdf
+    5. God, You Are The Highest God (To Know Your Son) -- capo 6.pdf
+    6. Moments of Grace.pdf
+    7. Think About The Good Things (Always Be Thankful)/Think About The Good Things - Ab.pdf
+    8. Think About The Good Things (Always Be Thankful)/Think About The Good Things.pdf
+    9. Up Above The Dark Plain/New Guitar Version/Up Above The Dark Plain - Easy.pdf
+   10. Whatchu Want/Whatchu Want additional LYRICS.pdf
+   11. Worst Of All Sinners/Worst Of All Sinners.pdf
+   12. You Are God, Amen/To Know Your Son.pdf
+   13. You Prepare My Path For Me.pdf
+
+Priority 3 (5 files):
+    1. __SONG IDEAS__/G riff.gp
+    2. __SONG IDEAS__/The Fear Of The Lord/G riff.gp
+    3. __SONG IDEAS__/The Fear Of The Lord/The Fear Of The Lord-bckp.gp
+    4. __SONG IDEAS__/The Fear Of The Lord/The Fear Of The Lord-bckp2.gp
+    5. __SONG IDEAS__/The Fear Of The Lord/The Fear Of The Lord.gp
+
+Priority 4 (72 files):
+    1. __SONG IDEAS__/2020 that night I (Ryan) was worshipping in the living room I think -- making up things -- see last 10 minutes or so.m4a
+    2. __SONG IDEAS__/20200110 203414 I'll be robed in white what a glorious sight.m4a
+    3. __SONG IDEAS__/20200209 230211 I Agree Chorus.m4a
+    4. __SONG IDEAS__/20200212 081811 I Agree With What You Say.m4a
+    5. __SONG IDEAS__/20200218 212715 Our God Is Awesome -- For The Lord Our God His Love Endures.m4a
+    6. __SONG IDEAS__/20200310 145007 Even if I have to say no.m4a
+    7. __SONG IDEAS__/20200310 220115 God We're Living In Your Mercy.m4a
+    8. __SONG IDEAS__/20200421 130808 Come Soon alt lyrics -- Ever with our blessed King.m4a
+    9. __SONG IDEAS__/20200428 211732 Drum Rhythm.m4a
+   10. __SONG IDEAS__/BP/BP idea 6-8.amr
+   11. __SONG IDEAS__/BP/More BP stuff.amr
+   12. __SONG IDEAS__/Cool uke chord progression! :D.mp3
+   13. __SONG IDEAS__/funky F# song.mp3
+   14. __SONG IDEAS__/G#m to D Maj piano.mp3
+   15. __SONG IDEAS__/I Know You Love Me, And I Love You.mp3
+   16. __SONG IDEAS__/I Will Worship You My God - song idea @ church.mp3
+   17. __SONG IDEAS__/Improv D Spacey Song.mp3
+   18. __SONG IDEAS__/Jazzy Minor Brooding Your Will.mp3
+   19. __SONG IDEAS__/Jazzy piano tune.mp3
+   20. __SONG IDEAS__/jazzy trumpet melody.mp3
+   21. __SONG IDEAS__/Keep On Clappin' Dem Hands.mp3
+   22. __SONG IDEAS__/Song Idea! 7-1-20.m4a
+   23. __SONG IDEAS__/Songwriting with Kelly (and David kind of) 4-17-21.m4a
+   24. __SONG IDEAS__/Sweet Chaos - new song guitar idea.amr
+   25. __SONG IDEAS__/The Fear Of The Lord/The Fear Of The Lord.mp3
+   26. __SONG IDEAS__/The Flames Proclaim Your Name.amr
+   27. __SONG IDEAS__/Time's Running Out (Repent)/Repent (Time's Running Out) -- Ryan Vegh -- October 2018 F&C.mp3
+   28. __SONG IDEAS__/Time's Running Out (Repent)/Repent Drums.mp3
+   29. __SONG IDEAS__/Tune that's been in my head -- piano.mp3
+   30. __SONG IDEAS__/Whatchu Want/Ideas/Whatchu Want -- with improv.mp3
+  ... and 42 more
+
+Priority 5 (3 files):
+    1. You Are God, Amen/God You Are The Highest God -- live video.mov
+    2. You Are God, Amen/To Know Your Son.mov
+    3. You Are God, Amen/To Know Your Son_02.mov
+
+Priority 6 (8 files):
+    1. __SONG IDEAS__/Time's Running Out (Repent)/Time's Running Out (with rotating key signature).m4v
+    2. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Ableton Project Info/Project8_1.cfg
+    3. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/testing things with MPKII.als
+    4. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Whatchu Want -- LIVE (w click panning etc).als
+    5. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Whatchu Want.als
+    6. I Just Wanna Listen To You.pages/preview.jpg
+    7. Jesus! Jesus! (Jesus The Mighty One)/Jesus! Jesus! Lyrics and Chords.JPG
+    8. The Unlovely One.pages/preview.jpg
+
+Priority 9 (37 files):
+    1. I Just Wanna Listen To You.pages/Data/Hardcover_bullet_black-13.png
+    2. I Just Wanna Listen To You.pages/Metadata/DocumentIdentifier
+    3. I Just Wanna Listen To You.pages/preview-micro.jpg
+    4. I Just Wanna Listen To You.pages/preview-web.jpg
+    5. The Unlovely One.pages/Data/Hardcover_bullet_black-13.png
+    6. The Unlovely One.pages/Metadata/DocumentIdentifier
+    7. The Unlovely One.pages/preview-micro.jpg
+    8. The Unlovely One.pages/preview-web.jpg
+    9. __SONG IDEAS__/Time's Running Out (Repent)/Repent Drums.mp3.asd
+   10. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Processed/Crop/E riff.aif.asd
+   11. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0001 3-Audio-1.aif.asd
+   12. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0001 3-Audio.aif.asd
+   13. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0003 3-Audio-1.aif.asd
+   14. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0004 3-Audio-1.aif.asd
+   15. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0004 3-Audio.aif.asd
+   16. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0006 3-Audio.aif.asd
+   17. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0007 3-Audio.aif.asd
+   18. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0008 3-Audio.aif.asd
+   19. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0014 3-Audio.aif.asd
+   20. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0016 3-Audio.aif.asd
+   21. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0019 Guitar.aif.asd
+   22. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0020 Guitar.aif.asd
+   23. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0021 Guitar.aif.asd
+   24. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0022 Guitar.aif.asd
+   25. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0025 Guitar.aif.asd
+   26. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0027 Guitar.aif.asd
+   27. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0028 Guitar.aif.asd
+   28. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0029 Guitar.aif.asd
+   29. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Whatchu Want-more.aif.asd
+   30. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Whatchu Want.aif.asd
+  ... and 7 more
+
+Conflict copies (review manually):
+  - Ever Deeper/Ever Deeper (from backup).pages
+  - Following Your Voice/Figuring out chords -- guitar + bass combined (from backup).rtf
+  - Following Your Voice/Following Your Voice-2 (from backup).reason
+  - I Look Up To The Holy God/I Look Up To The Holy God - C#m (from backup).pages

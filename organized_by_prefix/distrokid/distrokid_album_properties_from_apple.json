@@ -1,0 +1,577 @@
+{
+  "Raj": {
+    "artist": "Ryan Vegh",
+    "album": "Raj",
+    "genre": "Christian",
+    "release_date": "2012-11-16",
+    "track_count": 15,
+    "status": "Released",
+    "store_url": "https://music.apple.com/us/album/raj/1633937254?uo=4",
+    "tracks": [
+      {
+        "track_number": 1,
+        "title": "My Name Is Raj",
+        "duration": "1:01",
+        "duration_ms": 61589,
+        "genre": "Christian",
+        "release_date": "2012-11-16",
+        "status": "Released"
+      },
+      {
+        "track_number": 2,
+        "title": "Way of the Wise",
+        "duration": "4:21",
+        "duration_ms": 261517,
+        "genre": "Christian",
+        "release_date": "2012-11-16",
+        "status": "Released"
+      },
+      {
+        "track_number": 3,
+        "title": "Everybody Let's Vacate",
+        "duration": "3:40",
+        "duration_ms": 220444,
+        "genre": "Christian",
+        "release_date": "2012-11-16",
+        "status": "Released"
+      },
+      {
+        "track_number": 4,
+        "title": "My Heart Was Lost",
+        "duration": "1:30",
+        "duration_ms": 90000,
+        "genre": "Christian",
+        "release_date": "2012-11-16",
+        "status": "Released"
+      },
+      {
+        "track_number": 5,
+        "title": "Lost In Your Love",
+        "duration": "2:30",
+        "duration_ms": 150075,
+        "genre": "Christian",
+        "release_date": "2012-11-16",
+        "status": "Released"
+      },
+      {
+        "track_number": 6,
+        "title": "I Waited",
+        "duration": "1:06",
+        "duration_ms": 66000,
+        "genre": "Christian",
+        "release_date": "2012-11-16",
+        "status": "Released"
+      },
+      {
+        "track_number": 7,
+        "title": "Psychotic Vengeance",
+        "duration": "1:05",
+        "duration_ms": 65250,
+        "genre": "Christian",
+        "release_date": "2012-11-16",
+        "status": "Released"
+      },
+      {
+        "track_number": 8,
+        "title": "The World Is a Bright Blossom",
+        "duration": "2:16",
+        "duration_ms": 136800,
+        "genre": "Christian",
+        "release_date": "2012-11-16",
+        "status": "Released"
+      },
+      {
+        "track_number": 9,
+        "title": "Lullaby To a Deluded Patient",
+        "duration": "1:04",
+        "duration_ms": 64606,
+        "genre": "Christian",
+        "release_date": "2012-11-16",
+        "status": "Released"
+      },
+      {
+        "track_number": 10,
+        "title": "Life's a Dream",
+        "duration": "2:38",
+        "duration_ms": 158880,
+        "genre": "Christian",
+        "release_date": "2012-11-16",
+        "status": "Released"
+      },
+      {
+        "track_number": 11,
+        "title": "Psycho",
+        "duration": "4:46",
+        "duration_ms": 286500,
+        "genre": "Christian",
+        "release_date": "2012-11-16",
+        "status": "Released"
+      },
+      {
+        "track_number": 12,
+        "title": "Hawk Song",
+        "duration": "3:48",
+        "duration_ms": 228000,
+        "genre": "Christian",
+        "release_date": "2012-11-16",
+        "status": "Released"
+      },
+      {
+        "track_number": 13,
+        "title": "Prodigal Son Song",
+        "duration": "3:38",
+        "duration_ms": 218734,
+        "genre": "Christian",
+        "release_date": "2012-11-16",
+        "status": "Released"
+      },
+      {
+        "track_number": 14,
+        "title": "Hard To Get",
+        "duration": "3:36",
+        "duration_ms": 216632,
+        "genre": "Christian",
+        "release_date": "2012-11-16",
+        "status": "Released"
+      },
+      {
+        "track_number": 15,
+        "title": "The Heavenly Ethnicity",
+        "duration": "2:04",
+        "duration_ms": 124000,
+        "genre": "Christian",
+        "release_date": "2012-11-16",
+        "status": "Released"
+      }
+    ]
+  },
+  "The Moonlit Sunrise": {
+    "artist": "Ryan Vegh",
+    "album": "The Moonlit Sunrise",
+    "genre": "Christian",
+    "release_date": "2011-08-21",
+    "track_count": 14,
+    "status": "Released",
+    "store_url": "https://music.apple.com/us/album/the-moonlit-sunrise/1633694452?uo=4",
+    "tracks": [
+      {
+        "track_number": 1,
+        "title": "Moonlight Upon the First Sunrise",
+        "duration": "0:25",
+        "duration_ms": 25310,
+        "genre": "Christian",
+        "release_date": "2011-08-21",
+        "status": "Released"
+      },
+      {
+        "track_number": 2,
+        "title": "Second Chances",
+        "duration": "3:38",
+        "duration_ms": 218070,
+        "genre": "Christian",
+        "release_date": "2011-08-21",
+        "status": "Released"
+      },
+      {
+        "track_number": 3,
+        "title": "The Sunday Show",
+        "duration": "2:31",
+        "duration_ms": 151458,
+        "genre": "Christian",
+        "release_date": "2011-08-21",
+        "status": "Released"
+      },
+      {
+        "track_number": 4,
+        "title": "Ever Deeper",
+        "duration": "3:35",
+        "duration_ms": 215040,
+        "genre": "Christian",
+        "release_date": "2011-08-21",
+        "status": "Released"
+      },
+      {
+        "track_number": 5,
+        "title": "License To Live",
+        "duration": "5:01",
+        "duration_ms": 301401,
+        "genre": "Christian",
+        "release_date": "2011-08-21",
+        "status": "Released"
+      },
+      {
+        "track_number": 6,
+        "title": "A Time",
+        "duration": "1:25",
+        "duration_ms": 85002,
+        "genre": "Christian",
+        "release_date": "2011-08-21",
+        "status": "Released"
+      },
+      {
+        "track_number": 7,
+        "title": "The Writer",
+        "duration": "7:47",
+        "duration_ms": 467853,
+        "genre": "Christian",
+        "release_date": "2011-08-21",
+        "status": "Released"
+      },
+      {
+        "track_number": 8,
+        "title": "People Are People",
+        "duration": "2:40",
+        "duration_ms": 160868,
+        "genre": "Christian",
+        "release_date": "2011-08-21",
+        "status": "Released"
+      },
+      {
+        "track_number": 9,
+        "title": "Temptation",
+        "duration": "4:00",
+        "duration_ms": 240744,
+        "genre": "Christian",
+        "release_date": "2011-08-21",
+        "status": "Released"
+      },
+      {
+        "track_number": 10,
+        "title": "Devil Battle",
+        "duration": "6:38",
+        "duration_ms": 398594,
+        "genre": "Christian",
+        "release_date": "2011-08-21",
+        "status": "Released"
+      },
+      {
+        "track_number": 11,
+        "title": "Be It Unto Me",
+        "duration": "3:09",
+        "duration_ms": 189283,
+        "genre": "Christian",
+        "release_date": "2011-08-21",
+        "status": "Released"
+      },
+      {
+        "track_number": 12,
+        "title": "Blazing Light of God",
+        "duration": "5:02",
+        "duration_ms": 302550,
+        "genre": "Christian",
+        "release_date": "2011-08-21",
+        "status": "Released"
+      },
+      {
+        "track_number": 13,
+        "title": "Walking In the Garden",
+        "duration": "4:25",
+        "duration_ms": 265242,
+        "genre": "Christian",
+        "release_date": "2011-08-21",
+        "status": "Released"
+      },
+      {
+        "track_number": 14,
+        "title": "Sweet Chaos",
+        "duration": "4:07",
+        "duration_ms": 247014,
+        "genre": "Christian",
+        "release_date": "2011-08-21",
+        "status": "Released"
+      }
+    ]
+  },
+  "The Early Years": {
+    "artist": "Ryan Vegh",
+    "album": "The Early Years - EP",
+    "genre": "Christian",
+    "release_date": "2008-07-23",
+    "track_count": 6,
+    "status": "Released",
+    "store_url": "https://music.apple.com/us/album/the-early-years-ep/1632854052?uo=4",
+    "tracks": [
+      {
+        "track_number": 1,
+        "title": "You Are the Light",
+        "duration": "3:56",
+        "duration_ms": 236211,
+        "genre": "Christian",
+        "release_date": "2008-07-23",
+        "status": "Released"
+      },
+      {
+        "track_number": 2,
+        "title": "In Thee, O Lord",
+        "duration": "5:09",
+        "duration_ms": 309981,
+        "genre": "Christian",
+        "release_date": "2008-07-23",
+        "status": "Released"
+      },
+      {
+        "track_number": 3,
+        "title": "Children of God",
+        "duration": "3:29",
+        "duration_ms": 209880,
+        "genre": "Christian",
+        "release_date": "2008-07-23",
+        "status": "Released"
+      },
+      {
+        "track_number": 4,
+        "title": "My God",
+        "duration": "3:29",
+        "duration_ms": 209828,
+        "genre": "Christian",
+        "release_date": "2008-07-23",
+        "status": "Released"
+      },
+      {
+        "track_number": 5,
+        "title": "Thank You, Lord",
+        "duration": "3:04",
+        "duration_ms": 184645,
+        "genre": "Christian",
+        "release_date": "2008-07-23",
+        "status": "Released"
+      },
+      {
+        "track_number": 6,
+        "title": "I Need Your Help Again",
+        "duration": "2:09",
+        "duration_ms": 129423,
+        "genre": "Christian",
+        "release_date": "2008-07-23",
+        "status": "Released"
+      }
+    ]
+  },
+  "Good News": {
+    "artist": "Ryan Vegh",
+    "album": "Good News",
+    "genre": "Christian",
+    "release_date": "2022-09-11",
+    "track_count": 24,
+    "status": "Released",
+    "store_url": "https://music.apple.com/us/album/good-news/1644449665?uo=4",
+    "tracks": [
+      {
+        "track_number": 1,
+        "title": "Chess",
+        "duration": "1:49",
+        "duration_ms": 109216,
+        "genre": "Christian",
+        "release_date": "2022-09-11",
+        "status": "Released"
+      },
+      {
+        "track_number": 2,
+        "title": "In the Beginning",
+        "duration": "2:40",
+        "duration_ms": 160082,
+        "genre": "Christian",
+        "release_date": "2022-09-11",
+        "status": "Released"
+      },
+      {
+        "track_number": 3,
+        "title": "Walking In the Garden",
+        "duration": "4:49",
+        "duration_ms": 289028,
+        "genre": "Christian",
+        "release_date": "2022-09-11",
+        "status": "Released"
+      },
+      {
+        "track_number": 4,
+        "title": "Sin's Descent",
+        "duration": "3:03",
+        "duration_ms": 183660,
+        "genre": "Christian",
+        "release_date": "2022-09-11",
+        "status": "Released"
+      },
+      {
+        "track_number": 5,
+        "title": "God's Provision",
+        "duration": "3:25",
+        "duration_ms": 205814,
+        "genre": "Christian",
+        "release_date": "2022-09-11",
+        "status": "Released"
+      },
+      {
+        "track_number": 6,
+        "title": "His Name Is Jesus",
+        "duration": "4:20",
+        "duration_ms": 260205,
+        "genre": "Christian",
+        "release_date": "2022-09-11",
+        "status": "Released"
+      },
+      {
+        "track_number": 7,
+        "title": "Admit It & Quit",
+        "duration": "2:32",
+        "duration_ms": 152308,
+        "genre": "Christian",
+        "release_date": "2022-09-11",
+        "status": "Released"
+      },
+      {
+        "track_number": 8,
+        "title": "Time's Running Out (Repent)",
+        "duration": "8:01",
+        "duration_ms": 481226,
+        "genre": "Christian",
+        "release_date": "2022-09-11",
+        "status": "Released"
+      },
+      {
+        "track_number": 9,
+        "title": "Believe In Jesus",
+        "duration": "3:51",
+        "duration_ms": 231624,
+        "genre": "Christian",
+        "release_date": "2022-09-11",
+        "status": "Released"
+      },
+      {
+        "track_number": 10,
+        "title": "It's So Sweet",
+        "duration": "5:44",
+        "duration_ms": 344273,
+        "genre": "Christian",
+        "release_date": "2022-09-11",
+        "status": "Released"
+      },
+      {
+        "track_number": 11,
+        "title": "A Bath & a Burial",
+        "duration": "3:21",
+        "duration_ms": 201426,
+        "genre": "Christian",
+        "release_date": "2022-09-11",
+        "status": "Released"
+      },
+      {
+        "track_number": 12,
+        "title": "I Died With Jesus",
+        "duration": "6:15",
+        "duration_ms": 375197,
+        "genre": "Christian",
+        "release_date": "2022-09-11",
+        "status": "Released"
+      },
+      {
+        "track_number": 13,
+        "title": "Receive the Holy Spirit",
+        "duration": "4:58",
+        "duration_ms": 298146,
+        "genre": "Christian",
+        "release_date": "2022-09-11",
+        "status": "Released"
+      },
+      {
+        "track_number": 14,
+        "title": "Following Your",
+        "duration": "6:05",
+        "duration_ms": 365445,
+        "genre": "Christian",
+        "release_date": "2022-09-11",
+        "status": "Released"
+      },
+      {
+        "track_number": 15,
+        "title": "Continue In the Faith",
+        "duration": "6:06",
+        "duration_ms": 366329,
+        "genre": "Christian",
+        "release_date": "2022-09-11",
+        "status": "Released"
+      },
+      {
+        "track_number": 16,
+        "title": "God, Make That Fruit Grow",
+        "duration": "4:07",
+        "duration_ms": 247500,
+        "genre": "Christian",
+        "release_date": "2022-09-11",
+        "status": "Released"
+      },
+      {
+        "track_number": 17,
+        "title": "We're Sent Out",
+        "duration": "4:25",
+        "duration_ms": 265405,
+        "genre": "Christian",
+        "release_date": "2022-09-11",
+        "status": "Released"
+      },
+      {
+        "track_number": 18,
+        "title": "Livin' For the King",
+        "duration": "4:41",
+        "duration_ms": 281862,
+        "genre": "Christian",
+        "release_date": "2022-09-11",
+        "status": "Released"
+      },
+      {
+        "track_number": 19,
+        "title": "The End Is Coming",
+        "duration": "3:00",
+        "duration_ms": 180688,
+        "genre": "Christian",
+        "release_date": "2022-09-11",
+        "status": "Released"
+      },
+      {
+        "track_number": 20,
+        "title": "Come Soon",
+        "duration": "4:47",
+        "duration_ms": 287599,
+        "genre": "Christian",
+        "release_date": "2022-09-11",
+        "status": "Released"
+      },
+      {
+        "track_number": 21,
+        "title": "Your Move",
+        "duration": "0:45",
+        "duration_ms": 45119,
+        "genre": "Christian",
+        "release_date": "2022-09-11",
+        "status": "Released"
+      },
+      {
+        "track_number": 22,
+        "title": "Born Again",
+        "duration": "1:44",
+        "duration_ms": 104847,
+        "genre": "Christian",
+        "release_date": "2022-09-11",
+        "status": "Released"
+      },
+      {
+        "track_number": 23,
+        "title": "Next Steps",
+        "duration": "3:44",
+        "duration_ms": 224851,
+        "genre": "Christian",
+        "release_date": "2022-09-11",
+        "status": "Released"
+      },
+      {
+        "track_number": 24,
+        "title": "For the Rest of the Night",
+        "duration": "4:45",
+        "duration_ms": 285024,
+        "genre": "Christian",
+        "release_date": "2022-09-11",
+        "status": "Released"
+      }
+    ]
+  }
+}

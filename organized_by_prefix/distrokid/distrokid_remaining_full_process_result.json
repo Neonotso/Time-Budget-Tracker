@@ -1,0 +1,36 @@
+{
+  "download_candidates_seen": 6,
+  "matched_to_song_folder": 0,
+  "unmatched_count": 6,
+  "converted_count": 0,
+  "moved_to_canonical_count": 0,
+  "trashed_count": 0,
+  "md_updated_count": 0,
+  "unmatched": [
+    {
+      "file": "4MyGod.aif",
+      "parsed_title": "My God"
+    },
+    {
+      "file": "2InTheeOLord.aiff",
+      "parsed_title": "In Thee OLord"
+    },
+    {
+      "file": "5ThankYouLord.aif",
+      "parsed_title": "Thank You Lord"
+    },
+    {
+      "file": "6INeedYourHelpAgain.aiff",
+      "parsed_title": "INeed Your Help Again"
+    },
+    {
+      "file": "3ChildrenOfGod.aif",
+      "parsed_title": "Children Of God"
+    },
+    {
+      "file": "1YouAreTheLight.aiff",
+      "parsed_title": "You Are The Light"
+    }
+  ],
+  "errors": []
+}

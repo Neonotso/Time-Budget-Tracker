@@ -1,0 +1,177 @@
+{
+  "updated_files_count": 19,
+  "links_moved_count": 25,
+  "moves_sample": [
+    {
+      "file": "Blazing Light of God/Blazing Light of God.md",
+      "moved_link": "Blazing Light of God - key of E with detune.doc",
+      "from": "lyrics",
+      "to": "chords"
+    },
+    {
+      "file": "Blazing Light of God/Blazing Light of God.md",
+      "moved_link": "Blazing Light of God - Key of Em - 2-22-24.pages",
+      "from": "lyrics",
+      "to": "chords"
+    },
+    {
+      "file": "Blazing Light of God/Blazing Light of God.md",
+      "moved_link": "Blazing Light of God - Key of Em - 2-22-24.pdf",
+      "from": "lyrics",
+      "to": "chords"
+    },
+    {
+      "file": "Blazing Light of God/Blazing Light of God.md",
+      "moved_link": "Blazing Light of God - WO chords.doc.doc",
+      "from": "lyrics",
+      "to": "chords"
+    },
+    {
+      "file": "Without A Cause/Without A Cause.md",
+      "moved_link": "Without A Cause - WO chords.doc",
+      "from": "lyrics",
+      "to": "chords"
+    },
+    {
+      "file": "Second Chances/Second Chances.md",
+      "moved_link": "Second Chances WO chords.doc",
+      "from": "lyrics",
+      "to": "chords"
+    },
+    {
+      "file": "Way of the Wise/Way of the Wise.md",
+      "moved_link": "Way of the Wise WO chords - editing.doc",
+      "from": "lyrics",
+      "to": "chords"
+    },
+    {
+      "file": "Way of the Wise/Way of the Wise.md",
+      "moved_link": "Way of the Wise WO chords.doc",
+      "from": "lyrics",
+      "to": "chords"
+    },
+    {
+      "file": "The Writer/The Writer.md",
+      "moved_link": "The Writer WO chords old.doc",
+      "from": "lyrics",
+      "to": "chords"
+    },
+    {
+      "file": "The Writer/The Writer.md",
+      "moved_link": "The Writer WO chords.docx",
+      "from": "lyrics",
+      "to": "chords"
+    },
+    {
+      "file": "People Are People/People Are People.md",
+      "moved_link": "People Are People-WOchords.doc",
+      "from": "lyrics",
+      "to": "chords"
+    },
+    {
+      "file": "__CO-WRITES__/Eric Gommesen/Eric Gommesen.md",
+      "moved_link": "Spirit Of The Lord Moves.txt",
+      "from": "lyrics",
+      "to": "chords"
+    },
+    {
+      "file": "__MY ARRANGEMENTS__/Psalm 5/Psalm 5.md",
+      "moved_link": "Psalm 5.txt",
+      "from": "lyrics",
+      "to": "chords"
+    },
+    {
+      "file": "__MY ARRANGEMENTS__/God, Be My Vision/God, Be My Vision.md",
+      "moved_link": "God_Be_My_Vision_(easy_to_play).rtf",
+      "from": "lyrics",
+      "to": "chords"
+    },
+    {
+      "file": "__OLD__/In Thee, O Lord/In Thee, O Lord.md",
+      "moved_link": "In Thee, O Lord - WO chords.doc",
+      "from": "lyrics",
+      "to": "chords"
+    },
+    {
+      "file": "__OLD__/In All Things/In All Things.md",
+      "moved_link": "In All Things - WO chords.doc",
+      "from": "lyrics",
+      "to": "chords"
+    },
+    {
+      "file": "__OLD__/Unknown and Misunderstood/Unknown and Misunderstood.md",
+      "moved_link": "Unknown and Misunderstood WO chords.doc",
+      "from": "lyrics",
+      "to": "chords"
+    },
+    {
+      "file": "__OLD__/Just Look Around/Just Look Around.md",
+      "moved_link": "Just Look Around - WO chords - most recent.doc",
+      "from": "lyrics",
+      "to": "chords"
+    },
+    {
+      "file": "__OLD__/You Are The Light/You Are The Light.md",
+      "moved_link": "You Are The Light-without chords.rtf",
+      "from": "lyrics",
+      "to": "chords"
+    },
+    {
+      "file": "__OLD__/You Are The Light/You Are The Light.md",
+      "moved_link": "You Are The Light-without chords_2.rtf",
+      "from": "lyrics",
+      "to": "chords"
+    },
+    {
+      "file": "__OLD__/God Is In The Business/God Is In The Business.md",
+      "moved_link": "God Is In The Business WO chords.doc",
+      "from": "lyrics",
+      "to": "chords"
+    },
+    {
+      "file": "__OLD__/Bring Us To You/Bring Us To You.md",
+      "moved_link": "Bring Them To You WO chords.doc",
+      "from": "lyrics",
+      "to": "chords"
+    },
+    {
+      "file": "__OLD__/You Are The Light/Old/You are the Light-without chords/You are the Light-without chords.md",
+      "moved_link": "You are the Light-without chords.rtf",
+      "from": "lyrics",
+      "to": "chords"
+    },
+    {
+      "file": "__OLD__/In Thee, O Lord/Old and Others/In Thee, O Lord - OLD key of G/In Thee, O Lord - OLD key of G.md",
+      "moved_link": "In Thee, O Lord - OLD key of G.doc",
+      "from": "lyrics",
+      "to": "chords"
+    },
+    {
+      "file": "Taste And See/Chords/Taste And See - no bridge - key of A/Taste And See - no bridge - key of A.md",
+      "moved_link": "Taste And See - no bridge - key of A.pdf",
+      "from": "lyrics",
+      "to": "chords"
+    }
+  ],
+  "updated_files_sample": [
+    "Blazing Light of God/Blazing Light of God.md",
+    "Without A Cause/Without A Cause.md",
+    "Second Chances/Second Chances.md",
+    "Way of the Wise/Way of the Wise.md",
+    "The Writer/The Writer.md",
+    "People Are People/People Are People.md",
+    "__CO-WRITES__/Eric Gommesen/Eric Gommesen.md",
+    "__MY ARRANGEMENTS__/Psalm 5/Psalm 5.md",
+    "__MY ARRANGEMENTS__/God, Be My Vision/God, Be My Vision.md",
+    "__OLD__/In Thee, O Lord/In Thee, O Lord.md",
+    "__OLD__/In All Things/In All Things.md",
+    "__OLD__/Unknown and Misunderstood/Unknown and Misunderstood.md",
+    "__OLD__/Just Look Around/Just Look Around.md",
+    "__OLD__/You Are The Light/You Are The Light.md",
+    "__OLD__/God Is In The Business/God Is In The Business.md",
+    "__OLD__/Bring Us To You/Bring Us To You.md",
+    "__OLD__/You Are The Light/Old/You are the Light-without chords/You are the Light-without chords.md",
+    "__OLD__/In Thee, O Lord/Old and Others/In Thee, O Lord - OLD key of G/In Thee, O Lord - OLD key of G.md",
+    "Taste And See/Chords/Taste And See - no bridge - key of A/Taste And See - no bridge - key of A.md"
+  ]
+}

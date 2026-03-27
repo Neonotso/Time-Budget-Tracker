@@ -1,0 +1,3721 @@
+{
+  "removed_identical_archived_md_count": 0,
+  "kept_different_archived_md_count": 237,
+  "removed_empty_md_archive_dirs_count": 0,
+  "errors_count": 0,
+  "removed_identical_archived_md": [],
+  "kept_different_archived_md": [
+    {
+      "archive_dir": "Blazing Light of God/_md_archive",
+      "file": "Blazing Light of God/_md_archive/Blazing Light of God - WO chords.doc.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Ryan Vegh - Blazing Light of God with notes",
+        "+title: Blazing Light of God - WO chords.doc",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "Blazing Light of God/_md_archive",
+      "file": "Blazing Light of God/_md_archive/Blazing_Light_of_God_-_key_of_Bm_-_8-string_on_Fender_amp.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Ryan Vegh - Blazing Light of God with notes",
+        "+title: Blazing_Light_of_God_-_key_of_Bm_-_8-string_on_Fender_amp",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "Blazing Light of God/_md_archive",
+      "file": "Blazing Light of God/_md_archive/Blazing Light of God ba5b312faa3f47588fba360a9c34ea5c.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,10 @@\n",
+        "----",
+        "-title: Ryan Vegh - Blazing Light of God with notes",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "Blazing Light of God/_md_archive",
+      "file": "Blazing Light of God/_md_archive/Blazing Light of God - Key of Em - 2-22-24.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Ryan Vegh - Blazing Light of God with notes",
+        "+title: Blazing Light of God - Key of Em - 2-22-24",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "Blazing Light of God/_md_archive",
+      "file": "Blazing Light of God/_md_archive/Blazing Light of God - key of E with detune.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Ryan Vegh - Blazing Light of God with notes",
+        "+title: Blazing Light of God - key of E with detune",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "God Almighty Lord Of All/_md_archive",
+      "file": "God Almighty Lord Of All/_md_archive/God Almighty Quartal ending.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: more God Almighty",
+        "+title: God Almighty Quartal ending",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "God Almighty Lord Of All/_md_archive",
+      "file": "God Almighty Lord Of All/_md_archive/God Almighty - 3.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: more God Almighty",
+        "+title: God Almighty - 3",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "God Almighty Lord Of All/_md_archive",
+      "file": "God Almighty Lord Of All/_md_archive/God Almighty - 2.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: more God Almighty",
+        "+title: God Almighty - 2",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "God Almighty Lord Of All/_md_archive",
+      "file": "God Almighty Lord Of All/_md_archive/God Almighty - 5.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: more God Almighty",
+        "+title: God Almighty - 5",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "God Almighty Lord Of All/_md_archive",
+      "file": "God Almighty Lord Of All/_md_archive/More of God Almighty.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: more God Almighty",
+        "+title: More of God Almighty",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "God Almighty Lord Of All/_md_archive",
+      "file": "God Almighty Lord Of All/_md_archive/God Almighty - 1.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: more God Almighty",
+        "+title: God Almighty - 1",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "God Almighty Lord Of All/_md_archive",
+      "file": "God Almighty Lord Of All/_md_archive/God Almighty - 0.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: more God Almighty",
+        "+title: God Almighty - 0",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "God Almighty Lord Of All/_md_archive",
+      "file": "God Almighty Lord Of All/_md_archive/God Almighty - 4.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: more God Almighty",
+        "+title: God Almighty - 4",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "God Almighty Lord Of All/_md_archive",
+      "file": "God Almighty Lord Of All/_md_archive/God Almighty Lord Of All - NEW.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: more God Almighty",
+        "+title: God Almighty Lord Of All - NEW",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "God Almighty Lord Of All/_md_archive",
+      "file": "God Almighty Lord Of All/_md_archive/God Almighty, Lord of All 032843cec8ef442d8ad5f93a0f29f7d8.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,8 @@\n",
+        "----",
+        "-title: more God Almighty",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "My, My Mind/_md_archive",
+      "file": "My, My Mind/_md_archive/My, My Mind 9b9f353c3cf044668128886b6b60d892.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,9 @@\n",
+        "----",
+        "-title: My, My Mind",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "Without A Cause/_md_archive",
+      "file": "Without A Cause/_md_archive/Without A Cause -- weird chords.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Without A Cause - original",
+        "+title: Without A Cause -- weird chords",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "Without A Cause/_md_archive",
+      "file": "Without A Cause/_md_archive/Without A Cause - WO chords.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Without A Cause - original",
+        "+title: Without A Cause - WO chords",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "Without A Cause/_md_archive",
+      "file": "Without A Cause/_md_archive/Without A Cause -- D editing (missing some parts).md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Without A Cause - original",
+        "+title: Without A Cause -- D editing (missing some parts)",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "Without A Cause/_md_archive",
+      "file": "Without A Cause/_md_archive/Without A Cause - new in D (w: extensions).md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Without A Cause - original",
+        "+title: Without A Cause - new in D (w: extensions)",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "Walking In The Garden/_md_archive",
+      "file": "Walking In The Garden/_md_archive/walking in the garden idea.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Walking In The Garden with chords (extensions)",
+        "+title: walking in the garden idea",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "Time's Running Out (Repent)/_md_archive",
+      "file": "Time's Running Out (Repent)/_md_archive/Time's Running Out (Don't Die).md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Time's Running Out (with rotating key signature)",
+        "+title: Time's Running Out (Don't Die)",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "God, Make That Fruit Grow/_md_archive",
+      "file": "God, Make That Fruit Grow/_md_archive/God, Make That Fruit Grow 060d5c45feca49ad8503f15192d2125d.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,10 @@\n",
+        "----",
+        "-title: end_of_Chorus__God_Make_That_Fruit_G-g-g-g-grow!",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "God, Make That Fruit Grow/_md_archive",
+      "file": "God, Make That Fruit Grow/_md_archive/New_Verse_for_God_Make_That_Fruit_Grow.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: end_of_Chorus__God_Make_That_Fruit_G-g-g-g-grow!",
+        "+title: New_Verse_for_God_Make_That_Fruit_Grow",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "Beautiful Flower Of God/_md_archive",
+      "file": "(all)",
+      "reason": "canonical_missing"
+    },
+    {
+      "archive_dir": "Be Near To Me/_md_archive",
+      "file": "Be Near To Me/_md_archive/Be Near To Me BARITONE -- starting to figure a little bit out.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,8 +1,30 @@\n",
+        "-# Be Near To Me",
+        "+---",
+        "+title: Be Near To Me BARITONE -- starting to figure a little bit out",
+        "+status: finished",
+        "+release year: 2019",
+        "+album:",
+        "+\"track #\":",
+        "+key: G",
+        "+time signature: mixed"
+      ]
+    },
+    {
+      "archive_dir": "Is Loving Worth The Loss/_md_archive",
+      "file": "Is Loving Worth The Loss/_md_archive/Chorus_transposes_Is_Loving_Worth_The_Loss.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,11 @@\n",
+        " ---",
+        "-title: Is Loving Worth The Loss",
+        "+title: Chorus_transposes_Is_Loving_Worth_The_Loss",
+        "+status: finished",
+        "+release year: 2019",
+        "+album:",
+        "+\"track #\":",
+        "+key: G",
+        "+time signature: mixed"
+      ]
+    },
+    {
+      "archive_dir": "Is Loving Worth The Loss/_md_archive",
+      "file": "Is Loving Worth The Loss/_md_archive/Is_Loving_Worth_The_Loss.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,11 @@\n",
+        " ---",
+        "-title: Is Loving Worth The Loss",
+        "+title: Is_Loving_Worth_The_Loss",
+        "+status: finished",
+        "+release year: 2019",
+        "+album:",
+        "+\"track #\":",
+        "+key: G",
+        "+time signature: mixed"
+      ]
+    },
+    {
+      "archive_dir": "Is Loving Worth The Loss/_md_archive",
+      "file": "Is Loving Worth The Loss/_md_archive/Really_high_Is_Loving_Worth_The_Loss_(Nay).md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,11 @@\n",
+        " ---",
+        "-title: Is Loving Worth The Loss",
+        "+title: Really_high_Is_Loving_Worth_The_Loss_(Nay)",
+        "+status: finished",
+        "+release year: 2019",
+        "+album:",
+        "+\"track #\":",
+        "+key: G",
+        "+time signature: mixed"
+      ]
+    },
+    {
+      "archive_dir": "Is Loving Worth The Loss/_md_archive",
+      "file": "Is Loving Worth The Loss/_md_archive/Another_verse_idea_Is_Loving_Worth_The_Loss.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,11 @@\n",
+        " ---",
+        "-title: Is Loving Worth The Loss",
+        "+title: Another_verse_idea_Is_Loving_Worth_The_Loss",
+        "+status: finished",
+        "+release year: 2019",
+        "+album:",
+        "+\"track #\":",
+        "+key: G",
+        "+time signature: mixed"
+      ]
+    },
+    {
+      "archive_dir": "Is Loving Worth The Loss/_md_archive",
+      "file": "Is Loving Worth The Loss/_md_archive/Is_Losing_Worth_The_Loss_2.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,11 @@\n",
+        " ---",
+        "-title: Is Loving Worth The Loss",
+        "+title: Is_Losing_Worth_The_Loss_2",
+        "+status: finished",
+        "+release year: 2019",
+        "+album:",
+        "+\"track #\":",
+        "+key: G",
+        "+time signature: mixed"
+      ]
+    },
+    {
+      "archive_dir": "Is Loving Worth The Loss/_md_archive",
+      "file": "Is Loving Worth The Loss/_md_archive/Bridge_idea_Is_Loving_Worth_The_Loss.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,11 @@\n",
+        " ---",
+        "-title: Is Loving Worth The Loss",
+        "+title: Bridge_idea_Is_Loving_Worth_The_Loss",
+        "+status: finished",
+        "+release year: 2019",
+        "+album:",
+        "+\"track #\":",
+        "+key: G",
+        "+time signature: mixed"
+      ]
+    },
+    {
+      "archive_dir": "Is Loving Worth The Loss/_md_archive",
+      "file": "Is Loving Worth The Loss/_md_archive/Verse_idea_Is_Loving_Worth_The_Loss.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,11 @@\n",
+        " ---",
+        "-title: Is Loving Worth The Loss",
+        "+title: Verse_idea_Is_Loving_Worth_The_Loss",
+        "+status: finished",
+        "+release year: 2019",
+        "+album:",
+        "+\"track #\":",
+        "+key: G",
+        "+time signature: mixed"
+      ]
+    },
+    {
+      "archive_dir": "Is Loving Worth The Loss/_md_archive",
+      "file": "Is Loving Worth The Loss/_md_archive/Jesus_Chorus_Is_Loving_Worth_The_Loss.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,11 @@\n",
+        " ---",
+        "-title: Is Loving Worth The Loss",
+        "+title: Jesus_Chorus_Is_Loving_Worth_The_Loss",
+        "+status: finished",
+        "+release year: 2019",
+        "+album:",
+        "+\"track #\":",
+        "+key: G",
+        "+time signature: mixed"
+      ]
+    },
+    {
+      "archive_dir": "You Prepare My Path For Me/_md_archive",
+      "file": "You Prepare My Path For Me/_md_archive/You_Prepare_My_Path_For_Me_-_page_1.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: You_Prepare_My_Path_For_Me_(finished)",
+        "+title: You_Prepare_My_Path_For_Me_-_page_1",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "You Prepare My Path For Me/_md_archive",
+      "file": "You Prepare My Path For Me/_md_archive/You Prepare My Path For Me cddc68b4c10a4660915b3e11432629f8.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,14 @@\n",
+        "----",
+        "-title: You_Prepare_My_Path_For_Me_(finished)",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "You Prepare My Path For Me/_md_archive",
+      "file": "You Prepare My Path For Me/_md_archive/You_Prepare_My_Path_For_Me copy.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: You_Prepare_My_Path_For_Me_(finished)",
+        "+title: You_Prepare_My_Path_For_Me copy",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "You Prepare My Path For Me/_md_archive",
+      "file": "You Prepare My Path For Me/_md_archive/You_Prepare_My_Path_For_Me__chorus_with_piano_chords.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: You_Prepare_My_Path_For_Me_(finished)",
+        "+title: You_Prepare_My_Path_For_Me__chorus_with_piano_chords",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "Following Your Voice/_md_archive",
+      "file": "Following Your Voice/_md_archive/Following_Your_Voice 1.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Following_Your_Voice__new_intro_part",
+        "+title: Following_Your_Voice 1",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "Following Your Voice/_md_archive",
+      "file": "Following Your Voice/_md_archive/Following Your Voice-2 (from backup).md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Following_Your_Voice__new_intro_part",
+        "+title: Following Your Voice-2 (from backup)",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "Following Your Voice/_md_archive",
+      "file": "Following Your Voice/_md_archive/Following Your Voice - 3.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Following_Your_Voice__new_intro_part",
+        "+title: Following Your Voice - 3",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "Following Your Voice/_md_archive",
+      "file": "Following Your Voice/_md_archive/Following Your Voice -- GuitarPro.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Following_Your_Voice__new_intro_part",
+        "+title: Following Your Voice -- GuitarPro",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "Following Your Voice/_md_archive",
+      "file": "Following Your Voice/_md_archive/Following_Your_Voice_verse_1.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Following_Your_Voice__new_intro_part",
+        "+title: Following_Your_Voice_verse_1",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "Following Your Voice/_md_archive",
+      "file": "Following Your Voice/_md_archive/Following_Your_Voice_-_all_the_parts.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Following_Your_Voice__new_intro_part",
+        "+title: Following_Your_Voice_-_all_the_parts",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "Following Your Voice/_md_archive",
+      "file": "Following Your Voice/_md_archive/Following Your Voice CHORDS - 08-04-21 -- see end of video for best chords.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Following_Your_Voice__new_intro_part",
+        "+title: Following Your Voice CHORDS - 08-04-21 -- see end of video for best chords",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "Following Your Voice/_md_archive",
+      "file": "Following Your Voice/_md_archive/Following Your Voice -- bass part in last Chorus.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Following_Your_Voice__new_intro_part",
+        "+title: Following Your Voice -- bass part in last Chorus",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "Following Your Voice/_md_archive",
+      "file": "Following Your Voice/_md_archive/Following Your Voice -- add Bass info.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Following_Your_Voice__new_intro_part",
+        "+title: Following Your Voice -- add Bass info",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "Following Your Voice/_md_archive",
+      "file": "Following Your Voice/_md_archive/Bridge_Following_Your_Voice.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Following_Your_Voice__new_intro_part",
+        "+title: Bridge_Following_Your_Voice",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "Following Your Voice/_md_archive",
+      "file": "Following Your Voice/_md_archive/Following Your Voice - 0.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Following_Your_Voice__new_intro_part",
+        "+title: Following Your Voice - 0",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "Following Your Voice/_md_archive",
+      "file": "Following Your Voice/_md_archive/Following Your Voice 1fa2678d11634a12b6c3bdc2bf991703.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,11 @@\n",
+        "----",
+        "-title: Following_Your_Voice__new_intro_part",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "Finding It Hard/_md_archive",
+      "file": "Finding It Hard/_md_archive/Finding It Hard 35cec4339be44ba38541f809695cce9c.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,8 @@\n",
+        "----",
+        "-title: Finding_It_Hard_-_baritone_5-27-21",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "Whom Have I In Heaven But You/_md_archive",
+      "file": "Whom Have I In Heaven But You/_md_archive/Whom Have I In Heaven But You 6e721bef6cbb4b6a98388cb40be3a097.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,9 @@\n",
+        "----",
+        "-title: Whom Have I In Heaven But You -- easy",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "Whom Have I In Heaven But You/_md_archive",
+      "file": "Whom Have I In Heaven But You/_md_archive/Whom_Have_I_In_Heaven_with_Kelly_in_chapel_Hide.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Whom Have I In Heaven But You -- easy",
+        "+title: Whom_Have_I_In_Heaven_with_Kelly_in_chapel_Hide",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "Whom Have I In Heaven But You/_md_archive",
+      "file": "Whom Have I In Heaven But You/_md_archive/Whom_Have_I_other_parts.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Whom Have I In Heaven But You -- easy",
+        "+title: Whom_Have_I_other_parts",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "My Body/_md_archive",
+      "file": "My Body/_md_archive/My Body 9e20edb44c8348b4a2e7e81a32fe1b7b.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,9 @@\n",
+        "----",
+        "-title: fun_triple_vocal_break_My_Body",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "My Body/_md_archive",
+      "file": "My Body/_md_archive/My_Body_(Temple).md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: fun_triple_vocal_break_My_Body",
+        "+title: My_Body_(Temple)",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "My Body/_md_archive",
+      "file": "My Body/_md_archive/My_Body_high_with_rumble.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: fun_triple_vocal_break_My_Body",
+        "+title: My_Body_high_with_rumble",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "My Body/_md_archive",
+      "file": "My Body/_md_archive/My_Body_(Im_Not_My_Own).md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: fun_triple_vocal_break_My_Body",
+        "+title: My_Body_(Im_Not_My_Own)",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "Come Soon/_md_archive",
+      "file": "Come Soon/_md_archive/20200421 130808 Come Soon alt lyrics -- Ever with our blessed King.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,10 +1,30 @@\n",
+        "-# Come Soon",
+        "+---",
+        "+title: 20200421 130808 Come Soon alt lyrics -- Ever with our blessed King",
+        "+status: finished",
+        "+release year: 2019",
+        "+album:",
+        "+\"track #\":",
+        "+key: G",
+        "+time signature: mixed"
+      ]
+    },
+    {
+      "archive_dir": "Come Soon/_md_archive",
+      "file": "Come Soon/_md_archive/Come_Soon__05-06-22.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,10 +1,30 @@\n",
+        "-# Come Soon",
+        "+---",
+        "+title: Come_Soon__05-06-22",
+        "+status: finished",
+        "+release year: 2019",
+        "+album:",
+        "+\"track #\":",
+        "+key: G",
+        "+time signature: mixed"
+      ]
+    },
+    {
+      "archive_dir": "Devil Battle/_md_archive",
+      "file": "Devil Battle/_md_archive/Devil Battle 6b03a6a5e9144b5a9707e3c3cd17e2ff.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,10 @@\n",
+        "----",
+        "-title: Devil_Battle_with_Firebrand_and_grit",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "Devil Battle/_md_archive",
+      "file": "Devil Battle/_md_archive/Devil Battle - writing.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Devil_Battle_with_Firebrand_and_grit",
+        "+title: Devil Battle - writing",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "You Are God, Amen/_md_archive",
+      "file": "You Are God, Amen/_md_archive/God, You Are The Highest God.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: You Are God, Amen",
+        "+title: God, You Are The Highest God",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "I Look Up To The Holy God/_md_archive",
+      "file": "I Look Up To The Holy God/_md_archive/I Look Up To The Holy God - Cm (original key).md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: I Look Up To The Holy God - C#m (Ryans-M1-Mac.hsd1.mi.comcast.net's conflicted copy 2024-06-03)",
+        "+title: I Look Up To The Holy God - Cm (original key)",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "I Look Up To The Holy God/_md_archive",
+      "file": "I Look Up To The Holy God/_md_archive/I Look Up To The Holy God - C#m - maybe old version.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: I Look Up To The Holy God - C#m (Ryans-M1-Mac.hsd1.mi.comcast.net's conflicted copy 2024-06-03)",
+        "+title: I Look Up To The Holy God - C#m - maybe old version",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "I Look Up To The Holy God/_md_archive",
+      "file": "I Look Up To The Holy God/_md_archive/I Look Up To The Holy God on Piano.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: I Look Up To The Holy God - C#m (Ryans-M1-Mac.hsd1.mi.comcast.net's conflicted copy 2024-06-03)",
+        "+title: I Look Up To The Holy God on Piano",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "The Longing Of The Soul/_md_archive",
+      "file": "The Longing Of The Soul/_md_archive/The Longing Of The Soul w: Chords--forGoodFriday.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: The Longing Of The Soul - lyrics",
+        "+title: The Longing Of The Soul w: Chords--forGoodFriday",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "Live In Purity/_md_archive",
+      "file": "Live In Purity/_md_archive/Live_In_Purity_(in_car_w_wife_Britt__Christian)_-_10-25-2020.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,73 +1,30 @@\n",
+        "-# Live In Purity",
+        "+---",
+        "+title: Live_In_Purity_(in_car_w_wife_Britt__Christian)_-_10-25-2020",
+        "+status: finished",
+        "+release year: 2019",
+        "+album:",
+        "+\"track #\":",
+        "+key: G",
+        "+time signature: mixed"
+      ]
+    },
+    {
+      "archive_dir": "Way of the Wise/_md_archive",
+      "file": "Way of the Wise/_md_archive/Way of the Wise WO chords - editing.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Way of the Wise2",
+        "+title: Way of the Wise WO chords - editing",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "Taste And See/_md_archive",
+      "file": "Taste And See/_md_archive/Taste And See 58681e3c10d24884a4eacb94a460f291.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,8 @@\n",
+        "----",
+        "-title: Taste_And_See__baritone_E_-_5-27-21",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "Taste And See/_md_archive",
+      "file": "Taste And See/_md_archive/Taste And See - Ryan Vegh - A.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Taste_And_See__baritone_E_-_5-27-21",
+        "+title: Taste And See - Ryan Vegh - A",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "Taste And See/_md_archive",
+      "file": "Taste And See/_md_archive/Taste And See - Ryan Vegh - G (capo 2).md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Taste_And_See__baritone_E_-_5-27-21",
+        "+title: Taste And See - Ryan Vegh - G (capo 2)",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "Taste And See/_md_archive",
+      "file": "Taste And See/_md_archive/Taste And See (no bridge).md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Taste_And_See__baritone_E_-_5-27-21",
+        "+title: Taste And See (no bridge)",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "Taste And See/_md_archive",
+      "file": "Taste And See/_md_archive/Taste_And_See__baritone_A_-_5-27-21.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Taste_And_See__baritone_E_-_5-27-21",
+        "+title: Taste_And_See__baritone_A_-_5-27-21",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "Up Above The Dark Plain/_md_archive",
+      "file": "(all)",
+      "reason": "canonical_missing"
+    },
+    {
+      "archive_dir": "Livin' For The King/_md_archive",
+      "file": "Livin' For The King/_md_archive/Livin_for_the_King__pause_before_last_Chorus.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Livin_For_The_King__new_Bridge",
+        "+title: Livin_for_the_King__pause_before_last_Chorus",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "Livin' For The King/_md_archive",
+      "file": "Livin' For The King/_md_archive/Livin\u2019 For The King 2ba1c8bed73f491f8c42a23ddae042a7.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,10 @@\n",
+        "----",
+        "-title: Livin_For_The_King__new_Bridge",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "Livin' For The King/_md_archive",
+      "file": "Livin' For The King/_md_archive/Livin_For_The_KingPiano_4ths_idea.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Livin_For_The_King__new_Bridge",
+        "+title: Livin_For_The_KingPiano_4ths_idea",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "Livin' For The King/_md_archive",
+      "file": "Livin' For The King/_md_archive/Livin_For_The_King__05-10-22.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Livin_For_The_King__new_Bridge",
+        "+title: Livin_For_The_King__05-10-22",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "Livin' For The King/_md_archive",
+      "file": "Livin' For The King/_md_archive/Livin_For_The_King__Bridge_with_Chords_).md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Livin_For_The_King__new_Bridge",
+        "+title: Livin_For_The_King__Bridge_with_Chords_)",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "Turn On The Light/_md_archive",
+      "file": "Turn On The Light/_md_archive/Turn_On_The_Light_-_working_on_piano_and_vocals.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,8 +1,30 @@\n",
+        "-# Turn On The Light",
+        "+---",
+        "+title: Turn_On_The_Light_-_working_on_piano_and_vocals",
+        "+status: finished",
+        "+release year: 2019",
+        "+album:",
+        "+\"track #\":",
+        "+key: G",
+        "+time signature: mixed"
+      ]
+    },
+    {
+      "archive_dir": "Whatchu Want/_md_archive",
+      "file": "Whatchu Want/_md_archive/Whatchu Want additional LYRICS.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,8 +1,30 @@\n",
+        "-# Whatchu Want",
+        "+---",
+        "+title: Whatchu Want additional LYRICS",
+        "+status: finished",
+        "+release year: 2019",
+        "+album:",
+        "+\"track #\":",
+        "+key: G",
+        "+time signature: mixed"
+      ]
+    },
+    {
+      "archive_dir": "Whatchu Want/_md_archive",
+      "file": "Whatchu Want/_md_archive/Whatchu Want BARITONE 5-21-21.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,8 +1,30 @@\n",
+        "-# Whatchu Want",
+        "+---",
+        "+title: Whatchu Want BARITONE 5-21-21",
+        "+status: finished",
+        "+release year: 2019",
+        "+album:",
+        "+\"track #\":",
+        "+key: G",
+        "+time signature: mixed"
+      ]
+    },
+    {
+      "archive_dir": "Whatchu Want/_md_archive",
+      "file": "Whatchu Want/_md_archive/more_Whatchu_Want.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,8 +1,30 @@\n",
+        "-# Whatchu Want",
+        "+---",
+        "+title: more_Whatchu_Want",
+        "+status: finished",
+        "+release year: 2019",
+        "+album:",
+        "+\"track #\":",
+        "+key: G",
+        "+time signature: mixed"
+      ]
+    },
+    {
+      "archive_dir": "God, You Are The Highest God (To Know Your Son)/_md_archive",
+      "file": "God, You Are The Highest God (To Know Your Son)/_md_archive/God, You Are The Highest God (To Know Your Son) 1ebe5a73f1d980cebce9ce9dc2ccb9b2.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,16 @@\n",
+        "----",
+        "-title: God_You_are_the_Highest_God_(To_Know_Your_Son)_-_pg_1",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "God, You Are The Highest God (To Know Your Son)/_md_archive",
+      "file": "God, You Are The Highest God (To Know Your Son)/_md_archive/You Are God, Amen.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: God_You_are_the_Highest_God_(To_Know_Your_Son)_-_pg_1",
+        "+title: You Are God, Amen",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "God, You Are The Highest God (To Know Your Son)/_md_archive",
+      "file": "God, You Are The Highest God (To Know Your Son)/_md_archive/God_You_are_the_Highest_God_(To_Know_Your_Son)_-_pg_2.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: God_You_are_the_Highest_God_(To_Know_Your_Son)_-_pg_1",
+        "+title: God_You_are_the_Highest_God_(To_Know_Your_Son)_-_pg_2",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "God, You Are The Highest God (To Know Your Son)/_md_archive",
+      "file": "God, You Are The Highest God (To Know Your Son)/_md_archive/God_You_Are_The_Highest_God_(To_Know_Your_Son)_--_capo_6.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: God_You_are_the_Highest_God_(To_Know_Your_Son)_-_pg_1",
+        "+title: God_You_Are_The_Highest_God_(To_Know_Your_Son)_--_capo_6",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "God, You Are The Highest God (To Know Your Son)/_md_archive",
+      "file": "God, You Are The Highest God (To Know Your Son)/_md_archive/God You Are The Highest God -- live video.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: God_You_are_the_Highest_God_(To_Know_Your_Son)_-_pg_1",
+        "+title: God You Are The Highest God -- live video",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "Tidal Wave Of Grace/_md_archive",
+      "file": "(all)",
+      "reason": "canonical_missing"
+    },
+    {
+      "archive_dir": "Sweet Chaos/_md_archive",
+      "file": "Sweet Chaos/_md_archive/Sweet Chaos - new song guitar idea.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Sweet Chaos - finished",
+        "+title: Sweet Chaos - new song guitar idea",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "Think About The Good Things (Always Be Thankful)/_md_archive",
+      "file": "Think About The Good Things (Always Be Thankful)/_md_archive/Think About The Good Things - Ab.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,26 +1,30 @@\n",
+        "-# Think About The Good Things (Always Be Thankful)",
+        "+---",
+        "+title: Think About The Good Things - Ab",
+        "+status: finished",
+        "+release year: 2019",
+        "+album:",
+        "+\"track #\":",
+        "+key: G",
+        "+time signature: mixed"
+      ]
+    },
+    {
+      "archive_dir": "Think About The Good Things (Always Be Thankful)/_md_archive",
+      "file": "Think About The Good Things (Always Be Thankful)/_md_archive/Think_About_The_Good_Things_(Always_Be_Thankful)_--_Philippians_and_1_Thessalonians_song.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,26 +1,30 @@\n",
+        "-# Think About The Good Things (Always Be Thankful)",
+        "+---",
+        "+title: Think_About_The_Good_Things_(Always_Be_Thankful)_--_Philippians_and_1_Thessalonians_song",
+        "+status: finished",
+        "+release year: 2019",
+        "+album:",
+        "+\"track #\":",
+        "+key: G",
+        "+time signature: mixed"
+      ]
+    },
+    {
+      "archive_dir": "The Writer/_md_archive",
+      "file": "The Writer/_md_archive/The Writer - with time sig changes marked.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,30 @@\n",
+        "-# The Writer",
+        "+---",
+        "+title: The Writer - with time sig changes marked",
+        "+status: finished",
+        "+release year: 2019",
+        "+album:",
+        "+\"track #\":",
+        "+key: G",
+        "+time signature: mixed"
+      ]
+    },
+    {
+      "archive_dir": "The Writer/_md_archive",
+      "file": "The Writer/_md_archive/The Writer - finishing.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,30 @@\n",
+        "-# The Writer",
+        "+---",
+        "+title: The Writer - finishing",
+        "+status: finished",
+        "+release year: 2019",
+        "+album:",
+        "+\"track #\":",
+        "+key: G",
+        "+time signature: mixed"
+      ]
+    },
+    {
+      "archive_dir": "The Writer/_md_archive",
+      "file": "The Writer/_md_archive/The Writer some older ideas.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,30 @@\n",
+        "-# The Writer",
+        "+---",
+        "+title: The Writer some older ideas",
+        "+status: finished",
+        "+release year: 2019",
+        "+album:",
+        "+\"track #\":",
+        "+key: G",
+        "+time signature: mixed"
+      ]
+    },
+    {
+      "archive_dir": "The Writer/_md_archive",
+      "file": "The Writer/_md_archive/The Writer - almost finished.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,30 @@\n",
+        "-# The Writer",
+        "+---",
+        "+title: The Writer - almost finished",
+        "+status: finished",
+        "+release year: 2019",
+        "+album:",
+        "+\"track #\":",
+        "+key: G",
+        "+time signature: mixed"
+      ]
+    },
+    {
+      "archive_dir": "The Writer/_md_archive",
+      "file": "The Writer/_md_archive/The Writer & Sophie's World.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,30 @@\n",
+        "-# The Writer",
+        "+---",
+        "+title: The Writer & Sophie's World",
+        "+status: finished",
+        "+release year: 2019",
+        "+album:",
+        "+\"track #\":",
+        "+key: G",
+        "+time signature: mixed"
+      ]
+    },
+    {
+      "archive_dir": "The Writer/_md_archive",
+      "file": "The Writer/_md_archive/The Writer - just words no headings.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,30 @@\n",
+        "-# The Writer",
+        "+---",
+        "+title: The Writer - just words no headings",
+        "+status: finished",
+        "+release year: 2019",
+        "+album:",
+        "+\"track #\":",
+        "+key: G",
+        "+time signature: mixed"
+      ]
+    },
+    {
+      "archive_dir": "The Writer/_md_archive",
+      "file": "The Writer/_md_archive/The Writer journal ideas.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,30 @@\n",
+        "-# The Writer",
+        "+---",
+        "+title: The Writer journal ideas",
+        "+status: finished",
+        "+release year: 2019",
+        "+album:",
+        "+\"track #\":",
+        "+key: G",
+        "+time signature: mixed"
+      ]
+    },
+    {
+      "archive_dir": "The Writer/_md_archive",
+      "file": "The Writer/_md_archive/The Writer -- Em.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,30 @@\n",
+        "-# The Writer",
+        "+---",
+        "+title: The Writer -- Em",
+        "+status: finished",
+        "+release year: 2019",
+        "+album:",
+        "+\"track #\":",
+        "+key: G",
+        "+time signature: mixed"
+      ]
+    },
+    {
+      "archive_dir": "The Writer/_md_archive",
+      "file": "The Writer/_md_archive/The Writer CHORDS.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,30 @@\n",
+        "-# The Writer",
+        "+---",
+        "+title: The Writer CHORDS",
+        "+status: finished",
+        "+release year: 2019",
+        "+album:",
+        "+\"track #\":",
+        "+key: G",
+        "+time signature: mixed"
+      ]
+    },
+    {
+      "archive_dir": "The Writer/_md_archive",
+      "file": "The Writer/_md_archive/The Writer WO chords old.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,30 @@\n",
+        "-# The Writer",
+        "+---",
+        "+title: The Writer WO chords old",
+        "+status: finished",
+        "+release year: 2019",
+        "+album:",
+        "+\"track #\":",
+        "+key: G",
+        "+time signature: mixed"
+      ]
+    },
+    {
+      "archive_dir": "I Can't Get Low Enough/_md_archive",
+      "file": "I Can't Get Low Enough/_md_archive/I_Cant_Get_Low_Enough__second_version.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: I_Cant_Get_Low_Enough__in_higher_key_at_Dwell__Elles_house",
+        "+title: I_Cant_Get_Low_Enough__second_version",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "I Can't Get Low Enough/_md_archive",
+      "file": "I Can't Get Low Enough/_md_archive/I Can\u2019t Get Low Enough_1.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: I_Cant_Get_Low_Enough__in_higher_key_at_Dwell__Elles_house",
+        "+title: I Can\u2019t Get Low Enough_1",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "I Can't Get Low Enough/_md_archive",
+      "file": "I Can't Get Low Enough/_md_archive/I Can\u2019t Get Low Enough_4.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: I_Cant_Get_Low_Enough__in_higher_key_at_Dwell__Elles_house",
+        "+title: I Can\u2019t Get Low Enough_4",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "I Can't Get Low Enough/_md_archive",
+      "file": "I Can't Get Low Enough/_md_archive/I Can\u2019t Get Low Enough_3.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: I_Cant_Get_Low_Enough__in_higher_key_at_Dwell__Elles_house",
+        "+title: I Can\u2019t Get Low Enough_3",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "I Can't Get Low Enough/_md_archive",
+      "file": "I Can't Get Low Enough/_md_archive/I Can\u2019t Get Low Enough 7b99eee869bc4c7391765aa3ae01910c.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,10 @@\n",
+        "----",
+        "-title: I_Cant_Get_Low_Enough__in_higher_key_at_Dwell__Elles_house",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "I Can't Get Low Enough/_md_archive",
+      "file": "I Can't Get Low Enough/_md_archive/I Can\u2019t Get Low Enough_2.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: I_Cant_Get_Low_Enough__in_higher_key_at_Dwell__Elles_house",
+        "+title: I Can\u2019t Get Low Enough_2",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "I Can't Get Low Enough/_md_archive",
+      "file": "I Can't Get Low Enough/_md_archive/I_Cant_Get_Low_Enough__first_version.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: I_Cant_Get_Low_Enough__in_higher_key_at_Dwell__Elles_house",
+        "+title: I_Cant_Get_Low_Enough__first_version",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "Offer My Body As A Living Sacrifice/_md_archive",
+      "file": "Offer My Body As A Living Sacrifice/_md_archive/Offer My Body As A Living Sacrifice fc7d67786b30464ea1b4ab6cb74d8dae.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,9 @@\n",
+        "----",
+        "-title: Romans_Offer_My_Body_as_a_living_Sacrifice",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "Even If You Take Everything/_md_archive",
+      "file": "Even If You Take Everything/_md_archive/Even If You Take Everything 295ac5362c3e47e28422104e71906cd3.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,9 @@\n",
+        "----",
+        "-title: Even_If_You_Take_Everything__with_words",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "Even If You Take Everything/_md_archive",
+      "file": "Even If You Take Everything/_md_archive/piano_Even_If_You_Take_Everything.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Even_If_You_Take_Everything__with_words",
+        "+title: piano_Even_If_You_Take_Everything",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "Even If You Take Everything/_md_archive",
+      "file": "Even If You Take Everything/_md_archive/Even_If_You_Take_Everything_(cool_piano_part).md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Even_If_You_Take_Everything__with_words",
+        "+title: Even_If_You_Take_Everything_(cool_piano_part)",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "Even If You Take Everything/_md_archive",
+      "file": "Even If You Take Everything/_md_archive/Even_If_You_Take_Everything__Bridge_and_all_the_singing.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Even_If_You_Take_Everything__with_words",
+        "+title: Even_If_You_Take_Everything__Bridge_and_all_the_singing",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "I Died With Jesus/_md_archive",
+      "file": "I Died With Jesus/_md_archive/I Died With Jesus 683247317c0e40c6814e82e58da41970.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,16 @@\n",
+        "----",
+        "-title: I_Died_With_Jesus",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "My Soul's Tied In Your Soul/_md_archive",
+      "file": "My Soul's Tied In Your Soul/_md_archive/writing_My_Souls_Tied_In_Your_Soul.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,9 +1,30 @@\n",
+        "-# My Soul\u2019s Tied In Your Soul",
+        "+---",
+        "+title: writing_My_Souls_Tied_In_Your_Soul",
+        "+status: finished",
+        "+release year: 2019",
+        "+album:",
+        "+\"track #\":",
+        "+key: G",
+        "+time signature: mixed"
+      ]
+    },
+    {
+      "archive_dir": "My Soul's Tied In Your Soul/_md_archive",
+      "file": "My Soul's Tied In Your Soul/_md_archive/My_Souls_Tied_In_Your_Soul_-_3.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,9 +1,30 @@\n",
+        "-# My Soul\u2019s Tied In Your Soul",
+        "+---",
+        "+title: My_Souls_Tied_In_Your_Soul_-_3",
+        "+status: finished",
+        "+release year: 2019",
+        "+album:",
+        "+\"track #\":",
+        "+key: G",
+        "+time signature: mixed"
+      ]
+    },
+    {
+      "archive_dir": "My Soul's Tied In Your Soul/_md_archive",
+      "file": "My Soul's Tied In Your Soul/_md_archive/My_Souls_Tied_In_Your_Soul_(My_Heart_Breaks).md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,9 +1,30 @@\n",
+        "-# My Soul\u2019s Tied In Your Soul",
+        "+---",
+        "+title: My_Souls_Tied_In_Your_Soul_(My_Heart_Breaks)",
+        "+status: finished",
+        "+release year: 2019",
+        "+album:",
+        "+\"track #\":",
+        "+key: G",
+        "+time signature: mixed"
+      ]
+    },
+    {
+      "archive_dir": "My Soul's Tied In Your Soul/_md_archive",
+      "file": "My Soul's Tied In Your Soul/_md_archive/My_Souls_Tied_In_Your_Soul_-_2.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,9 +1,30 @@\n",
+        "-# My Soul\u2019s Tied In Your Soul",
+        "+---",
+        "+title: My_Souls_Tied_In_Your_Soul_-_2",
+        "+status: finished",
+        "+release year: 2019",
+        "+album:",
+        "+\"track #\":",
+        "+key: G",
+        "+time signature: mixed"
+      ]
+    },
+    {
+      "archive_dir": "This Is Where I Belong/_md_archive",
+      "file": "This Is Where I Belong/_md_archive/This Is Where I Belong BARITONE - 5-24-21 (with Spider Capo and AEADGB tuning).md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: This Is Where I Belong BARITONE -- ending chord and new verse - 5-29-21",
+        "+title: This Is Where I Belong BARITONE - 5-24-21 (with Spider Capo and AEADGB tuning)",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "This Is Where I Belong/_md_archive",
+      "file": "This Is Where I Belong/_md_archive/This Is Where I Belong BARITONE (figuring it out) - 5-22-21.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: This Is Where I Belong BARITONE -- ending chord and new verse - 5-29-21",
+        "+title: This Is Where I Belong BARITONE (figuring it out) - 5-22-21",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "This Is Where I Belong/_md_archive",
+      "file": "This Is Where I Belong/_md_archive/This Is Where I Belong 241e5a73f1d980bc949ccae0e9d542ab.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,8 @@\n",
+        "----",
+        "-title: This Is Where I Belong BARITONE -- ending chord and new verse - 5-29-21",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "Ever Deeper/_md_archive",
+      "file": "Ever Deeper/_md_archive/Ever Deeper b50b46a65dcc484baa3c31da86fae23d.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,36 +1,13 @@\n",
+        "----",
+        "-title: Ever Deeper",
+        "-words: true",
+        "-audio: true",
+        "-chart: true",
+        "-status: released",
+        "-started: 2011-03-23",
+        "-released: true",
+        "-release year: 2011"
+      ]
+    },
+    {
+      "archive_dir": "Work In Progress (I Need Help Too)/_md_archive",
+      "file": "Work In Progress (I Need Help Too)/_md_archive/Work In Progress (I Need Help, Too) fffe5a73f1d980538d7add2651b65df6.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,8 @@\n",
+        "----",
+        "-title: Work In Progress (I Need Help, Too)",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "I Love You Oh My Father/_md_archive",
+      "file": "I Love You Oh My Father/_md_archive/a_little_bit_of_I_Love_You_Oh_My_Father.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: I_Love_You_Oh_My_Father",
+        "+title: a_little_bit_of_I_Love_You_Oh_My_Father",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "I Love You Oh My Father/_md_archive",
+      "file": "I Love You Oh My Father/_md_archive/I Love You, O My Father 1a5fd3d6fb2b43a49a18453f3ccd2bb4.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,96 @@\n",
+        "----",
+        "-title: I_Love_You_Oh_My_Father",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "I Love You Oh My Father/_md_archive",
+      "file": "I Love You Oh My Father/_md_archive/Bridge_for_I_Love_You_Oh_My_Father.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: I_Love_You_Oh_My_Father",
+        "+title: Bridge_for_I_Love_You_Oh_My_Father",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "I Love You Oh My Father/_md_archive",
+      "file": "I Love You Oh My Father/_md_archive/more_of_I_Love_You_O_My_Father.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: I_Love_You_Oh_My_Father",
+        "+title: more_of_I_Love_You_O_My_Father",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "Hard to Get/_md_archive",
+      "file": "Hard to Get/_md_archive/Hard_To_Get_with_Jason_Chertos.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Hard to Get chords",
+        "+title: Hard_To_Get_with_Jason_Chertos",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "Hard to Get/_md_archive",
+      "file": "Hard to Get/_md_archive/Hard To Get 23ee5a73f1d98004b3d1d4484d73d3ae.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,8 @@\n",
+        "----",
+        "-title: Hard to Get chords",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "Hard to Get/_md_archive",
+      "file": "Hard to Get/_md_archive/Hard to Get-writing.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Hard to Get chords",
+        "+title: Hard to Get-writing",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "I Love The Way/_md_archive",
+      "file": "I Love The Way/_md_archive/I Love The Way 23ee5a73f1d9806d97b5e173f0db0315.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,9 @@\n",
+        "----",
+        "-title: I Love The Way (whole song -- minus additional Choruses) BARITONE - 5-22-21",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "I Love The Way/_md_archive",
+      "file": "I Love The Way/_md_archive/I_Love_The_Way__and_in_higher_keys_too_(first_part_is_me_finding_it)_-_4-3-23.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: I Love The Way (whole song -- minus additional Choruses) BARITONE - 5-22-21",
+        "+title: I_Love_The_Way__and_in_higher_keys_too_(first_part_is_me_finding_it)_-_4-3-23",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "I Love The Way/_md_archive",
+      "file": "I Love The Way/_md_archive/I Love The Way (chords) - 5-22-21.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: I Love The Way (whole song -- minus additional Choruses) BARITONE - 5-22-21",
+        "+title: I Love The Way (chords) - 5-22-21",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "I Love The Way/_md_archive",
+      "file": "I Love The Way/_md_archive/I_Love_The_Way_-_gradually_more_full_then_key_changes_upwards_-_4-2-23.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: I Love The Way (whole song -- minus additional Choruses) BARITONE - 5-22-21",
+        "+title: I_Love_The_Way_-_gradually_more_full_then_key_changes_upwards_-_4-2-23",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "The Unlovely One/_md_archive",
+      "file": "The Unlovely One/_md_archive/The Unlovely One 4c641e35366a40dbba93e8602a4a33ea.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,8 @@\n",
+        "----",
+        "-title: The_Unlovely_One_baritone_Am",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "__CO-WRITES__/The Day Of Judgment/_md_archive",
+      "file": "__CO-WRITES__/The Day Of Judgment/_md_archive/The_Day_Of_Judgment__writing_(original_lyrics_Philip_Doddridge_born_1702).md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: The_Day_Of_Judgment__with_chords",
+        "+title: The_Day_Of_Judgment__writing_(original_lyrics_Philip_Doddridge_born_1702)",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__CO-WRITES__/The Day Of Judgment/_md_archive",
+      "file": "__CO-WRITES__/The Day Of Judgment/_md_archive/The_Day_Of_Judgment__Dm.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: The_Day_Of_Judgment__with_chords",
+        "+title: The_Day_Of_Judgment__Dm",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__CO-WRITES__/The Day Of Judgment/_md_archive",
+      "file": "__CO-WRITES__/The Day Of Judgment/_md_archive/The_Day_of_Judgment__Drum_Beat_for_Ending.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: The_Day_Of_Judgment__with_chords",
+        "+title: The_Day_of_Judgment__Drum_Beat_for_Ending",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__CO-WRITES__/The Day Of Judgment/_md_archive",
+      "file": "__CO-WRITES__/The Day Of Judgment/_md_archive/The_Day_Of_Judgment__additional_chords_at_end.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: The_Day_Of_Judgment__with_chords",
+        "+title: The_Day_Of_Judgment__additional_chords_at_end",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__CO-WRITES__/The Day Of Judgment/_md_archive",
+      "file": "__CO-WRITES__/The Day Of Judgment/_md_archive/The Day Of Judgment 7caad0495c974fccbf0115d2df5eef93.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,10 @@\n",
+        "----",
+        "-title: The_Day_Of_Judgment__with_chords",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "__CO-WRITES__/I Will Only Love My Lord/_md_archive",
+      "file": "__CO-WRITES__/I Will Only Love My Lord/_md_archive/I_Will_Only_Love_My_Lord_-_pg_1.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: I_Will_Only_Love_My_Lord__from_The_Heavenly_Man__1-12-22",
+        "+title: I_Will_Only_Love_My_Lord_-_pg_1",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__CO-WRITES__/I Will Only Love My Lord/_md_archive",
+      "file": "__CO-WRITES__/I Will Only Love My Lord/_md_archive/I_Will_Only_Love_My_Lord_ideas.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: I_Will_Only_Love_My_Lord__from_The_Heavenly_Man__1-12-22",
+        "+title: I_Will_Only_Love_My_Lord_ideas",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__CO-WRITES__/I Will Only Love My Lord/_md_archive",
+      "file": "__CO-WRITES__/I Will Only Love My Lord/_md_archive/I_Will_Only_Love_My_Lord_-_pg_2.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: I_Will_Only_Love_My_Lord__from_The_Heavenly_Man__1-12-22",
+        "+title: I_Will_Only_Love_My_Lord_-_pg_2",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__CO-WRITES__/I Will Only Love My Lord/_md_archive",
+      "file": "__CO-WRITES__/I Will Only Love My Lord/_md_archive/I Will Only Love My Lord d5de9fcb4c8844c3b7e3127240f9c3e6.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,23 @@\n",
+        "----",
+        "-title: I_Will_Only_Love_My_Lord__from_The_Heavenly_Man__1-12-22",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "__CO-WRITES__/Ken Meringa/Moments Of Grace/_md_archive",
+      "file": "(all)",
+      "reason": "canonical_missing"
+    },
+    {
+      "archive_dir": "__CO-WRITES__/Eric Gommesen/Our Lord/_md_archive",
+      "file": "__CO-WRITES__/Eric Gommesen/Our Lord/_md_archive/Our_Lord__Eric_G.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Our_Lord_-_first_go",
+        "+title: Our_Lord__Eric_G",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__MY ARRANGEMENTS__/Marvelous Light/_md_archive",
+      "file": "__MY ARRANGEMENTS__/Marvelous Light/_md_archive/Marvelous Light - RV arrangement.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Marvelous Light - Ellie Holcomb - A",
+        "+title: Marvelous Light - RV arrangement",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__MY ARRANGEMENTS__/Marvelous Light/_md_archive",
+      "file": "__MY ARRANGEMENTS__/Marvelous Light/_md_archive/Marvelous Light + Salvation Is Here medley.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Marvelous Light - Ellie Holcomb - A",
+        "+title: Marvelous Light + Salvation Is Here medley",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__MY ARRANGEMENTS__/Why - Jonathan Reynolds/_md_archive",
+      "file": "__MY ARRANGEMENTS__/Why - Jonathan Reynolds/_md_archive/Why -- Jonathan McReynolds.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Why - Jonathan Reynolds",
+        "+title: Why -- Jonathan McReynolds",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__MY ARRANGEMENTS__/This Is What You Do/_md_archive",
+      "file": "__MY ARRANGEMENTS__/This Is What You Do/_md_archive/This Is What You Do-C.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: This Is What You Do - RV arrangement",
+        "+title: This Is What You Do-C",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__MY ARRANGEMENTS__/It's So Sweet To Trust In Jesus/_md_archive",
+      "file": "__MY ARRANGEMENTS__/It's So Sweet To Trust In Jesus/_md_archive/'Tis So Sweet To Trust In Jesus.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: It's So Sweet -- Oh part =)",
+        "+title: 'Tis So Sweet To Trust In Jesus",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__MY ARRANGEMENTS__/God, Be My Vision/_md_archive",
+      "file": "__MY ARRANGEMENTS__/God, Be My Vision/_md_archive/And_guitar_God_Be_My_Vision_Chorus.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: God_Be_My_Vision_--_D_to_Eb_to_E",
+        "+title: And_guitar_God_Be_My_Vision_Chorus",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__MY ARRANGEMENTS__/God, Be My Vision/_md_archive",
+      "file": "__MY ARRANGEMENTS__/God, Be My Vision/_md_archive/God_Be_My_Vision_CHORUS_1.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: God_Be_My_Vision_--_D_to_Eb_to_E",
+        "+title: God_Be_My_Vision_CHORUS_1",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__MY ARRANGEMENTS__/God, Be My Vision/_md_archive",
+      "file": "__MY ARRANGEMENTS__/God, Be My Vision/_md_archive/God_Be_My_Vision_chorus_and_super-chorus.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: God_Be_My_Vision_--_D_to_Eb_to_E",
+        "+title: God_Be_My_Vision_chorus_and_super-chorus",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__MY ARRANGEMENTS__/God, Be My Vision/_md_archive",
+      "file": "__MY ARRANGEMENTS__/God, Be My Vision/_md_archive/God_Be_My_Vision_-_page_1.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: God_Be_My_Vision_--_D_to_Eb_to_E",
+        "+title: God_Be_My_Vision_-_page_1",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__MY ARRANGEMENTS__/God, Be My Vision/_md_archive",
+      "file": "__MY ARRANGEMENTS__/God, Be My Vision/_md_archive/God_Be_My_Vision_--_Notes_2.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: God_Be_My_Vision_--_D_to_Eb_to_E",
+        "+title: God_Be_My_Vision_--_Notes_2",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__MY ARRANGEMENTS__/God, Be My Vision/_md_archive",
+      "file": "__MY ARRANGEMENTS__/God, Be My Vision/_md_archive/God, Be My Vision 760ca19416d7450a889a008deebc5ff1.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,12 @@\n",
+        "----",
+        "-title: God_Be_My_Vision_--_D_to_Eb_to_E",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "__MY ARRANGEMENTS__/God, Be My Vision/_md_archive",
+      "file": "__MY ARRANGEMENTS__/God, Be My Vision/_md_archive/God Be My Vision (easy to play).md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: God_Be_My_Vision_--_D_to_Eb_to_E",
+        "+title: God Be My Vision (easy to play)",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__MY ARRANGEMENTS__/God, Be My Vision/_md_archive",
+      "file": "__MY ARRANGEMENTS__/God, Be My Vision/_md_archive/God_Be_My_Vision_CHORUS_2.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: God_Be_My_Vision_--_D_to_Eb_to_E",
+        "+title: God_Be_My_Vision_CHORUS_2",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__MY ARRANGEMENTS__/And Can It Be (Can It Be True)/_md_archive",
+      "file": "__MY ARRANGEMENTS__/And Can It Be (Can It Be True)/_md_archive/And Can It Be - Am-Bm (1).md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: And Can It Be - D",
+        "+title: And Can It Be - Am-Bm (1)",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__OLD__/My God/_md_archive",
+      "file": "__OLD__/My God/_md_archive/My God-withoutchords.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,9 +1,30 @@\n",
+        "-# My God",
+        "+---",
+        "+title: My God-withoutchords",
+        "+status: finished",
+        "+release year: 2019",
+        "+album:",
+        "+\"track #\":",
+        "+key: G",
+        "+time signature: mixed"
+      ]
+    },
+    {
+      "archive_dir": "__OLD__/My God/_md_archive",
+      "file": "__OLD__/My God/_md_archive/My_God_-_5-28-21.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,9 +1,30 @@\n",
+        "-# My God",
+        "+---",
+        "+title: My_God_-_5-28-21",
+        "+status: finished",
+        "+release year: 2019",
+        "+album:",
+        "+\"track #\":",
+        "+key: G",
+        "+time signature: mixed"
+      ]
+    },
+    {
+      "archive_dir": "__OLD__/The Lord Jesus Christ/_md_archive",
+      "file": "__OLD__/The Lord Jesus Christ/_md_archive/The Lord Jesus Christ-WOchords-MR.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Yeah! It's the Lord Jesus Christ",
+        "+title: The Lord Jesus Christ-WOchords-MR",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__OLD__/The Lord Jesus Christ/_md_archive",
+      "file": "__OLD__/The Lord Jesus Christ/_md_archive/The Lord Jesus Christ 248e5a73f1d98095a478e85d4114f094.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,7 @@\n",
+        "----",
+        "-title: Yeah! It's the Lord Jesus Christ",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "__OLD__/In All Things/_md_archive",
+      "file": "__OLD__/In All Things/_md_archive/In All Things journal ideas.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: In All Things - WO chords",
+        "+title: In All Things journal ideas",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__OLD__/It Is Time/_md_archive",
+      "file": "__OLD__/It Is Time/_md_archive/It Is Time 248e5a73f1d980fb916ee674a8bee9af.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,7 @@\n",
+        "----",
+        "-title: It Is Time new ideas",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "__OLD__/It Is Time/_md_archive",
+      "file": "__OLD__/It Is Time/_md_archive/It is time-withoutchords.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: It Is Time new ideas",
+        "+title: It is time-withoutchords",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__OLD__/Unknown and Misunderstood/_md_archive",
+      "file": "__OLD__/Unknown and Misunderstood/_md_archive/Unknown and Misunderstood 241e5a73f1d98028ba01e560517edb08.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,7 @@\n",
+        "----",
+        "-title: unknown and misunderstood idea",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "__OLD__/Unknown and Misunderstood/_md_archive",
+      "file": "__OLD__/Unknown and Misunderstood/_md_archive/Unknown and Misunderstood WO chords.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: unknown and misunderstood idea",
+        "+title: Unknown and Misunderstood WO chords",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__OLD__/Just Look Around/_md_archive",
+      "file": "__OLD__/Just Look Around/_md_archive/Just Look Around - WO chords - most recent.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Just Look Around-altering",
+        "+title: Just Look Around - WO chords - most recent",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__OLD__/You Are The Light/_md_archive",
+      "file": "__OLD__/You Are The Light/_md_archive/You Are The Light-without chords.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,7 +1,30 @@\n",
+        "-# You Are The Light",
+        "+---",
+        "+title: You Are The Light-without chords",
+        "+status: finished",
+        "+release year: 2019",
+        "+album:",
+        "+\"track #\":",
+        "+key: G",
+        "+time signature: mixed"
+      ]
+    },
+    {
+      "archive_dir": "__OLD__/Thank You, Lord/_md_archive",
+      "file": "__OLD__/Thank You, Lord/_md_archive/Thank You, Lord -- new chords.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Thank You, Lord-WOchords",
+        "+title: Thank You, Lord -- new chords",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__OLD__/If Tacos Could Talk-Oh!/_md_archive",
+      "file": "__OLD__/If Tacos Could Talk-Oh!/_md_archive/If Tacos Could Talk-Oh! 42d8ed04e54b442bb2e664401488faa5.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,9 @@\n",
+        "----",
+        "-title: If Tacos Could Talk-Oh!",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "__OLD__/All I Got Left Is God/_md_archive",
+      "file": "__OLD__/All I Got Left Is God/_md_archive/All I Got Left Is God w chords.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: All I Got Left Is God - lyrics",
+        "+title: All I Got Left Is God w chords",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__OLD__/God Is In The Business/_md_archive",
+      "file": "__OLD__/God Is In The Business/_md_archive/God Is In The Business journal ideas.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: God Is In The Business WO chords",
+        "+title: God Is In The Business journal ideas",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__OLD__/Dance In My Pants/_md_archive",
+      "file": "__OLD__/Dance In My Pants/_md_archive/Writing Dance In My Pants.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Dance In My Pants",
+        "+title: Writing Dance In My Pants",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__OLD__/You Will Never Die/_md_archive",
+      "file": "__OLD__/You Will Never Die/_md_archive/You_Will_Never_Die_w_extra_ending_line_).md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: You will never die-withouchords",
+        "+title: You_Will_Never_Die_w_extra_ending_line_)",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__OLD__/You Will Never Die/_md_archive",
+      "file": "__OLD__/You Will Never Die/_md_archive/You Will Never Die 797fdc575b174a619a95b86df59f7ca8.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,8 @@\n",
+        "----",
+        "-title: You will never die-withouchords",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "__OLD__/Bring Us To You/_md_archive",
+      "file": "__OLD__/Bring Us To You/_md_archive/Bring Them To You.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Bring Us To You journal",
+        "+title: Bring Them To You",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__OLD__/You Are My God/_md_archive",
+      "file": "(all)",
+      "reason": "canonical_missing"
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/Time's Running Out (Repent)/_md_archive",
+      "file": "__SONG IDEAS__/Time's Running Out (Repent)/_md_archive/Time's Running Out (Don't Die).md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Time's Running Out (with rotating key signature)",
+        "+title: Time's Running Out (Don't Die)",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/To Feat You Is The Beginning Of Knowledge/_md_archive",
+      "file": "__SONG IDEAS__/To Feat You Is The Beginning Of Knowledge/_md_archive/To_Fear_You_Is_The_Beginning_Of_Knowledge__Cdim7-G_then_Fmajor_then_Gm_passing_chord.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,14 +1,30 @@\n",
+        "-# To Fear You Is The Beginning Of Knowledge",
+        "+---",
+        "+title: To_Fear_You_Is_The_Beginning_Of_Knowledge__Cdim7-G_then_Fmajor_then_Gm_passing_chord",
+        "+status: finished",
+        "+release year: 2019",
+        "+album:",
+        "+\"track #\":",
+        "+key: G",
+        "+time signature: mixed"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/Jazzy Baritone Song/_md_archive",
+      "file": "__SONG IDEAS__/Jazzy Baritone Song/_md_archive/Jazzy baritone song 8.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Jazzy baritone song 9",
+        "+title: Jazzy baritone song 8",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/Jazzy Baritone Song/_md_archive",
+      "file": "__SONG IDEAS__/Jazzy Baritone Song/_md_archive/Jazzy baritone song 3.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Jazzy baritone song 9",
+        "+title: Jazzy baritone song 3",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/Jazzy Baritone Song/_md_archive",
+      "file": "__SONG IDEAS__/Jazzy Baritone Song/_md_archive/Jazzy baritone song 7.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Jazzy baritone song 9",
+        "+title: Jazzy baritone song 7",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/Jazzy Baritone Song/_md_archive",
+      "file": "__SONG IDEAS__/Jazzy Baritone Song/_md_archive/Jazzy baritone song 6.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Jazzy baritone song 9",
+        "+title: Jazzy baritone song 6",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/Jazzy Baritone Song/_md_archive",
+      "file": "__SONG IDEAS__/Jazzy Baritone Song/_md_archive/Jazzy baritone song 2.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Jazzy baritone song 9",
+        "+title: Jazzy baritone song 2",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/Jazzy Baritone Song/_md_archive",
+      "file": "__SONG IDEAS__/Jazzy Baritone Song/_md_archive/Jazzy baritone song 5.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Jazzy baritone song 9",
+        "+title: Jazzy baritone song 5",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/Jazzy Baritone Song/_md_archive",
+      "file": "__SONG IDEAS__/Jazzy Baritone Song/_md_archive/Jazzy baritone song 1.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Jazzy baritone song 9",
+        "+title: Jazzy baritone song 1",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/Jazzy Baritone Song/_md_archive",
+      "file": "__SONG IDEAS__/Jazzy Baritone Song/_md_archive/Jazzy baritone song 4.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Jazzy baritone song 9",
+        "+title: Jazzy baritone song 4",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/Holy, Lord Almighty \u2014 DADGAD Revelation worship/_md_archive",
+      "file": "__SONG IDEAS__/Holy, Lord Almighty \u2014 DADGAD Revelation worship/_md_archive/Holy_Lord_Almighty_-_pg_2.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Holy_Lord_Almighty_-_pg_1",
+        "+title: Holy_Lord_Almighty_-_pg_2",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/Holy, Lord Almighty \u2014 DADGAD Revelation worship/_md_archive",
+      "file": "__SONG IDEAS__/Holy, Lord Almighty \u2014 DADGAD Revelation worship/_md_archive/Holy, Lord Almighty \u2014 DADGAD Revelation worship 89251da8345a49fe9bb89e8fa7fb7240.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,16 @@\n",
+        "----",
+        "-title: Holy_Lord_Almighty_-_pg_1",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/Surely You Care For Me/_md_archive",
+      "file": "__SONG IDEAS__/Surely You Care For Me/_md_archive/Surely you care for me_1.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Surely you care for me_2",
+        "+title: Surely you care for me_1",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/Some Days (Lord, Lead Me)/_md_archive",
+      "file": "__SONG IDEAS__/Some Days (Lord, Lead Me)/_md_archive/Some_Days___I_Love_You_O_My_Father.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Some_Days_(Lord_Lead_Me)",
+        "+title: Some_Days___I_Love_You_O_My_Father",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/Some Days (Lord, Lead Me)/_md_archive",
+      "file": "__SONG IDEAS__/Some Days (Lord, Lead Me)/_md_archive/Some Days (Lord, Lead Me) b18b574265314f93ba1f7c22ec236096.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,19 @@\n",
+        "----",
+        "-title: Some_Days_(Lord_Lead_Me)",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/Even If I Have To Say No/_md_archive",
+      "file": "(all)",
+      "reason": "canonical_missing"
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/Lord We Give You The Praise/_md_archive",
+      "file": "__SONG IDEAS__/Lord We Give You The Praise/_md_archive/Lord_We_Give_You_The_Praise__4-18-21.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,10 +1,30 @@\n",
+        "-# Lord We Give You The Praise",
+        "+---",
+        "+title: Lord_We_Give_You_The_Praise__4-18-21",
+        "+status: finished",
+        "+release year: 2019",
+        "+album:",
+        "+\"track #\":",
+        "+key: G",
+        "+time signature: mixed"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/No More Idols/_md_archive",
+      "file": "__SONG IDEAS__/No More Idols/_md_archive/No more idols 8d5271384d804c2ba23013736ce34708.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,9 @@\n",
+        "----",
+        "-title: No_more_idols",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/Before Everything/_md_archive",
+      "file": "__SONG IDEAS__/Before Everything/_md_archive/Before everything_2.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Before everything_1",
+        "+title: Before everything_2",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/I Wanna Love You Like You're Right Here/_md_archive",
+      "file": "__SONG IDEAS__/I Wanna Love You Like You're Right Here/_md_archive/I Wanna Love You Like You\u2019re Right Here f9a8aa808b504962ac95a87c0eff63cc.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,9 @@\n",
+        "----",
+        "-title: I_Wanna_Love_You_Like_Youre_Right_Here",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/Thought To Thought/_md_archive",
+      "file": "__SONG IDEAS__/Thought To Thought/_md_archive/Thought to Thought 6bac43389ffc40da9015c8d7048c8e50.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,10 @@\n",
+        "----",
+        "-title: Thought_To_Thought",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/You\u2019re Bringing Me Into A Brand New Season/_md_archive",
+      "file": "__SONG IDEAS__/You\u2019re Bringing Me Into A Brand New Season/_md_archive/You\u2019re Bringing Me Into A Brand New Season 1ece5a73f1d980f9a660e87f39ddea87.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,11 @@\n",
+        "----",
+        "-title: Youre_bringing_me_into_a_brand_new_season",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/Oh how I love You!/_md_archive",
+      "file": "__SONG IDEAS__/Oh how I love You!/_md_archive/Oh how I love You! 1ece5a73f1d980bfb2d6cd0205f5050d.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,10 @@\n",
+        "----",
+        "-title: Oh_how_I_love_You!",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/I Agree With What You Say/_md_archive",
+      "file": "__SONG IDEAS__/I Agree With What You Say/_md_archive/20200209 230211 I Agree Chorus.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: 20200212 081811 I Agree With What You Say",
+        "+title: 20200209 230211 I Agree Chorus",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/My Choice To Rejoice/_md_archive",
+      "file": "__SONG IDEAS__/My Choice To Rejoice/_md_archive/My Choice To Rejoice lyrics.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: My Choice To Rejoice journal ideas",
+        "+title: My Choice To Rejoice lyrics",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/Lead Me (Her) Lord/_md_archive",
+      "file": "__SONG IDEAS__/Lead Me (Her) Lord/_md_archive/Lead_Me-Her_Lord_-_4-6-22.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,9 +1,30 @@\n",
+        "-# Lead Me/Her, Lord",
+        "+---",
+        "+title: Lead_Me-Her_Lord_-_4-6-22",
+        "+status: finished",
+        "+release year: 2019",
+        "+album:",
+        "+\"track #\":",
+        "+key: G",
+        "+time signature: mixed"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/It's Been A Minute/_md_archive",
+      "file": "__SONG IDEAS__/It's Been A Minute/_md_archive/Its_been_a_minute_since_I_been_in_it.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,10 +1,30 @@\n",
+        "-# It\u2019s Been A Minute Since I\u2019 Been In It",
+        "+---",
+        "+title: Its_been_a_minute_since_I_been_in_it",
+        "+status: finished",
+        "+release year: 2019",
+        "+album:",
+        "+\"track #\":",
+        "+key: G",
+        "+time signature: mixed"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/Warning Song (I\u2019m Thankful For No)/_md_archive",
+      "file": "__SONG IDEAS__/Warning Song (I\u2019m Thankful For No)/_md_archive/Warning Song (I\u2019m Thankful For No) 1ece5a73f1d980e49868cf6120415ff1.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,10 @@\n",
+        "----",
+        "-title: Warning_Song_(Im_Thankful_For_No)",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/It's Like You Knew All Along/_md_archive",
+      "file": "__SONG IDEAS__/It's Like You Knew All Along/_md_archive/Its_like_You_knew_all_along_(remarking_after_seeing_Linnea_laugh_at_my_gasp_comment).md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,10 +1,30 @@\n",
+        "-# It\u2019s Like You Knew All Along",
+        "+---",
+        "+title: Its_like_You_knew_all_along_(remarking_after_seeing_Linnea_laugh_at_my_gasp_comment)",
+        "+status: finished",
+        "+release year: 2019",
+        "+album:",
+        "+\"track #\":",
+        "+key: G",
+        "+time signature: mixed"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/Dm9 spacey piano song/_md_archive",
+      "file": "__SONG IDEAS__/Dm9 spacey piano song/_md_archive/Dm9 spacey piano song - 0.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Dm9 spacey piano song - 2",
+        "+title: Dm9 spacey piano song - 0",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/Dm9 spacey piano song/_md_archive",
+      "file": "__SONG IDEAS__/Dm9 spacey piano song/_md_archive/Dm9 spacey piano song - 1.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Dm9 spacey piano song - 2",
+        "+title: Dm9 spacey piano song - 1",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/It's Amazing To Me, Your Sovereignty/_md_archive",
+      "file": "__SONG IDEAS__/It's Amazing To Me, Your Sovereignty/_md_archive/It\u2019s Amazing To Me, Your Sovereignty 4ba0aea47391493f856d5ba9fe9d00f0.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,8 @@\n",
+        "----",
+        "-title: Verse_-_Its_amazing_to_me_Your_sovereignty_(rap-esque)",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/Praise God (Baptism Song)/_md_archive",
+      "file": "__SONG IDEAS__/Praise God (Baptism Song)/_md_archive/Praise_God!_Baptism_Song__see_ending.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,9 +1,30 @@\n",
+        "-# Praise God! (baptism song)",
+        "+---",
+        "+title: Praise_God!_Baptism_Song__see_ending",
+        "+status: finished",
+        "+release year: 2019",
+        "+album:",
+        "+\"track #\":",
+        "+key: G",
+        "+time signature: mixed"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/Covenant With My Eyes/_md_archive",
+      "file": "__SONG IDEAS__/Covenant With My Eyes/_md_archive/Covenant With My Eyes de4bdbdcf5b24f09854ca1dd921f4e3a.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,9 @@\n",
+        "----",
+        "-title: Covenant_With_My_Eyes_idea",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/I\u2019ll Use Up All My Strength For You/_md_archive",
+      "file": "__SONG IDEAS__/I\u2019ll Use Up All My Strength For You/_md_archive/I\u2019ll Use Up All My Strength For You 7cbe89dd673c47559037b070f6b52dcc.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,11 @@\n",
+        "----",
+        "-title: Ill_Use_Up_All_My_Strength_For_You",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/Make Christ The Judge Your Friend/_md_archive",
+      "file": "__SONG IDEAS__/Make Christ The Judge Your Friend/_md_archive/Make Christ the Judge your friend d031f95387a448a8a8e8604d6d587879.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,10 @@\n",
+        "----",
+        "-title: Make_Christ_the_Judge_your_friend",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/I Love Her, But She Ain't My Girlfriend/_md_archive",
+      "file": "__SONG IDEAS__/I Love Her, But She Ain't My Girlfriend/_md_archive/I Love Her, But She Ain't My Girlfriend 77590f939338470793b047288bca77ba.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,9 @@\n",
+        "----",
+        "-title: I_love_her_but_she_aint_my_girlfriend",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/Solely Devoted To Your Love/_md_archive",
+      "file": "__SONG IDEAS__/Solely Devoted To Your Love/_md_archive/Solely Devoted To Your Love - 9.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Solely Devoted To Your Love - 8",
+        "+title: Solely Devoted To Your Love - 9",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/Solely Devoted To Your Love/_md_archive",
+      "file": "__SONG IDEAS__/Solely Devoted To Your Love/_md_archive/Solely Devoted To Your Love - 2.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Solely Devoted To Your Love - 8",
+        "+title: Solely Devoted To Your Love - 2",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/Solely Devoted To Your Love/_md_archive",
+      "file": "__SONG IDEAS__/Solely Devoted To Your Love/_md_archive/Solely Devoted To Your Love - 6.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Solely Devoted To Your Love - 8",
+        "+title: Solely Devoted To Your Love - 6",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/Solely Devoted To Your Love/_md_archive",
+      "file": "__SONG IDEAS__/Solely Devoted To Your Love/_md_archive/Solely Devoted To Your Love - 7.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Solely Devoted To Your Love - 8",
+        "+title: Solely Devoted To Your Love - 7",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/Solely Devoted To Your Love/_md_archive",
+      "file": "__SONG IDEAS__/Solely Devoted To Your Love/_md_archive/Solely Devoted To Your Love - 3.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Solely Devoted To Your Love - 8",
+        "+title: Solely Devoted To Your Love - 3",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/Solely Devoted To Your Love/_md_archive",
+      "file": "__SONG IDEAS__/Solely Devoted To Your Love/_md_archive/Solely Devoted To Your Love - 4.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Solely Devoted To Your Love - 8",
+        "+title: Solely Devoted To Your Love - 4",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/Solely Devoted To Your Love/_md_archive",
+      "file": "__SONG IDEAS__/Solely Devoted To Your Love/_md_archive/Solely Devoted To Your Love - 0.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Solely Devoted To Your Love - 8",
+        "+title: Solely Devoted To Your Love - 0",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/Solely Devoted To Your Love/_md_archive",
+      "file": "__SONG IDEAS__/Solely Devoted To Your Love/_md_archive/Solely Devoted To Your Love - 1.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Solely Devoted To Your Love - 8",
+        "+title: Solely Devoted To Your Love - 1",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/Solely Devoted To Your Love/_md_archive",
+      "file": "__SONG IDEAS__/Solely Devoted To Your Love/_md_archive/Solely Devoted To Your Love - 5.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: Solely Devoted To Your Love - 8",
+        "+title: Solely Devoted To Your Love - 5",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/I Thought I Wanted To Love You/_md_archive",
+      "file": "__SONG IDEAS__/I Thought I Wanted To Love You/_md_archive/I Thought I Wanted To Love You 81278cbafa5f4cb397920515e798ea20.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,9 @@\n",
+        "----",
+        "-title: I_thought_I_wanted_to_love_you__song_idea",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/Love With No Strings Attached/_md_archive",
+      "file": "__SONG IDEAS__/Love With No Strings Attached/_md_archive/Love With No Strings Attached a86c1d1dbdfc4d3798db2c9bcd8f6c81.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,13 @@\n",
+        "----",
+        "-title: Love_With_No_Strings_Attached",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/__RIFFS__/8-String/_md_archive",
+      "file": "__SONG IDEAS__/__RIFFS__/8-String/_md_archive/8-String_Little_Rock_Vibe_moving_A_shape_idea.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: 8-string_into_Rabea_high_gain_amp",
+        "+title: 8-String_Little_Rock_Vibe_moving_A_shape_idea",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/__RIFFS__/8-String/_md_archive",
+      "file": "__SONG IDEAS__/__RIFFS__/8-String/_md_archive/Am_fun_bar_chord_8-string_song.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: 8-string_into_Rabea_high_gain_amp",
+        "+title: Am_fun_bar_chord_8-string_song",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/__RIFFS__/8-String/_md_archive",
+      "file": "__SONG IDEAS__/__RIFFS__/8-String/_md_archive/8-string_song_2.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: 8-string_into_Rabea_high_gain_amp",
+        "+title: 8-string_song_2",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/__RIFFS__/8-String/_md_archive",
+      "file": "__SONG IDEAS__/__RIFFS__/8-String/_md_archive/Diminished_riff_on_8-string_with_Fender_amp.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: 8-string_into_Rabea_high_gain_amp",
+        "+title: Diminished_riff_on_8-string_with_Fender_amp",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/__RIFFS__/8-String/_md_archive",
+      "file": "__SONG IDEAS__/__RIFFS__/8-String/_md_archive/8-string_song_3.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: 8-string_into_Rabea_high_gain_amp",
+        "+title: 8-string_song_3",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/__RIFFS__/8-String/_md_archive",
+      "file": "__SONG IDEAS__/__RIFFS__/8-String/_md_archive/8-string_drop_C_song_D.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,3 +1,3 @@\n",
+        " ---",
+        "-title: 8-string_into_Rabea_high_gain_amp",
+        "+title: 8-string_drop_C_song_D",
+        " status: finished"
+      ]
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/Cash (Isn't What Matters)/Cash_(isnt_what_matters)/_md_archive",
+      "file": "__SONG IDEAS__/Cash (Isn't What Matters)/Cash_(isnt_what_matters)/_md_archive/Cash (isn\u2019t what matters) 8412ba8528314604a001fb18aa352347.md",
+      "reason": "different_content",
+      "diff_preview": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,30 +1,11 @@\n",
+        "----",
+        "-title: Cash_(isnt_what_matters)",
+        "-status: finished",
+        "-release year: 2019",
+        "-album:",
+        "-\"track #\":",
+        "-key: G",
+        "-time signature: mixed",
+        "-tempo:"
+      ]
+    }
+  ],
+  "removed_empty_md_archive_dirs": [],
+  "trash_root": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup",
+  "errors": []
+}

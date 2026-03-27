@@ -1,0 +1,100 @@
+{
+  "hawk_song_move": {
+    "from": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/Hawk Song/Hawk Song.m4a",
+    "to": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/__SPOKEN WORD__/Hawk Song/Hawk Song.m4a"
+  },
+  "audit": [
+    {
+      "track": 1,
+      "title": "My Name Is Raj",
+      "status": "FOUND",
+      "path": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/My Name Is Raj/My Name Is Raj.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Way of the Wise",
+      "status": "FOUND",
+      "path": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/Way of the Wise/Way of the Wise.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Everybody Let's Vacate",
+      "status": "FOUND",
+      "path": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/Everybody Let's Vacate/Everybody Let's Vacate.m4a"
+    },
+    {
+      "track": 4,
+      "title": "My Heart Was Lost",
+      "status": "FOUND",
+      "path": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/My Heart Was Lost/My Heart Was Lost.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Lost In Your Love",
+      "status": "FOUND",
+      "path": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/Lost In Your Love/Lost In Your Love.m4a"
+    },
+    {
+      "track": 6,
+      "title": "I Waited",
+      "status": "FOUND",
+      "path": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/I Waited/I Waited.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Psychotic Vengeance",
+      "status": "FOUND",
+      "path": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/Psychotic Vengeance/Psychotic Vengeance.m4a"
+    },
+    {
+      "track": 8,
+      "title": "The World Is A Bright Blossom",
+      "status": "FOUND",
+      "path": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/The World Is A Bright Blossom/The World Is A Bright Blossom.m4a"
+    },
+    {
+      "track": 9,
+      "title": "Lullaby To A Deluded Patient",
+      "status": "FOUND",
+      "path": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/Lullaby To A Deluded Patient/Lullaby To A Deluded Patient.m4a"
+    },
+    {
+      "track": 10,
+      "title": "Life's A Dream",
+      "status": "FOUND",
+      "path": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/Life's A Dream/Life's A Dream.m4a"
+    },
+    {
+      "track": 11,
+      "title": "Psycho",
+      "status": "FOUND",
+      "path": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/Psycho/Psycho.m4a"
+    },
+    {
+      "track": 12,
+      "title": "Hawk Song",
+      "status": "FOUND",
+      "path": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/__SPOKEN WORD__/Hawk Song/Hawk Song.m4a"
+    },
+    {
+      "track": 13,
+      "title": "Prodigal Son Song",
+      "status": "FOUND",
+      "path": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/Prodigal Son Song/Prodigal Son Song.m4a"
+    },
+    {
+      "track": 14,
+      "title": "Hard to Get",
+      "status": "FOUND",
+      "path": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/Hard to Get/Hard to Get.m4a"
+    },
+    {
+      "track": 15,
+      "title": "The Heavenly Ethnicity",
+      "status": "FOUND",
+      "path": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/The Heavenly Ethnicity/The Heavenly Ethnicity.m4a"
+    }
+  ],
+  "found": 15,
+  "missing": 0
+}

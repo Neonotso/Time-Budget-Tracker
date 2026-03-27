@@ -1,0 +1,371 @@
+{
+  "processed": {
+    "<CADCD6xayafNFDdhHKbP7owPdWNTnw2+FHR62yMzOmbV+Q2JveQ@mail.gmail.com>": {
+      "status": "reverted_non_amazon",
+      "row": 13,
+      "date": "03/10/2026",
+      "amount_raw": 4.99,
+      "amount_stored": 5.0,
+      "description": "Apple purchase",
+      "category": "Software",
+      "subject": "Fwd: Your receipt from Apple."
+    },
+    "<CADCD6xYGRMzCfOt7Q308CiR1oTksj-xfBrbDa9RcNA13iTFo0A@mail.gmail.com>": {
+      "status": "skip_unclassified",
+      "subject": "Re: Hello \ud83d\udc4b"
+    },
+    "<CADCD6xb3DtZ3AR-E0ggojHYwzFyoHLsF-ifX0r7c5Y5OBvsVDA@mail.gmail.com>": {
+      "status": "skip_no_amount",
+      "subject": "Re: Replacement hinge part request \u2013 Mayfair/Bemis Cassel 847SLOW 000"
+    },
+    "<CADCD6xYJtpEXxKziexjbW_OGF_-aqqvG_6xHfqBRkp2Wn1Wm6Q@mail.gmail.com>": {
+      "status": "skip_unclassified",
+      "subject": "Re: 8:1 Bible Readers QR Assets"
+    },
+    "<CADCD6xZx--iqOkuHUgeaayc2STmYZCtyQRQKLfkR21dE-okmqQ@mail.gmail.com>": {
+      "status": "skip_unclassified",
+      "subject": "Re: AgentMail test from Sally"
+    },
+    "<CADCD6xaU9ex0fpTLb1iVdxBHseE6cx_UwM6T5aEr_gr4FMd=zg@mail.gmail.com>": {
+      "status": "skip_unclassified",
+      "subject": "Hmm"
+    },
+    "<CADCD6xYUJKqXvNcNBKroRGTbC1cETGxD3NZLADCMuNMjFyKqoQ@mail.gmail.com>": {
+      "status": "added",
+      "row": 14,
+      "date": "03/11/2026",
+      "amount_raw": 51.9,
+      "amount_stored": 52.0,
+      "description": "Amazon purchase",
+      "category": "Shopping",
+      "subject": "Fwd: Ordered: \"Mayfair Cassel Slow Close...\" and 1 more item"
+    },
+    "<0100019ce08fe01a-1ccdbb29-457c-458c-8646-c01279f9cb12-000000@email.amazonses.com>": {
+      "status": "added",
+      "row": 14,
+      "date": "03/12/2026",
+      "amount_raw": 51.98,
+      "amount_stored": 52.0,
+      "description": "Amazon - Dentagum Remineralizing Gum... (and 1 more item)",
+      "category": "Household Items",
+      "subject": "Ordered: \"Dentagum Remineralizing Gum...\" and 1 more item"
+    },
+    "<0100019ce074ec8c-4e27add8-0d00-4288-be09-bf2869756a65-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "Shower crack repair plan + checklist (for tomorrow)"
+    },
+    "<CADCD6xYDuh-8fuTTh2XCnd7HDQzVQ6sHPFOgFhJ0m2NVjK91qQ@mail.gmail.com>": {
+      "status": "skip_unclassified",
+      "subject": "(Gmail Forwarding Confirmation - Receive Mail from ryan.vegh@gmail.com"
+    },
+    "<0100019cdf5dedf3-09562da5-6fb2-4b0e-8161-4b48112516ed-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "Re: Hello from Sally \ud83d\udc4b"
+    },
+    "<0100019cdf5b1e83-543df4cd-8866-4e80-b64f-620a4e9f7d8b-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "Re: Hello from Sally \ud83d\udc4b"
+    },
+    "<CAD5-Y214gY8BzOzQLvXvd_y826kcqdyp-rrG27hS8fAYNOM9eQ@mail.gmail.com>": {
+      "status": "skip_unclassified",
+      "subject": "Re: Hello from Sally \ud83d\udc4b"
+    },
+    "<0100019cde71f430-d9c1f487-7450-4d6e-961b-280f75cac729-000000@email.amazonses.com>": {
+      "status": "skip_no_amount",
+      "subject": "War Quotes - improved Vision OCR transcription"
+    },
+    "<0100019cde6e2ab3-b595228b-558f-41f1-91e9-3d697ef6d57e-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "War Quotes - EasyOCR transcription"
+    },
+    "<0100019cde2d464e-c80ac2c8-8d27-4a67-a9a7-21af0588757d-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "War Quotes - transcribed text"
+    },
+    "<0100019cdb2f008c-b16f7653-79da-48bf-842d-4dc6b69d4cc8-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "Hello from Sally \ud83d\udc4b"
+    },
+    "<0100019cdafe9abb-f629fdaa-7332-49d2-bf72-d34d5476682a-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "Drum Lesson -- 03-10-26"
+    },
+    "<0100019cdaf13d23-471a55bb-9b0f-4f70-b336-e57c6cb1f838-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "Test Email \u2014 Display Name Check"
+    },
+    "<0100019cdaed2b44-77b1fe8b-6026-446f-8aa8-b15cc444051e-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "Voice Lesson -- 03-10-26"
+    },
+    "<0100019cdab7461c-f5c2bd16-5cb8-4a63-ae14-7ea60bdaf4d1-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "Caleb's Voice Lesson -- 03-10-26"
+    },
+    "<0100019cd96429e1-2a766739-670a-4ba7-861e-8b59e5676a23-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "Re: Hello \ud83d\udc4b"
+    },
+    "<CAPuKBQFm-0-6-zP8GbEdUucsNG105mX2kQO_3J7fF+Uc=ByugA@mail.gmail.com>": {
+      "status": "skip_unclassified",
+      "subject": "Re: Hello \ud83d\udc4b"
+    },
+    "<0100019cd95bc7ce-be1f84d8-3019-4f8e-bc58-15b62a8608ad-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "Hello \ud83d\udc4b"
+    },
+    "<0100019cd94093b4-dc44ccc9-eb0a-4d11-b5a8-7c526d8e9fd7-000000@email.amazonses.com>": {
+      "status": "skip_no_amount",
+      "subject": "Correction: replacement hinge part request \u2013 Mayfair/Bemis Cassel 847SLOW 000"
+    },
+    "<0100019cd93a501e-feada112-1788-4121-ab5b-9420a4433da7-000000@email.amazonses.com>": {
+      "status": "skip_no_amount",
+      "subject": "Replacement hinge part request \u2013 Mayfair/Bemis Cassel 847SLOW 000"
+    },
+    "<0100019cd927be72-9e328e36-ea48-4a68-a276-153b758a236b-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "8:1 Bible Readers QR Assets"
+    },
+    "<0100019cd8f36028-c2a86fbb-06c7-44c7-aa01-fe26fb9a7e7f-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "AgentMail Test 2 - Different Subject"
+    },
+    "<0100019cd8f172dd-3cfa9c6d-5d4d-44de-b665-2857b57c49a4-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "Re: AgentMail test from Sally"
+    },
+    "<0100019ce4f7c97e-42736798-3c45-4a39-9a25-fcbf628c9c8f-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "Drum Lessons -- 03-12-26"
+    },
+    "<0100019ce4f3133a-b6732415-334a-4757-a17b-4b6a7888750f-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "Drum Lessons -- 03-12-26"
+    },
+    "<0100019ce506c873-fd9f0fc8-97b3-4ba2-8b10-37147d4e145c-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "Drum Lessons -- 03-12-26 (Corrected Link)"
+    },
+    "<0100019ce502dfbf-b7108033-2dd7-433d-ae12-f75fe9a953fd-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "Drum Lessons -- 03-12-26"
+    },
+    "<0100019ce54878e5-ea8cb1b8-73a4-49fa-bf9e-adc4d6544abd-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "Voice Lesson -- 03-12-26"
+    },
+    "<CADCD6xYLUVH0StNsnG8BtYeusmXZWONMoHnCK1szc5Cer9i_Nw@mail.gmail.com>": {
+      "status": "skip_unclassified",
+      "subject": "Fwd: Order #5372 confirmed"
+    },
+    "<CADCD6xY1kpbtyOfUz7B_6VVoJFzFP8-s96Y4k6y6-bJiJmbTAw@mail.gmail.com>": {
+      "status": "skip_unclassified",
+      "subject": "Fwd: Freedom Water Systems - UPS - Tracking Information"
+    },
+    "<CADCD6xapt6=1A_8w6nKWwxpTr+H9BnZB8uDURC3hO1Z1+hnjaw@mail.gmail.com>": {
+      "status": "skip_unclassified",
+      "subject": "Fwd: Order #5372 confirmed"
+    },
+    "<0100019ceab6d9f5-040c9dd1-6333-48c2-83c6-eda39e1fde61-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "2026 02 February Hours.xlsx"
+    },
+    "<0100019ceab52c4a-dd64ea4c-232b-47c0-9bda-ced515509c7e-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "2026 02 February Hours.xlsx"
+    },
+    "<0100019ceab24015-c0464acb-7a25-4bfe-a5c6-9bd5b405235e-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "2026 02 February Hours.xlsx"
+    },
+    "<0100019ceaaffb6f-ab06a0c4-7169-496a-a718-ac46a25f3091-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "2026 02 February Hours.xlsx"
+    },
+    "<0100019ceaaea267-bb0af8ad-4493-465f-a29d-947f44735cd0-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "2026 02 February Hours.xlsx"
+    },
+    "<0100019ceaad06a0-afd2ea87-8b3e-400f-9b6e-a8cf49b21f37-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "2026 02 February Hours.xlsx"
+    },
+    "<0100019ceaa6f247-3ad101d9-e4b7-4e3b-8230-02944eeb2942-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "2026 02 February Hours with Total.csv"
+    },
+    "<0100019ceaa19d6d-723a74b2-8414-43d3-9d20-23905966038e-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "2026 02 February Hours.csv"
+    },
+    "<CADCD6xbYsY9WMUBXR4y1zh1mKu53Z=6hh6UNQG5g4z3NXT7aLg@mail.gmail.com>": {
+      "status": "added",
+      "row": 16,
+      "date": "03/14/2026",
+      "amount_raw": 17.73,
+      "amount_stored": 18.0,
+      "description": "Amazon - HAONIULED E26 LED Bulb 100W...",
+      "category": "Household Items",
+      "subject": "Fwd: Ordered: \"HAONIULED E26 LED Bulb 100W...\""
+    },
+    "<CADCD6xYUq8owvC92crc2PCHQOFXpy0ihsaXGwSSaLdfi8inDXA@mail.gmail.com>": {
+      "status": "added",
+      "row": 17,
+      "date": "03/14/2026",
+      "amount_raw": 16.93,
+      "amount_stored": 17.0,
+      "description": "Receipt - From: return@amazon.com <return@amazon.com>",
+      "category": "Household Items",
+      "subject": "Fwd: Return request confirmed for Heifymi E17 Intermediate Base..."
+    },
+    "<0100019ced9a7df3-1a103c53-e84f-4676-9b48-a0917d994dde-000000@email.amazonses.com>": {
+      "status": "added",
+      "row": 18,
+      "date": "03/14/2026",
+      "amount_raw": 17.73,
+      "amount_stored": 18.0,
+      "description": "Amazon - HAONIULED E26 LED Bulb 100W Equivalent, 4000K Natural White, 1000 Lumens, Non-Dimmable LED Light Bulbs 10W, Ceiling Fan ",
+      "category": "Household Items",
+      "subject": "Ordered: \"HAONIULED E26 LED Bulb 100W...\""
+    },
+    "<0100019cf14fcc33-9fb72785-2c3a-489f-ba5c-23d6db9d115a-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "\u2600\ufe0f Morning Money Board \u2014 March 15, 2026"
+    },
+    "<0100019cf3d5abff-2de36100-c5e6-4344-9872-dbcb3ea88849-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "Ableton Backing Track Workflow Notes"
+    },
+    "<CADCD6xZT-a3uj6Zrc_sy3EgErXxe1MMoxuPnVWgiewwrFwS-LA@mail.gmail.com>": {
+      "status": "added",
+      "row": 17,
+      "date": "03/15/2026",
+      "amount_raw": 3.99,
+      "amount_stored": 4.0,
+      "description": "Amazon - Amazon.com *",
+      "category": "Household Items",
+      "subject": "Fwd: Amazon.com order of The Hunger Games: The Ballad of Songbirds and Snakes - Bonus X-Ray Edition."
+    },
+    "<0100019cfdde6eb4-7ce82878-67c3-494f-a708-bbcfee5216f6-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "Voice Lesson -- 03-17-26"
+    },
+    "<CADCD6xYZ1sQsGQpts_mx+pFAPKvgzS8a3RBA2cov6b73eY=Wbg@mail.gmail.com>": {
+      "status": "skip_unclassified",
+      "subject": "Re: Drum Lessons -- 03-17-26"
+    },
+    "<0100019cfeb4431d-b0c3cce3-eb24-4bae-be3c-393b5a92fcb7-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "Voice Lesson -- 03-17-26"
+    },
+    "<0100019cfe9ecf16-b0721273-1f13-4223-804d-e9563f2a0fba-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "Drum Lessons -- 03-17-26"
+    },
+    "<0100019cfe9ea76b-5b280a0d-194b-4abe-95d0-272fadef552f-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "Voice Lesson -- 03-17-26"
+    },
+    "<CADCD6xb3vYmfowYf9z25RhhU+yhWckig8dra4VNakme2qULcxQ@mail.gmail.com>": {
+      "status": "skip_unclassified",
+      "subject": "Re: Voice Lesson -- 03-17-26"
+    },
+    "<CADCD6xYdE2wAwE0yC0WZ_+ezuWeKTBgxAf-ppB-3DBZLLxoxnQ@mail.gmail.com>": {
+      "status": "skip_unclassified",
+      "subject": "Fwd: You paid Anthony Jense $10.00"
+    },
+    "<CADCD6xYABLU+sesQthnR2qQRCRzxt5SWtF0gn83YVAZDwx8Zxg@mail.gmail.com>": {
+      "status": "skip_no_amount",
+      "subject": "Fwd: Receipt from The Stray"
+    },
+    "<CADCD6xb+XdWwgTR7zYmHsnmBLLeC95s+C_pSkVQto=+kWiooRg@mail.gmail.com>": {
+      "status": "skip_no_text"
+    },
+    "<0100019d0414b97a-e47ec173-1bc6-410d-9586-f43d73f5f4fd-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "Test from Gus"
+    },
+    "<0100019d06983c9f-6237719c-f25d-44fb-afc1-59dc9e9e3874-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "Ryan's Morning Money Board \u2014 March 19, 2026"
+    },
+    "<0100019d06980fec-354331a5-16c8-4246-b688-2fa59e8e9415-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "Ryan's Morning Money Board \u2014 March 19, 2026"
+    },
+    "<CADCD6xZxtY5jg57soYW+CvBw0xOaA9i=srRmwQQwX+-iLG=mOw@mail.gmail.com>": {
+      "status": "skip_unclassified",
+      "subject": "Re: 8:1 Bible Readers QR Code Materials"
+    },
+    "<0100019d06b57d36-bd3c7f98-230b-44b5-9f68-0878ad3291ab-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "8:1 Bible Readers QR Code Materials"
+    },
+    "<0100019d06b33166-0ac7dd19-be14-4cfd-b46e-dba5a14a2d51-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "8:1 Bible Readers QR Code Materials"
+    },
+    "<CADCD6xbPUguHCyfN1_+u6Do4v=27ORUOYRT83WHYRdR1M1OzUA@mail.gmail.com>": {
+      "status": "skip_unclassified",
+      "subject": "Re: 8:1 Bible Readers QR Code Materials"
+    },
+    "<CAH9oFiA73nxK9Hs-pyS0=RW-WE3Cbjj7=vVLrsFAYv+W4=B+EQ@mail.gmail.com>": {
+      "status": "skip_unclassified",
+      "subject": "Re: 8:1 Bible Readers QR Code Materials"
+    },
+    "<0100019d0e15ea54-a532fb17-243c-4e64-8e69-dd07c40e9a38-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "Drum Lessons -- 03-19-26"
+    },
+    "<0100019d0e9bd77a-eb26e8d5-3904-49e1-ae7c-c52c6aa3266b-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "TickTick Inbox Sorting Suggestions"
+    },
+    "<0100019d13355ee3-9c1045e1-d9b9-4864-b703-dde328eb70de-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "Voice Lesson -- 03-21-26"
+    },
+    "<0100019d1334d905-0e171fda-9464-47f3-b814-f9c9a3bf17ab-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "Voice Lesson -- 03-21-26"
+    },
+    "<CADCD6xa1YaOq0z5RH5AdR4f1rUy4RN4Faufsvmob-pzmPF1T_Q@mail.gmail.com>": {
+      "status": "skip_unclassified",
+      "subject": "Re: Voice Lesson -- 03-21-26"
+    },
+    "<CADCD6xbLeumrnidJamne63vBMrwBLOQ7tbv2yanp9fvHUgV5ag@mail.gmail.com>": {
+      "status": "added",
+      "row": 21,
+      "date": "03/22/2026",
+      "amount_raw": 3.99,
+      "amount_stored": 4.0,
+      "description": "Amazon - Amazon.com *",
+      "category": "Household Items",
+      "subject": "Fwd: Amazon.com order of Tenet."
+    },
+    "<CADCD6xZ8C9GpoBOEO9b6yLr-UvLsXU2_jYu4xiyV3Az-fCVq0Q@mail.gmail.com>": {
+      "status": "skip_unclassified",
+      "subject": "Fwd: Publicly Accessible Google API Key for Time Budget Tracker (id: time-budget-tracker)"
+    },
+    "<0100019d1e033c44-2c43f970-8b32-4ed6-9382-c70561674908-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "Weekly Hours Planner"
+    },
+    "<0100019d221af69f-8c488017-9163-4b42-a4bf-247b8416392b-000000@email.amazonses.com>": {
+      "status": "skip_no_text"
+    },
+    "<0100019d224372ac-09f9d267-2676-4679-a959-66688931cfeb-000000@email.amazonses.com>": {
+      "status": "skip_no_text"
+    },
+    "<CADCD6xb-Xu107H5ZXQb2GQ1BXXqU-6DPGd2nkK_njik9Pfo_Qw@mail.gmail.com>": {
+      "status": "added",
+      "row": 20,
+      "date": "03/25/2026",
+      "amount_raw": 16.93,
+      "amount_stored": 17.0,
+      "description": "Receipt - From: return@amazon.com <return@amazon.com>",
+      "category": "Household Items",
+      "subject": "Fwd: Advance refund issued for Heifymi E17 Intermediate Base...."
+    }
+  }
+}

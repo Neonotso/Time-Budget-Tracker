@@ -1,0 +1,100 @@
+{
+  "inferred_tracks_from_moonlit_downloads": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    11,
+    12,
+    13,
+    14
+  ],
+  "count": 13,
+  "found": 13,
+  "missing": 0,
+  "audit": [
+    {
+      "track": 1,
+      "title": "Moonlight Upon the First Sunrise",
+      "status": "FOUND",
+      "path": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/Moonlight Upon the First Sunrise/Moonlight Upon the First Sunrise.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Second Chances",
+      "status": "FOUND",
+      "path": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/Second Chances/Second Chances.m4a"
+    },
+    {
+      "track": 3,
+      "title": "The Sunday Show",
+      "status": "FOUND",
+      "path": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/The Sunday Show/The Sunday Show.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Ever Deeper",
+      "status": "FOUND",
+      "path": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/Ever Deeper/Ever Deeper.m4a"
+    },
+    {
+      "track": 5,
+      "title": "License To Live",
+      "status": "FOUND",
+      "path": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/License To Live/License To Live.m4a"
+    },
+    {
+      "track": 6,
+      "title": "A Time",
+      "status": "FOUND",
+      "path": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/A Time/A Time.m4a"
+    },
+    {
+      "track": 7,
+      "title": "The Writer",
+      "status": "FOUND",
+      "path": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/The Writer/The Writer.m4a"
+    },
+    {
+      "track": 8,
+      "title": "People Are People",
+      "status": "FOUND",
+      "path": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/People Are People/People Are People.m4a"
+    },
+    {
+      "track": 9,
+      "title": "Temptation",
+      "status": "FOUND",
+      "path": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/Temptation/Temptation.m4a"
+    },
+    {
+      "track": 11,
+      "title": "Be It Unto Me",
+      "status": "FOUND",
+      "path": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/Be It Unto Me/Be It Unto Me.m4a"
+    },
+    {
+      "track": 12,
+      "title": "Blazing Light of God",
+      "status": "FOUND",
+      "path": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/Blazing Light of God/Blazing Light of God.m4a"
+    },
+    {
+      "track": 13,
+      "title": "Walking In The Garden",
+      "status": "FOUND",
+      "path": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/Walking In The Garden/Walking In The Garden.m4a"
+    },
+    {
+      "track": 14,
+      "title": "Sweet Chaos",
+      "status": "FOUND",
+      "path": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/Sweet Chaos/Sweet Chaos.m4a"
+    }
+  ]
+}

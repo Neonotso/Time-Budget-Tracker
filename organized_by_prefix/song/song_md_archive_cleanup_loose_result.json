@@ -1,0 +1,1466 @@
+{
+  "removed_similar_archived_md_count": 142,
+  "kept_materially_different_count": 95,
+  "removed_empty_md_archive_dirs_count": 30,
+  "errors_count": 0,
+  "removed_similar_archived_md": [
+    {
+      "from": "Blazing Light of God/_md_archive/Blazing Light of God - WO chords.doc.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/Blazing Light of God/_md_archive/Blazing Light of God - WO chords.doc.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "Blazing Light of God/_md_archive/Blazing_Light_of_God_-_key_of_Bm_-_8-string_on_Fender_amp.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/Blazing Light of God/_md_archive/Blazing_Light_of_God_-_key_of_Bm_-_8-string_on_Fender_amp.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "Blazing Light of God/_md_archive/Blazing Light of God - Key of Em - 2-22-24.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/Blazing Light of God/_md_archive/Blazing Light of God - Key of Em - 2-22-24.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "Blazing Light of God/_md_archive/Blazing Light of God - key of E with detune.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/Blazing Light of God/_md_archive/Blazing Light of God - key of E with detune.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "God Almighty Lord Of All/_md_archive/God Almighty Quartal ending.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/God Almighty Lord Of All/_md_archive/God Almighty Quartal ending.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "God Almighty Lord Of All/_md_archive/God Almighty - 3.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/God Almighty Lord Of All/_md_archive/God Almighty - 3.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "God Almighty Lord Of All/_md_archive/God Almighty - 2.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/God Almighty Lord Of All/_md_archive/God Almighty - 2.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "God Almighty Lord Of All/_md_archive/God Almighty - 5.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/God Almighty Lord Of All/_md_archive/God Almighty - 5.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "God Almighty Lord Of All/_md_archive/More of God Almighty.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/God Almighty Lord Of All/_md_archive/More of God Almighty.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "God Almighty Lord Of All/_md_archive/God Almighty - 1.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/God Almighty Lord Of All/_md_archive/God Almighty - 1.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "God Almighty Lord Of All/_md_archive/God Almighty - 0.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/God Almighty Lord Of All/_md_archive/God Almighty - 0.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "God Almighty Lord Of All/_md_archive/God Almighty - 4.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/God Almighty Lord Of All/_md_archive/God Almighty - 4.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "God Almighty Lord Of All/_md_archive/God Almighty Lord Of All - NEW.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/God Almighty Lord Of All/_md_archive/God Almighty Lord Of All - NEW.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "Without A Cause/_md_archive/Without A Cause -- weird chords.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/Without A Cause/_md_archive/Without A Cause -- weird chords.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "Without A Cause/_md_archive/Without A Cause - WO chords.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/Without A Cause/_md_archive/Without A Cause - WO chords.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "Without A Cause/_md_archive/Without A Cause -- D editing (missing some parts).md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/Without A Cause/_md_archive/Without A Cause -- D editing (missing some parts).md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "Without A Cause/_md_archive/Without A Cause - new in D (w: extensions).md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/Without A Cause/_md_archive/Without A Cause - new in D (w: extensions).md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "Walking In The Garden/_md_archive/walking in the garden idea.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/Walking In The Garden/_md_archive/walking in the garden idea.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "Time's Running Out (Repent)/_md_archive/Time's Running Out (Don't Die).md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/Time's Running Out (Repent)/_md_archive/Time's Running Out (Don't Die).md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "God, Make That Fruit Grow/_md_archive/New_Verse_for_God_Make_That_Fruit_Grow.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/God, Make That Fruit Grow/_md_archive/New_Verse_for_God_Make_That_Fruit_Grow.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "You Prepare My Path For Me/_md_archive/You_Prepare_My_Path_For_Me_-_page_1.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/You Prepare My Path For Me/_md_archive/You_Prepare_My_Path_For_Me_-_page_1.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "You Prepare My Path For Me/_md_archive/You_Prepare_My_Path_For_Me copy.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/You Prepare My Path For Me/_md_archive/You_Prepare_My_Path_For_Me copy.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "You Prepare My Path For Me/_md_archive/You_Prepare_My_Path_For_Me__chorus_with_piano_chords.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/You Prepare My Path For Me/_md_archive/You_Prepare_My_Path_For_Me__chorus_with_piano_chords.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "Following Your Voice/_md_archive/Following_Your_Voice 1.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/Following Your Voice/_md_archive/Following_Your_Voice 1.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "Following Your Voice/_md_archive/Following Your Voice-2 (from backup).md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/Following Your Voice/_md_archive/Following Your Voice-2 (from backup).md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "Following Your Voice/_md_archive/Following Your Voice - 3.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/Following Your Voice/_md_archive/Following Your Voice - 3.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "Following Your Voice/_md_archive/Following Your Voice -- GuitarPro.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/Following Your Voice/_md_archive/Following Your Voice -- GuitarPro.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "Following Your Voice/_md_archive/Following_Your_Voice_verse_1.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/Following Your Voice/_md_archive/Following_Your_Voice_verse_1.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "Following Your Voice/_md_archive/Following_Your_Voice_-_all_the_parts.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/Following Your Voice/_md_archive/Following_Your_Voice_-_all_the_parts.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "Following Your Voice/_md_archive/Following Your Voice CHORDS - 08-04-21 -- see end of video for best chords.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/Following Your Voice/_md_archive/Following Your Voice CHORDS - 08-04-21 -- see end of video for best chords.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "Following Your Voice/_md_archive/Following Your Voice -- bass part in last Chorus.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/Following Your Voice/_md_archive/Following Your Voice -- bass part in last Chorus.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "Following Your Voice/_md_archive/Following Your Voice -- add Bass info.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/Following Your Voice/_md_archive/Following Your Voice -- add Bass info.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "Following Your Voice/_md_archive/Bridge_Following_Your_Voice.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/Following Your Voice/_md_archive/Bridge_Following_Your_Voice.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "Following Your Voice/_md_archive/Following Your Voice - 0.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/Following Your Voice/_md_archive/Following Your Voice - 0.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "Whom Have I In Heaven But You/_md_archive/Whom_Have_I_In_Heaven_with_Kelly_in_chapel_Hide.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/Whom Have I In Heaven But You/_md_archive/Whom_Have_I_In_Heaven_with_Kelly_in_chapel_Hide.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "Whom Have I In Heaven But You/_md_archive/Whom_Have_I_other_parts.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/Whom Have I In Heaven But You/_md_archive/Whom_Have_I_other_parts.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "My Body/_md_archive/My_Body_(Temple).md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/My Body/_md_archive/My_Body_(Temple).md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "My Body/_md_archive/My_Body_high_with_rumble.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/My Body/_md_archive/My_Body_high_with_rumble.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "My Body/_md_archive/My_Body_(Im_Not_My_Own).md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/My Body/_md_archive/My_Body_(Im_Not_My_Own).md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "Devil Battle/_md_archive/Devil Battle - writing.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/Devil Battle/_md_archive/Devil Battle - writing.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "You Are God, Amen/_md_archive/God, You Are The Highest God.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/You Are God, Amen/_md_archive/God, You Are The Highest God.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "I Look Up To The Holy God/_md_archive/I Look Up To The Holy God - Cm (original key).md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/I Look Up To The Holy God/_md_archive/I Look Up To The Holy God - Cm (original key).md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "I Look Up To The Holy God/_md_archive/I Look Up To The Holy God - C#m - maybe old version.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/I Look Up To The Holy God/_md_archive/I Look Up To The Holy God - C#m - maybe old version.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "I Look Up To The Holy God/_md_archive/I Look Up To The Holy God on Piano.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/I Look Up To The Holy God/_md_archive/I Look Up To The Holy God on Piano.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "The Longing Of The Soul/_md_archive/The Longing Of The Soul w: Chords--forGoodFriday.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/The Longing Of The Soul/_md_archive/The Longing Of The Soul w: Chords--forGoodFriday.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "Way of the Wise/_md_archive/Way of the Wise WO chords - editing.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/Way of the Wise/_md_archive/Way of the Wise WO chords - editing.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "Taste And See/_md_archive/Taste And See - Ryan Vegh - A.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/Taste And See/_md_archive/Taste And See - Ryan Vegh - A.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "Taste And See/_md_archive/Taste And See - Ryan Vegh - G (capo 2).md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/Taste And See/_md_archive/Taste And See - Ryan Vegh - G (capo 2).md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "Taste And See/_md_archive/Taste And See (no bridge).md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/Taste And See/_md_archive/Taste And See (no bridge).md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "Taste And See/_md_archive/Taste_And_See__baritone_A_-_5-27-21.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/Taste And See/_md_archive/Taste_And_See__baritone_A_-_5-27-21.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "Livin' For The King/_md_archive/Livin_for_the_King__pause_before_last_Chorus.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/Livin' For The King/_md_archive/Livin_for_the_King__pause_before_last_Chorus.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "Livin' For The King/_md_archive/Livin_For_The_KingPiano_4ths_idea.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/Livin' For The King/_md_archive/Livin_For_The_KingPiano_4ths_idea.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "Livin' For The King/_md_archive/Livin_For_The_King__05-10-22.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/Livin' For The King/_md_archive/Livin_For_The_King__05-10-22.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "Livin' For The King/_md_archive/Livin_For_The_King__Bridge_with_Chords_).md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/Livin' For The King/_md_archive/Livin_For_The_King__Bridge_with_Chords_).md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "God, You Are The Highest God (To Know Your Son)/_md_archive/You Are God, Amen.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/God, You Are The Highest God (To Know Your Son)/_md_archive/You Are God, Amen.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "God, You Are The Highest God (To Know Your Son)/_md_archive/God_You_are_the_Highest_God_(To_Know_Your_Son)_-_pg_2.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/God, You Are The Highest God (To Know Your Son)/_md_archive/God_You_are_the_Highest_God_(To_Know_Your_Son)_-_pg_2.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "God, You Are The Highest God (To Know Your Son)/_md_archive/God_You_Are_The_Highest_God_(To_Know_Your_Son)_--_capo_6.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/God, You Are The Highest God (To Know Your Son)/_md_archive/God_You_Are_The_Highest_God_(To_Know_Your_Son)_--_capo_6.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "God, You Are The Highest God (To Know Your Son)/_md_archive/God You Are The Highest God -- live video.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/God, You Are The Highest God (To Know Your Son)/_md_archive/God You Are The Highest God -- live video.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "Sweet Chaos/_md_archive/Sweet Chaos - new song guitar idea.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/Sweet Chaos/_md_archive/Sweet Chaos - new song guitar idea.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "I Can't Get Low Enough/_md_archive/I_Cant_Get_Low_Enough__second_version.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/I Can't Get Low Enough/_md_archive/I_Cant_Get_Low_Enough__second_version.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "I Can't Get Low Enough/_md_archive/I Can\u2019t Get Low Enough_1.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/I Can't Get Low Enough/_md_archive/I Can\u2019t Get Low Enough_1.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "I Can't Get Low Enough/_md_archive/I Can\u2019t Get Low Enough_4.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/I Can't Get Low Enough/_md_archive/I Can\u2019t Get Low Enough_4.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "I Can't Get Low Enough/_md_archive/I Can\u2019t Get Low Enough_3.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/I Can't Get Low Enough/_md_archive/I Can\u2019t Get Low Enough_3.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "I Can't Get Low Enough/_md_archive/I Can\u2019t Get Low Enough_2.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/I Can't Get Low Enough/_md_archive/I Can\u2019t Get Low Enough_2.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "I Can't Get Low Enough/_md_archive/I_Cant_Get_Low_Enough__first_version.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/I Can't Get Low Enough/_md_archive/I_Cant_Get_Low_Enough__first_version.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "Even If You Take Everything/_md_archive/piano_Even_If_You_Take_Everything.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/Even If You Take Everything/_md_archive/piano_Even_If_You_Take_Everything.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "Even If You Take Everything/_md_archive/Even_If_You_Take_Everything_(cool_piano_part).md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/Even If You Take Everything/_md_archive/Even_If_You_Take_Everything_(cool_piano_part).md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "Even If You Take Everything/_md_archive/Even_If_You_Take_Everything__Bridge_and_all_the_singing.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/Even If You Take Everything/_md_archive/Even_If_You_Take_Everything__Bridge_and_all_the_singing.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "This Is Where I Belong/_md_archive/This Is Where I Belong BARITONE - 5-24-21 (with Spider Capo and AEADGB tuning).md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/This Is Where I Belong/_md_archive/This Is Where I Belong BARITONE - 5-24-21 (with Spider Capo and AEADGB tuning).md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "This Is Where I Belong/_md_archive/This Is Where I Belong BARITONE (figuring it out) - 5-22-21.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/This Is Where I Belong/_md_archive/This Is Where I Belong BARITONE (figuring it out) - 5-22-21.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "I Love You Oh My Father/_md_archive/a_little_bit_of_I_Love_You_Oh_My_Father.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/I Love You Oh My Father/_md_archive/a_little_bit_of_I_Love_You_Oh_My_Father.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "I Love You Oh My Father/_md_archive/Bridge_for_I_Love_You_Oh_My_Father.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/I Love You Oh My Father/_md_archive/Bridge_for_I_Love_You_Oh_My_Father.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "I Love You Oh My Father/_md_archive/more_of_I_Love_You_O_My_Father.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/I Love You Oh My Father/_md_archive/more_of_I_Love_You_O_My_Father.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "Hard to Get/_md_archive/Hard_To_Get_with_Jason_Chertos.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/Hard to Get/_md_archive/Hard_To_Get_with_Jason_Chertos.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "Hard to Get/_md_archive/Hard to Get-writing.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/Hard to Get/_md_archive/Hard to Get-writing.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "I Love The Way/_md_archive/I_Love_The_Way__and_in_higher_keys_too_(first_part_is_me_finding_it)_-_4-3-23.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/I Love The Way/_md_archive/I_Love_The_Way__and_in_higher_keys_too_(first_part_is_me_finding_it)_-_4-3-23.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "I Love The Way/_md_archive/I Love The Way (chords) - 5-22-21.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/I Love The Way/_md_archive/I Love The Way (chords) - 5-22-21.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "I Love The Way/_md_archive/I_Love_The_Way_-_gradually_more_full_then_key_changes_upwards_-_4-2-23.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/I Love The Way/_md_archive/I_Love_The_Way_-_gradually_more_full_then_key_changes_upwards_-_4-2-23.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__CO-WRITES__/The Day Of Judgment/_md_archive/The_Day_Of_Judgment__writing_(original_lyrics_Philip_Doddridge_born_1702).md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__CO-WRITES__/The Day Of Judgment/_md_archive/The_Day_Of_Judgment__writing_(original_lyrics_Philip_Doddridge_born_1702).md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__CO-WRITES__/The Day Of Judgment/_md_archive/The_Day_Of_Judgment__Dm.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__CO-WRITES__/The Day Of Judgment/_md_archive/The_Day_Of_Judgment__Dm.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__CO-WRITES__/The Day Of Judgment/_md_archive/The_Day_of_Judgment__Drum_Beat_for_Ending.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__CO-WRITES__/The Day Of Judgment/_md_archive/The_Day_of_Judgment__Drum_Beat_for_Ending.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__CO-WRITES__/The Day Of Judgment/_md_archive/The_Day_Of_Judgment__additional_chords_at_end.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__CO-WRITES__/The Day Of Judgment/_md_archive/The_Day_Of_Judgment__additional_chords_at_end.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__CO-WRITES__/I Will Only Love My Lord/_md_archive/I_Will_Only_Love_My_Lord_-_pg_1.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__CO-WRITES__/I Will Only Love My Lord/_md_archive/I_Will_Only_Love_My_Lord_-_pg_1.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__CO-WRITES__/I Will Only Love My Lord/_md_archive/I_Will_Only_Love_My_Lord_ideas.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__CO-WRITES__/I Will Only Love My Lord/_md_archive/I_Will_Only_Love_My_Lord_ideas.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__CO-WRITES__/I Will Only Love My Lord/_md_archive/I_Will_Only_Love_My_Lord_-_pg_2.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__CO-WRITES__/I Will Only Love My Lord/_md_archive/I_Will_Only_Love_My_Lord_-_pg_2.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__CO-WRITES__/Eric Gommesen/Our Lord/_md_archive/Our_Lord__Eric_G.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__CO-WRITES__/Eric Gommesen/Our Lord/_md_archive/Our_Lord__Eric_G.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/Marvelous Light/_md_archive/Marvelous Light - RV arrangement.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__MY ARRANGEMENTS__/Marvelous Light/_md_archive/Marvelous Light - RV arrangement.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/Marvelous Light/_md_archive/Marvelous Light + Salvation Is Here medley.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__MY ARRANGEMENTS__/Marvelous Light/_md_archive/Marvelous Light + Salvation Is Here medley.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/Why - Jonathan Reynolds/_md_archive/Why -- Jonathan McReynolds.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__MY ARRANGEMENTS__/Why - Jonathan Reynolds/_md_archive/Why -- Jonathan McReynolds.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/This Is What You Do/_md_archive/This Is What You Do-C.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__MY ARRANGEMENTS__/This Is What You Do/_md_archive/This Is What You Do-C.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/It's So Sweet To Trust In Jesus/_md_archive/'Tis So Sweet To Trust In Jesus.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__MY ARRANGEMENTS__/It's So Sweet To Trust In Jesus/_md_archive/'Tis So Sweet To Trust In Jesus.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/God, Be My Vision/_md_archive/And_guitar_God_Be_My_Vision_Chorus.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__MY ARRANGEMENTS__/God, Be My Vision/_md_archive/And_guitar_God_Be_My_Vision_Chorus.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/God, Be My Vision/_md_archive/God_Be_My_Vision_CHORUS_1.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__MY ARRANGEMENTS__/God, Be My Vision/_md_archive/God_Be_My_Vision_CHORUS_1.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/God, Be My Vision/_md_archive/God_Be_My_Vision_chorus_and_super-chorus.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__MY ARRANGEMENTS__/God, Be My Vision/_md_archive/God_Be_My_Vision_chorus_and_super-chorus.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/God, Be My Vision/_md_archive/God_Be_My_Vision_-_page_1.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__MY ARRANGEMENTS__/God, Be My Vision/_md_archive/God_Be_My_Vision_-_page_1.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/God, Be My Vision/_md_archive/God_Be_My_Vision_--_Notes_2.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__MY ARRANGEMENTS__/God, Be My Vision/_md_archive/God_Be_My_Vision_--_Notes_2.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/God, Be My Vision/_md_archive/God Be My Vision (easy to play).md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__MY ARRANGEMENTS__/God, Be My Vision/_md_archive/God Be My Vision (easy to play).md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/God, Be My Vision/_md_archive/God_Be_My_Vision_CHORUS_2.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__MY ARRANGEMENTS__/God, Be My Vision/_md_archive/God_Be_My_Vision_CHORUS_2.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/And Can It Be (Can It Be True)/_md_archive/And Can It Be - Am-Bm (1).md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__MY ARRANGEMENTS__/And Can It Be (Can It Be True)/_md_archive/And Can It Be - Am-Bm (1).md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__OLD__/The Lord Jesus Christ/_md_archive/The Lord Jesus Christ-WOchords-MR.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__OLD__/The Lord Jesus Christ/_md_archive/The Lord Jesus Christ-WOchords-MR.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__OLD__/In All Things/_md_archive/In All Things journal ideas.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__OLD__/In All Things/_md_archive/In All Things journal ideas.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__OLD__/It Is Time/_md_archive/It is time-withoutchords.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__OLD__/It Is Time/_md_archive/It is time-withoutchords.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__OLD__/Unknown and Misunderstood/_md_archive/Unknown and Misunderstood WO chords.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__OLD__/Unknown and Misunderstood/_md_archive/Unknown and Misunderstood WO chords.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__OLD__/Just Look Around/_md_archive/Just Look Around - WO chords - most recent.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__OLD__/Just Look Around/_md_archive/Just Look Around - WO chords - most recent.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__OLD__/Thank You, Lord/_md_archive/Thank You, Lord -- new chords.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__OLD__/Thank You, Lord/_md_archive/Thank You, Lord -- new chords.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__OLD__/All I Got Left Is God/_md_archive/All I Got Left Is God w chords.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__OLD__/All I Got Left Is God/_md_archive/All I Got Left Is God w chords.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__OLD__/God Is In The Business/_md_archive/God Is In The Business journal ideas.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__OLD__/God Is In The Business/_md_archive/God Is In The Business journal ideas.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__OLD__/Dance In My Pants/_md_archive/Writing Dance In My Pants.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__OLD__/Dance In My Pants/_md_archive/Writing Dance In My Pants.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__OLD__/You Will Never Die/_md_archive/You_Will_Never_Die_w_extra_ending_line_).md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__OLD__/You Will Never Die/_md_archive/You_Will_Never_Die_w_extra_ending_line_).md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__OLD__/Bring Us To You/_md_archive/Bring Them To You.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__OLD__/Bring Us To You/_md_archive/Bring Them To You.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__SONG IDEAS__/Time's Running Out (Repent)/_md_archive/Time's Running Out (Don't Die).md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__SONG IDEAS__/Time's Running Out (Repent)/_md_archive/Time's Running Out (Don't Die).md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__SONG IDEAS__/Jazzy Baritone Song/_md_archive/Jazzy baritone song 8.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__SONG IDEAS__/Jazzy Baritone Song/_md_archive/Jazzy baritone song 8.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__SONG IDEAS__/Jazzy Baritone Song/_md_archive/Jazzy baritone song 3.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__SONG IDEAS__/Jazzy Baritone Song/_md_archive/Jazzy baritone song 3.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__SONG IDEAS__/Jazzy Baritone Song/_md_archive/Jazzy baritone song 7.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__SONG IDEAS__/Jazzy Baritone Song/_md_archive/Jazzy baritone song 7.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__SONG IDEAS__/Jazzy Baritone Song/_md_archive/Jazzy baritone song 6.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__SONG IDEAS__/Jazzy Baritone Song/_md_archive/Jazzy baritone song 6.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__SONG IDEAS__/Jazzy Baritone Song/_md_archive/Jazzy baritone song 2.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__SONG IDEAS__/Jazzy Baritone Song/_md_archive/Jazzy baritone song 2.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__SONG IDEAS__/Jazzy Baritone Song/_md_archive/Jazzy baritone song 5.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__SONG IDEAS__/Jazzy Baritone Song/_md_archive/Jazzy baritone song 5.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__SONG IDEAS__/Jazzy Baritone Song/_md_archive/Jazzy baritone song 1.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__SONG IDEAS__/Jazzy Baritone Song/_md_archive/Jazzy baritone song 1.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__SONG IDEAS__/Jazzy Baritone Song/_md_archive/Jazzy baritone song 4.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__SONG IDEAS__/Jazzy Baritone Song/_md_archive/Jazzy baritone song 4.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__SONG IDEAS__/Holy, Lord Almighty \u2014 DADGAD Revelation worship/_md_archive/Holy_Lord_Almighty_-_pg_2.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__SONG IDEAS__/Holy, Lord Almighty \u2014 DADGAD Revelation worship/_md_archive/Holy_Lord_Almighty_-_pg_2.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__SONG IDEAS__/Surely You Care For Me/_md_archive/Surely you care for me_1.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__SONG IDEAS__/Surely You Care For Me/_md_archive/Surely you care for me_1.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__SONG IDEAS__/Some Days (Lord, Lead Me)/_md_archive/Some_Days___I_Love_You_O_My_Father.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__SONG IDEAS__/Some Days (Lord, Lead Me)/_md_archive/Some_Days___I_Love_You_O_My_Father.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__SONG IDEAS__/Before Everything/_md_archive/Before everything_2.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__SONG IDEAS__/Before Everything/_md_archive/Before everything_2.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__SONG IDEAS__/I Agree With What You Say/_md_archive/20200209 230211 I Agree Chorus.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__SONG IDEAS__/I Agree With What You Say/_md_archive/20200209 230211 I Agree Chorus.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__SONG IDEAS__/My Choice To Rejoice/_md_archive/My Choice To Rejoice lyrics.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__SONG IDEAS__/My Choice To Rejoice/_md_archive/My Choice To Rejoice lyrics.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__SONG IDEAS__/Dm9 spacey piano song/_md_archive/Dm9 spacey piano song - 0.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__SONG IDEAS__/Dm9 spacey piano song/_md_archive/Dm9 spacey piano song - 0.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__SONG IDEAS__/Dm9 spacey piano song/_md_archive/Dm9 spacey piano song - 1.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__SONG IDEAS__/Dm9 spacey piano song/_md_archive/Dm9 spacey piano song - 1.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__SONG IDEAS__/Solely Devoted To Your Love/_md_archive/Solely Devoted To Your Love - 9.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__SONG IDEAS__/Solely Devoted To Your Love/_md_archive/Solely Devoted To Your Love - 9.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__SONG IDEAS__/Solely Devoted To Your Love/_md_archive/Solely Devoted To Your Love - 2.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__SONG IDEAS__/Solely Devoted To Your Love/_md_archive/Solely Devoted To Your Love - 2.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__SONG IDEAS__/Solely Devoted To Your Love/_md_archive/Solely Devoted To Your Love - 6.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__SONG IDEAS__/Solely Devoted To Your Love/_md_archive/Solely Devoted To Your Love - 6.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__SONG IDEAS__/Solely Devoted To Your Love/_md_archive/Solely Devoted To Your Love - 7.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__SONG IDEAS__/Solely Devoted To Your Love/_md_archive/Solely Devoted To Your Love - 7.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__SONG IDEAS__/Solely Devoted To Your Love/_md_archive/Solely Devoted To Your Love - 3.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__SONG IDEAS__/Solely Devoted To Your Love/_md_archive/Solely Devoted To Your Love - 3.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__SONG IDEAS__/Solely Devoted To Your Love/_md_archive/Solely Devoted To Your Love - 4.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__SONG IDEAS__/Solely Devoted To Your Love/_md_archive/Solely Devoted To Your Love - 4.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__SONG IDEAS__/Solely Devoted To Your Love/_md_archive/Solely Devoted To Your Love - 0.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__SONG IDEAS__/Solely Devoted To Your Love/_md_archive/Solely Devoted To Your Love - 0.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__SONG IDEAS__/Solely Devoted To Your Love/_md_archive/Solely Devoted To Your Love - 1.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__SONG IDEAS__/Solely Devoted To Your Love/_md_archive/Solely Devoted To Your Love - 1.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__SONG IDEAS__/Solely Devoted To Your Love/_md_archive/Solely Devoted To Your Love - 5.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__SONG IDEAS__/Solely Devoted To Your Love/_md_archive/Solely Devoted To Your Love - 5.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__SONG IDEAS__/__RIFFS__/8-String/_md_archive/8-String_Little_Rock_Vibe_moving_A_shape_idea.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__SONG IDEAS__/__RIFFS__/8-String/_md_archive/8-String_Little_Rock_Vibe_moving_A_shape_idea.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__SONG IDEAS__/__RIFFS__/8-String/_md_archive/Am_fun_bar_chord_8-string_song.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__SONG IDEAS__/__RIFFS__/8-String/_md_archive/Am_fun_bar_chord_8-string_song.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__SONG IDEAS__/__RIFFS__/8-String/_md_archive/8-string_song_2.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__SONG IDEAS__/__RIFFS__/8-String/_md_archive/8-string_song_2.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__SONG IDEAS__/__RIFFS__/8-String/_md_archive/Diminished_riff_on_8-string_with_Fender_amp.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__SONG IDEAS__/__RIFFS__/8-String/_md_archive/Diminished_riff_on_8-string_with_Fender_amp.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__SONG IDEAS__/__RIFFS__/8-String/_md_archive/8-string_song_3.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__SONG IDEAS__/__RIFFS__/8-String/_md_archive/8-string_song_3.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    },
+    {
+      "from": "__SONG IDEAS__/__RIFFS__/8-String/_md_archive/8-string_drop_C_song_D.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose/__SONG IDEAS__/__RIFFS__/8-String/_md_archive/8-string_drop_C_song_D.md",
+      "similarity": 1.0,
+      "len_ratio": 1.0
+    }
+  ],
+  "kept_materially_different_sample": [
+    {
+      "file": "Blazing Light of God/_md_archive/Blazing Light of God ba5b312faa3f47588fba360a9c34ea5c.md",
+      "similarity": 0.077,
+      "len_ratio": 0.522,
+      "reason": "materially_different"
+    },
+    {
+      "file": "God Almighty Lord Of All/_md_archive/God Almighty, Lord of All 032843cec8ef442d8ad5f93a0f29f7d8.md",
+      "similarity": 0.083,
+      "len_ratio": 0.413,
+      "reason": "materially_different"
+    },
+    {
+      "file": "My, My Mind/_md_archive/My, My Mind 9b9f353c3cf044668128886b6b60d892.md",
+      "similarity": 0.047,
+      "len_ratio": 0.457,
+      "reason": "materially_different"
+    },
+    {
+      "file": "God, Make That Fruit Grow/_md_archive/God, Make That Fruit Grow 060d5c45feca49ad8503f15192d2125d.md",
+      "similarity": 0.057,
+      "len_ratio": 0.609,
+      "reason": "materially_different"
+    },
+    {
+      "archive_dir": "Beautiful Flower Of God/_md_archive",
+      "file": "(all)",
+      "reason": "canonical_missing"
+    },
+    {
+      "file": "Be Near To Me/_md_archive/Be Near To Me BARITONE -- starting to figure a little bit out.md",
+      "similarity": 0.085,
+      "len_ratio": 0.391,
+      "reason": "materially_different"
+    },
+    {
+      "file": "Is Loving Worth The Loss/_md_archive/Chorus_transposes_Is_Loving_Worth_The_Loss.md",
+      "similarity": 0.119,
+      "len_ratio": 0.958,
+      "reason": "materially_different"
+    },
+    {
+      "file": "Is Loving Worth The Loss/_md_archive/Is_Loving_Worth_The_Loss.md",
+      "similarity": 0.119,
+      "len_ratio": 0.958,
+      "reason": "materially_different"
+    },
+    {
+      "file": "Is Loving Worth The Loss/_md_archive/Really_high_Is_Loving_Worth_The_Loss_(Nay).md",
+      "similarity": 0.119,
+      "len_ratio": 0.958,
+      "reason": "materially_different"
+    },
+    {
+      "file": "Is Loving Worth The Loss/_md_archive/Another_verse_idea_Is_Loving_Worth_The_Loss.md",
+      "similarity": 0.119,
+      "len_ratio": 0.958,
+      "reason": "materially_different"
+    },
+    {
+      "file": "Is Loving Worth The Loss/_md_archive/Is_Losing_Worth_The_Loss_2.md",
+      "similarity": 0.119,
+      "len_ratio": 0.958,
+      "reason": "materially_different"
+    },
+    {
+      "file": "Is Loving Worth The Loss/_md_archive/Bridge_idea_Is_Loving_Worth_The_Loss.md",
+      "similarity": 0.119,
+      "len_ratio": 0.958,
+      "reason": "materially_different"
+    },
+    {
+      "file": "Is Loving Worth The Loss/_md_archive/Verse_idea_Is_Loving_Worth_The_Loss.md",
+      "similarity": 0.119,
+      "len_ratio": 0.958,
+      "reason": "materially_different"
+    },
+    {
+      "file": "Is Loving Worth The Loss/_md_archive/Jesus_Chorus_Is_Loving_Worth_The_Loss.md",
+      "similarity": 0.119,
+      "len_ratio": 0.958,
+      "reason": "materially_different"
+    },
+    {
+      "file": "You Prepare My Path For Me/_md_archive/You Prepare My Path For Me cddc68b4c10a4660915b3e11432629f8.md",
+      "similarity": 0.073,
+      "len_ratio": 0.913,
+      "reason": "materially_different"
+    },
+    {
+      "file": "Following Your Voice/_md_archive/Following Your Voice 1fa2678d11634a12b6c3bdc2bf991703.md",
+      "similarity": 0.036,
+      "len_ratio": 0.87,
+      "reason": "materially_different"
+    },
+    {
+      "file": "Finding It Hard/_md_archive/Finding It Hard 35cec4339be44ba38541f809695cce9c.md",
+      "similarity": 0.068,
+      "len_ratio": 0.37,
+      "reason": "materially_different"
+    },
+    {
+      "file": "Whom Have I In Heaven But You/_md_archive/Whom Have I In Heaven But You 6e721bef6cbb4b6a98388cb40be3a097.md",
+      "similarity": 0.057,
+      "len_ratio": 0.609,
+      "reason": "materially_different"
+    },
+    {
+      "file": "My Body/_md_archive/My Body 9e20edb44c8348b4a2e7e81a32fe1b7b.md",
+      "similarity": 0.045,
+      "len_ratio": 0.522,
+      "reason": "materially_different"
+    },
+    {
+      "file": "Come Soon/_md_archive/20200421 130808 Come Soon alt lyrics -- Ever with our blessed King.md",
+      "similarity": 0.047,
+      "len_ratio": 0.457,
+      "reason": "materially_different"
+    },
+    {
+      "file": "Come Soon/_md_archive/Come_Soon__05-06-22.md",
+      "similarity": 0.047,
+      "len_ratio": 0.457,
+      "reason": "materially_different"
+    },
+    {
+      "file": "Devil Battle/_md_archive/Devil Battle 6b03a6a5e9144b5a9707e3c3cd17e2ff.md",
+      "similarity": 0.062,
+      "len_ratio": 0.478,
+      "reason": "materially_different"
+    },
+    {
+      "file": "Live In Purity/_md_archive/Live_In_Purity_(in_car_w_wife_Britt__Christian)_-_10-25-2020.md",
+      "similarity": 0.102,
+      "len_ratio": 0.336,
+      "reason": "materially_different"
+    },
+    {
+      "file": "Taste And See/_md_archive/Taste And See 58681e3c10d24884a4eacb94a460f291.md",
+      "similarity": 0.068,
+      "len_ratio": 0.37,
+      "reason": "materially_different"
+    },
+    {
+      "archive_dir": "Up Above The Dark Plain/_md_archive",
+      "file": "(all)",
+      "reason": "canonical_missing"
+    },
+    {
+      "file": "Livin' For The King/_md_archive/Livin\u2019 For The King 2ba1c8bed73f491f8c42a23ddae042a7.md",
+      "similarity": 0.069,
+      "len_ratio": 0.674,
+      "reason": "materially_different"
+    },
+    {
+      "file": "Turn On The Light/_md_archive/Turn_On_The_Light_-_working_on_piano_and_vocals.md",
+      "similarity": 0.068,
+      "len_ratio": 0.37,
+      "reason": "materially_different"
+    },
+    {
+      "file": "Whatchu Want/_md_archive/Whatchu Want additional LYRICS.md",
+      "similarity": 0.052,
+      "len_ratio": 0.326,
+      "reason": "materially_different"
+    },
+    {
+      "file": "Whatchu Want/_md_archive/Whatchu Want BARITONE 5-21-21.md",
+      "similarity": 0.052,
+      "len_ratio": 0.326,
+      "reason": "materially_different"
+    },
+    {
+      "file": "Whatchu Want/_md_archive/more_Whatchu_Want.md",
+      "similarity": 0.052,
+      "len_ratio": 0.326,
+      "reason": "materially_different"
+    },
+    {
+      "file": "God, You Are The Highest God (To Know Your Son)/_md_archive/God, You Are The Highest God (To Know Your Son) 1ebe5a73f1d980cebce9ce9dc2ccb9b2.md",
+      "similarity": 0.045,
+      "len_ratio": 0.979,
+      "reason": "materially_different"
+    },
+    {
+      "archive_dir": "Tidal Wave Of Grace/_md_archive",
+      "file": "(all)",
+      "reason": "canonical_missing"
+    },
+    {
+      "file": "Think About The Good Things (Always Be Thankful)/_md_archive/Think About The Good Things - Ab.md",
+      "similarity": 0.099,
+      "len_ratio": 0.708,
+      "reason": "materially_different"
+    },
+    {
+      "file": "Think About The Good Things (Always Be Thankful)/_md_archive/Think_About_The_Good_Things_(Always_Be_Thankful)_--_Philippians_and_1_Thessalonians_song.md",
+      "similarity": 0.099,
+      "len_ratio": 0.708,
+      "reason": "materially_different"
+    },
+    {
+      "file": "The Writer/_md_archive/The Writer - with time sig changes marked.md",
+      "similarity": 0.086,
+      "len_ratio": 0.495,
+      "reason": "materially_different"
+    },
+    {
+      "file": "The Writer/_md_archive/The Writer - finishing.md",
+      "similarity": 0.086,
+      "len_ratio": 0.495,
+      "reason": "materially_different"
+    },
+    {
+      "file": "The Writer/_md_archive/The Writer some older ideas.md",
+      "similarity": 0.086,
+      "len_ratio": 0.495,
+      "reason": "materially_different"
+    },
+    {
+      "file": "The Writer/_md_archive/The Writer - almost finished.md",
+      "similarity": 0.086,
+      "len_ratio": 0.495,
+      "reason": "materially_different"
+    },
+    {
+      "file": "The Writer/_md_archive/The Writer & Sophie's World.md",
+      "similarity": 0.086,
+      "len_ratio": 0.495,
+      "reason": "materially_different"
+    },
+    {
+      "file": "The Writer/_md_archive/The Writer - just words no headings.md",
+      "similarity": 0.086,
+      "len_ratio": 0.495,
+      "reason": "materially_different"
+    },
+    {
+      "file": "The Writer/_md_archive/The Writer journal ideas.md",
+      "similarity": 0.086,
+      "len_ratio": 0.495,
+      "reason": "materially_different"
+    },
+    {
+      "file": "The Writer/_md_archive/The Writer -- Em.md",
+      "similarity": 0.086,
+      "len_ratio": 0.495,
+      "reason": "materially_different"
+    },
+    {
+      "file": "The Writer/_md_archive/The Writer CHORDS.md",
+      "similarity": 0.086,
+      "len_ratio": 0.495,
+      "reason": "materially_different"
+    },
+    {
+      "file": "The Writer/_md_archive/The Writer WO chords old.md",
+      "similarity": 0.086,
+      "len_ratio": 0.495,
+      "reason": "materially_different"
+    },
+    {
+      "file": "I Can't Get Low Enough/_md_archive/I Can\u2019t Get Low Enough 7b99eee869bc4c7391765aa3ae01910c.md",
+      "similarity": 0.073,
+      "len_ratio": 0.913,
+      "reason": "materially_different"
+    },
+    {
+      "file": "Offer My Body As A Living Sacrifice/_md_archive/Offer My Body As A Living Sacrifice fc7d67786b30464ea1b4ab6cb74d8dae.md",
+      "similarity": 0.059,
+      "len_ratio": 0.565,
+      "reason": "materially_different"
+    },
+    {
+      "file": "Even If You Take Everything/_md_archive/Even If You Take Everything 295ac5362c3e47e28422104e71906cd3.md",
+      "similarity": 0.043,
+      "len_ratio": 0.587,
+      "reason": "materially_different"
+    },
+    {
+      "file": "I Died With Jesus/_md_archive/I Died With Jesus 683247317c0e40c6814e82e58da41970.md",
+      "similarity": 0.061,
+      "len_ratio": 0.793,
+      "reason": "materially_different"
+    },
+    {
+      "file": "My Soul's Tied In Your Soul/_md_archive/writing_My_Souls_Tied_In_Your_Soul.md",
+      "similarity": 0.043,
+      "len_ratio": 0.587,
+      "reason": "materially_different"
+    },
+    {
+      "file": "My Soul's Tied In Your Soul/_md_archive/My_Souls_Tied_In_Your_Soul_-_3.md",
+      "similarity": 0.043,
+      "len_ratio": 0.587,
+      "reason": "materially_different"
+    },
+    {
+      "file": "My Soul's Tied In Your Soul/_md_archive/My_Souls_Tied_In_Your_Soul_(My_Heart_Breaks).md",
+      "similarity": 0.043,
+      "len_ratio": 0.587,
+      "reason": "materially_different"
+    },
+    {
+      "file": "My Soul's Tied In Your Soul/_md_archive/My_Souls_Tied_In_Your_Soul_-_2.md",
+      "similarity": 0.043,
+      "len_ratio": 0.587,
+      "reason": "materially_different"
+    },
+    {
+      "file": "This Is Where I Belong/_md_archive/This Is Where I Belong 241e5a73f1d980bc949ccae0e9d542ab.md",
+      "similarity": 0.095,
+      "len_ratio": 0.5,
+      "reason": "materially_different"
+    },
+    {
+      "file": "Ever Deeper/_md_archive/Ever Deeper b50b46a65dcc484baa3c31da86fae23d.md",
+      "similarity": 0.07,
+      "len_ratio": 0.226,
+      "reason": "materially_different"
+    },
+    {
+      "file": "Work In Progress (I Need Help Too)/_md_archive/Work In Progress (I Need Help, Too) fffe5a73f1d980538d7add2651b65df6.md",
+      "similarity": 0.048,
+      "len_ratio": 0.435,
+      "reason": "materially_different"
+    },
+    {
+      "file": "I Love You Oh My Father/_md_archive/I Love You, O My Father 1a5fd3d6fb2b43a49a18453f3ccd2bb4.md",
+      "similarity": 0.1,
+      "len_ratio": 0.474,
+      "reason": "materially_different"
+    },
+    {
+      "file": "Hard to Get/_md_archive/Hard To Get 23ee5a73f1d98004b3d1d4484d73d3ae.md",
+      "similarity": 0.068,
+      "len_ratio": 0.37,
+      "reason": "materially_different"
+    },
+    {
+      "file": "I Love The Way/_md_archive/I Love The Way 23ee5a73f1d9806d97b5e173f0db0315.md",
+      "similarity": 0.082,
+      "len_ratio": 0.435,
+      "reason": "materially_different"
+    },
+    {
+      "file": "The Unlovely One/_md_archive/The Unlovely One 4c641e35366a40dbba93e8602a4a33ea.md",
+      "similarity": 0.069,
+      "len_ratio": 0.348,
+      "reason": "materially_different"
+    },
+    {
+      "file": "__CO-WRITES__/The Day Of Judgment/_md_archive/The Day Of Judgment 7caad0495c974fccbf0115d2df5eef93.md",
+      "similarity": 0.07,
+      "len_ratio": 0.652,
+      "reason": "materially_different"
+    },
+    {
+      "file": "__CO-WRITES__/I Will Only Love My Lord/_md_archive/I Will Only Love My Lord d5de9fcb4c8844c3b7e3127240f9c3e6.md",
+      "similarity": 0.1,
+      "len_ratio": 0.719,
+      "reason": "materially_different"
+    },
+    {
+      "archive_dir": "__CO-WRITES__/Ken Meringa/Moments Of Grace/_md_archive",
+      "file": "(all)",
+      "reason": "canonical_missing"
+    },
+    {
+      "file": "__MY ARRANGEMENTS__/God, Be My Vision/_md_archive/God, Be My Vision 760ca19416d7450a889a008deebc5ff1.md",
+      "similarity": 0.056,
+      "len_ratio": 0.958,
+      "reason": "materially_different"
+    },
+    {
+      "file": "__OLD__/My God/_md_archive/My God-withoutchords.md",
+      "similarity": 0.065,
+      "len_ratio": 0.435,
+      "reason": "materially_different"
+    },
+    {
+      "file": "__OLD__/My God/_md_archive/My_God_-_5-28-21.md",
+      "similarity": 0.065,
+      "len_ratio": 0.435,
+      "reason": "materially_different"
+    },
+    {
+      "file": "__OLD__/The Lord Jesus Christ/_md_archive/The Lord Jesus Christ 248e5a73f1d98095a478e85d4114f094.md",
+      "similarity": 0.071,
+      "len_ratio": 0.304,
+      "reason": "materially_different"
+    },
+    {
+      "file": "__OLD__/It Is Time/_md_archive/It Is Time 248e5a73f1d980fb916ee674a8bee9af.md",
+      "similarity": 0.073,
+      "len_ratio": 0.283,
+      "reason": "materially_different"
+    },
+    {
+      "file": "__OLD__/Unknown and Misunderstood/_md_archive/Unknown and Misunderstood 241e5a73f1d98028ba01e560517edb08.md",
+      "similarity": 0.054,
+      "len_ratio": 0.283,
+      "reason": "materially_different"
+    },
+    {
+      "file": "__OLD__/You Are The Light/_md_archive/You Are The Light-without chords.md",
+      "similarity": 0.053,
+      "len_ratio": 0.304,
+      "reason": "materially_different"
+    },
+    {
+      "file": "__OLD__/If Tacos Could Talk-Oh!/_md_archive/If Tacos Could Talk-Oh! 42d8ed04e54b442bb2e664401488faa5.md",
+      "similarity": 0.108,
+      "len_ratio": 0.783,
+      "reason": "materially_different"
+    },
+    {
+      "file": "__OLD__/You Will Never Die/_md_archive/You Will Never Die 797fdc575b174a619a95b86df59f7ca8.md",
+      "similarity": 0.05,
+      "len_ratio": 0.37,
+      "reason": "materially_different"
+    },
+    {
+      "archive_dir": "__OLD__/You Are My God/_md_archive",
+      "file": "(all)",
+      "reason": "canonical_missing"
+    },
+    {
+      "file": "__SONG IDEAS__/To Feat You Is The Beginning Of Knowledge/_md_archive/To_Fear_You_Is_The_Beginning_Of_Knowledge__Cdim7-G_then_Fmajor_then_Gm_passing_chord.md",
+      "similarity": 0.11,
+      "len_ratio": 0.978,
+      "reason": "materially_different"
+    },
+    {
+      "file": "__SONG IDEAS__/Holy, Lord Almighty \u2014 DADGAD Revelation worship/_md_archive/Holy, Lord Almighty \u2014 DADGAD Revelation worship 89251da8345a49fe9bb89e8fa7fb7240.md",
+      "similarity": 0.057,
+      "len_ratio": 1.0,
+      "reason": "materially_different"
+    },
+    {
+      "file": "__SONG IDEAS__/Some Days (Lord, Lead Me)/_md_archive/Some Days (Lord, Lead Me) b18b574265314f93ba1f7c22ec236096.md",
+      "similarity": 0.068,
+      "len_ratio": 0.958,
+      "reason": "materially_different"
+    },
+    {
+      "archive_dir": "__SONG IDEAS__/Even If I Have To Say No/_md_archive",
+      "file": "(all)",
+      "reason": "canonical_missing"
+    },
+    {
+      "file": "__SONG IDEAS__/Lord We Give You The Praise/_md_archive/Lord_We_Give_You_The_Praise__4-18-21.md",
+      "similarity": 0.081,
+      "len_ratio": 0.739,
+      "reason": "materially_different"
+    },
+    {
+      "file": "__SONG IDEAS__/No More Idols/_md_archive/No more idols 8d5271384d804c2ba23013736ce34708.md",
+      "similarity": 0.047,
+      "len_ratio": 0.457,
+      "reason": "materially_different"
+    },
+    {
+      "file": "__SONG IDEAS__/I Wanna Love You Like You're Right Here/_md_archive/I Wanna Love You Like You\u2019re Right Here f9a8aa808b504962ac95a87c0eff63cc.md",
+      "similarity": 0.059,
+      "len_ratio": 0.565,
+      "reason": "materially_different"
+    },
+    {
+      "file": "__SONG IDEAS__/Thought To Thought/_md_archive/Thought to Thought 6bac43389ffc40da9015c8d7048c8e50.md",
+      "similarity": 0.059,
+      "len_ratio": 0.565,
+      "reason": "materially_different"
+    },
+    {
+      "file": "__SONG IDEAS__/You\u2019re Bringing Me Into A Brand New Season/_md_archive/You\u2019re Bringing Me Into A Brand New Season 1ece5a73f1d980f9a660e87f39ddea87.md",
+      "similarity": 0.064,
+      "len_ratio": 0.804,
+      "reason": "materially_different"
+    },
+    {
+      "file": "__SONG IDEAS__/Oh how I love You!/_md_archive/Oh how I love You! 1ece5a73f1d980bfb2d6cd0205f5050d.md",
+      "similarity": 0.043,
+      "len_ratio": 0.565,
+      "reason": "materially_different"
+    },
+    {
+      "file": "__SONG IDEAS__/Lead Me (Her) Lord/_md_archive/Lead_Me-Her_Lord_-_4-6-22.md",
+      "similarity": 0.062,
+      "len_ratio": 0.478,
+      "reason": "materially_different"
+    },
+    {
+      "file": "__SONG IDEAS__/It's Been A Minute/_md_archive/Its_been_a_minute_since_I_been_in_it.md",
+      "similarity": 0.107,
+      "len_ratio": 0.804,
+      "reason": "materially_different"
+    },
+    {
+      "file": "__SONG IDEAS__/Warning Song (I\u2019m Thankful For No)/_md_archive/Warning Song (I\u2019m Thankful For No) 1ece5a73f1d980e49868cf6120415ff1.md",
+      "similarity": 0.056,
+      "len_ratio": 0.652,
+      "reason": "materially_different"
+    },
+    {
+      "file": "__SONG IDEAS__/It's Like You Knew All Along/_md_archive/Its_like_You_knew_all_along_(remarking_after_seeing_Linnea_laugh_at_my_gasp_comment).md",
+      "similarity": 0.093,
+      "len_ratio": 0.783,
+      "reason": "materially_different"
+    },
+    {
+      "file": "__SONG IDEAS__/It's Amazing To Me, Your Sovereignty/_md_archive/It\u2019s Amazing To Me, Your Sovereignty 4ba0aea47391493f856d5ba9fe9d00f0.md",
+      "similarity": 0.095,
+      "len_ratio": 0.5,
+      "reason": "materially_different"
+    },
+    {
+      "file": "__SONG IDEAS__/Praise God (Baptism Song)/_md_archive/Praise_God!_Baptism_Song__see_ending.md",
+      "similarity": 0.045,
+      "len_ratio": 0.522,
+      "reason": "materially_different"
+    },
+    {
+      "file": "__SONG IDEAS__/Covenant With My Eyes/_md_archive/Covenant With My Eyes de4bdbdcf5b24f09854ca1dd921f4e3a.md",
+      "similarity": 0.062,
+      "len_ratio": 0.478,
+      "reason": "materially_different"
+    },
+    {
+      "file": "__SONG IDEAS__/I\u2019ll Use Up All My Strength For You/_md_archive/I\u2019ll Use Up All My Strength For You 7cbe89dd673c47559037b070f6b52dcc.md",
+      "similarity": 0.062,
+      "len_ratio": 0.848,
+      "reason": "materially_different"
+    },
+    {
+      "file": "__SONG IDEAS__/Make Christ The Judge Your Friend/_md_archive/Make Christ the Judge your friend d031f95387a448a8a8e8604d6d587879.md",
+      "similarity": 0.086,
+      "len_ratio": 0.913,
+      "reason": "materially_different"
+    },
+    {
+      "file": "__SONG IDEAS__/I Love Her, But She Ain't My Girlfriend/_md_archive/I Love Her, But She Ain't My Girlfriend 77590f939338470793b047288bca77ba.md",
+      "similarity": 0.058,
+      "len_ratio": 0.587,
+      "reason": "materially_different"
+    },
+    {
+      "file": "__SONG IDEAS__/I Thought I Wanted To Love You/_md_archive/I Thought I Wanted To Love You 81278cbafa5f4cb397920515e798ea20.md",
+      "similarity": 0.077,
+      "len_ratio": 0.522,
+      "reason": "materially_different"
+    },
+    {
+      "file": "__SONG IDEAS__/Love With No Strings Attached/_md_archive/Love With No Strings Attached a86c1d1dbdfc4d3798db2c9bcd8f6c81.md",
+      "similarity": 0.113,
+      "len_ratio": 0.717,
+      "reason": "materially_different"
+    },
+    {
+      "file": "__SONG IDEAS__/Cash (Isn't What Matters)/Cash_(isnt_what_matters)/_md_archive/Cash (isn\u2019t what matters) 8412ba8528314604a001fb18aa352347.md",
+      "similarity": 0.055,
+      "len_ratio": 0.674,
+      "reason": "materially_different"
+    }
+  ],
+  "removed_empty_md_archive_dirs": [
+    "Without A Cause/_md_archive",
+    "Walking In The Garden/_md_archive",
+    "Time's Running Out (Repent)/_md_archive",
+    "You Are God, Amen/_md_archive",
+    "I Look Up To The Holy God/_md_archive",
+    "The Longing Of The Soul/_md_archive",
+    "Way of the Wise/_md_archive",
+    "Sweet Chaos/_md_archive",
+    "__CO-WRITES__/Eric Gommesen/Our Lord/_md_archive",
+    "__MY ARRANGEMENTS__/Marvelous Light/_md_archive",
+    "__MY ARRANGEMENTS__/Why - Jonathan Reynolds/_md_archive",
+    "__MY ARRANGEMENTS__/This Is What You Do/_md_archive",
+    "__MY ARRANGEMENTS__/It's So Sweet To Trust In Jesus/_md_archive",
+    "__MY ARRANGEMENTS__/And Can It Be (Can It Be True)/_md_archive",
+    "__OLD__/In All Things/_md_archive",
+    "__OLD__/Just Look Around/_md_archive",
+    "__OLD__/Thank You, Lord/_md_archive",
+    "__OLD__/All I Got Left Is God/_md_archive",
+    "__OLD__/God Is In The Business/_md_archive",
+    "__OLD__/Dance In My Pants/_md_archive",
+    "__OLD__/Bring Us To You/_md_archive",
+    "__SONG IDEAS__/Time's Running Out (Repent)/_md_archive",
+    "__SONG IDEAS__/Jazzy Baritone Song/_md_archive",
+    "__SONG IDEAS__/Surely You Care For Me/_md_archive",
+    "__SONG IDEAS__/Before Everything/_md_archive",
+    "__SONG IDEAS__/I Agree With What You Say/_md_archive",
+    "__SONG IDEAS__/My Choice To Rejoice/_md_archive",
+    "__SONG IDEAS__/Dm9 spacey piano song/_md_archive",
+    "__SONG IDEAS__/Solely Devoted To Your Love/_md_archive",
+    "__SONG IDEAS__/__RIFFS__/8-String/_md_archive"
+  ],
+  "trash_root": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Archive-Cleanup-Loose",
+  "rules": {
+    "similarity_threshold_primary": 0.72,
+    "secondary_similarity": 0.58,
+    "secondary_len_ratio": 0.65,
+    "frontmatter_ignored": true
+  },
+  "errors": []
+}

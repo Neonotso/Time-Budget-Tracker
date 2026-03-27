@@ -1,0 +1,95 @@
+{
+  "root": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs",
+  "trash_root": "/Users/ryantaylorvegh/.Trash/OpenClaw-Dedupe",
+  "trashed_identical_count": 17,
+  "needs_review_count": 3,
+  "errors_count": 0,
+  "trashed_identical": [
+    {
+      "from": "Moth To The Flame/Moth To The Flame (2).txt",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-Dedupe/Moth To The Flame/Moth To The Flame (2).txt"
+    },
+    {
+      "from": "My, My Mind/My, My Mind (2).txt",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-Dedupe/My, My Mind/My, My Mind (2).txt"
+    },
+    {
+      "from": "Isaiah 25/Isaiah 25 (2).pages",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-Dedupe/Isaiah 25/Isaiah 25 (2).pages"
+    },
+    {
+      "from": "You Prepare My Path For Me/You Prepare My Path For Me (2).pdf",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-Dedupe/You Prepare My Path For Me/You Prepare My Path For Me (2).pdf"
+    },
+    {
+      "from": "You Prepare My Path For Me/You Prepare My Path For Me (finished) (2).txt",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-Dedupe/You Prepare My Path For Me/You Prepare My Path For Me (finished) (2).txt"
+    },
+    {
+      "from": "For The Rest Of The Night/For The Rest Of The Night (2).txt",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-Dedupe/For The Rest Of The Night/For The Rest Of The Night (2).txt"
+    },
+    {
+      "from": "For The Rest Of The Night/For The Rest Of The Night - Ryan Vegh - D (2).pdf",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-Dedupe/For The Rest Of The Night/For The Rest Of The Night - Ryan Vegh - D (2).pdf"
+    },
+    {
+      "from": "Perfect For Me/Perfect For Me (2).doc",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-Dedupe/Perfect For Me/Perfect For Me (2).doc"
+    },
+    {
+      "from": "Oh How Wonderful Are You Jesus/Oh How Wonderful Are You Jesus (2).doc",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-Dedupe/Oh How Wonderful Are You Jesus/Oh How Wonderful Are You Jesus (2).doc"
+    },
+    {
+      "from": "Oh Marvelous Love Of My Blessed Jesus/Oh Marvelous Love Of My Blessed Jesus (2).pages",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-Dedupe/Oh Marvelous Love Of My Blessed Jesus/Oh Marvelous Love Of My Blessed Jesus (2).pages"
+    },
+    {
+      "from": "God, You Are The Highest God (To Know Your Son)/God, You Are The Highest God (To Know Your Son) -- capo 6 (2).pdf",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-Dedupe/God, You Are The Highest God (To Know Your Son)/God, You Are The Highest God (To Know Your Son) -- capo 6 (2).pdf"
+    },
+    {
+      "from": "Tidal Wave Of Grace/Tidal Wave of Grace (2).txt",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-Dedupe/Tidal Wave Of Grace/Tidal Wave of Grace (2).txt"
+    },
+    {
+      "from": "Think About The Good Things (Always Be Thankful)/Think About The Good Things (Always Be Thankful) (2).txt",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-Dedupe/Think About The Good Things (Always Be Thankful)/Think About The Good Things (Always Be Thankful) (2).txt"
+    },
+    {
+      "from": "Even If You Take Everything/Even If You Take Everything (2).txt",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-Dedupe/Even If You Take Everything/Even If You Take Everything (2).txt"
+    },
+    {
+      "from": "My Soul's Tied In Your Soul/My Soul's Tied In Your Soul (2).txt",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-Dedupe/My Soul's Tied In Your Soul/My Soul's Tied In Your Soul (2).txt"
+    },
+    {
+      "from": "Work In Progress (I Need Help Too)/Work In Progress (I Need Help, Too) (2).txt",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-Dedupe/Work In Progress (I Need Help Too)/Work In Progress (I Need Help, Too) (2).txt"
+    },
+    {
+      "from": "I Will Be Still/I Will Be Still (2).pages",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-Dedupe/I Will Be Still/I Will Be Still (2).pages"
+    }
+  ],
+  "needs_review": [
+    {
+      "duplicate": "God, Make That Fruit Grow/God, Make That Fruit Grow! (2).txt",
+      "base": "God, Make That Fruit Grow/God, Make That Fruit Grow!.txt",
+      "status": "different_content"
+    },
+    {
+      "duplicate": "Beautiful Flower Of God/Beautiful Flower of God (2).txt",
+      "base": "Beautiful Flower Of God/Beautiful Flower of God.txt",
+      "status": "different_size"
+    },
+    {
+      "duplicate": "Live In Purity/Live In Purity (2).pages",
+      "base": "Live In Purity/Live In Purity.pages",
+      "status": "base_missing"
+    }
+  ],
+  "errors": []
+}
