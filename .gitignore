@@ -80,4 +80,4 @@ coverage/
 
 # --- Package locks / manifests should stay tracked ---
 !package-lock.json
-!package.json
+!package.json**/.DS_Store
