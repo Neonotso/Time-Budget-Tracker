@@ -482,8 +482,10 @@ def main():
 
         category, desc_base, is_income = cls
         if is_income:
-            if category not in valid_income_categories:
-                category = 'Reimbursement' if 'Reimbursement' in valid_income_categories else 'Other'
+            # Income dropdown lookups can be flaky/empty depending on how the sheet is set up.
+            # Preserve explicit income categories like Reimbursement rather than degrading to Other.
+            if not category:
+                category = 'Reimbursement'
         else:
             if category not in valid_expense_categories:
                 category = 'Other'
