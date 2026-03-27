@@ -13,6 +13,7 @@ from google.auth.transport.requests import Request
 from googleapiclient.discovery import build
 
 EXPENSE_DROPDOWN_RANGE = "📊 Summary!B27:C46"
+INCOME_DROPDOWN_RANGE = "📊 Summary!G27:H33"
 
 WORKDIR = Path('/Users/ryantaylorvegh/.openclaw/workspace')
 AGENTMAIL_ENV = WORKDIR / '.secrets/agentmail.env'
@@ -86,6 +87,22 @@ def find_next_expense_row(svc) -> int:
         row += 1
     return row
 
+def find_next_income_row(svc) -> int:
+    vals = svc.spreadsheets().values().get(
+        spreadsheetId=SHEET_ID,
+        range=f'{SHEET_NAME}!G4:J500'
+    ).execute().get('values', [])
+    row = 4
+    for r in vals:
+        g = (r[0] if len(r) > 0 else '').strip()
+        h = (r[1] if len(r) > 1 else '').strip()
+        i = (r[2] if len(r) > 2 else '').strip()
+        j = (r[3] if len(r) > 3 else '').strip()
+        if not (g or h or i or j):
+            return row
+        row += 1
+    return row
+
 
 def parse_date(text: str) -> str:
     # From forwarded header: Date: Tue, Mar 10, 2026 at 8:13 PM
@@ -107,6 +124,8 @@ def parse_amount(text: str) -> float | None:
         r'TOTAL\s*\$\s*([0-9]+(?:\.[0-9]{2})?)',
         r'Grand Total\s*[:\-]?\s*([0-9]+(?:\.[0-9]{2})?)\s*USD',
         r'Total\s*[:\-]?\s*([0-9]+(?:\.[0-9]{2})?)\s*USD',
+        r'\+\$\s*([0-9]+(?:\.[0-9]{2})?)',
+        r'paid you\s*\$\s*([0-9]+(?:\.[0-9]{2})?)',
     ]
     for p in patterns:
         m = re.search(p, text, flags=re.IGNORECASE)
@@ -123,20 +142,38 @@ def round_expense(amount: float, description: str) -> float:
     return float(int(math.ceil(amount)))
 
 
-def classify_receipt(subject: str, text: str) -> tuple[str, str] | None:
+def classify_receipt(subject: str, text: str) -> tuple[str, str, bool] | None:
     combined = (subject + '\n' + text).lower()
+
+    refund_like = any(k in combined for k in [
+        'refund', 'refunded', 'reimbursement', 'reimburse', 'reimbursed',
+        'return completed', 'return received', 'your refund', 'amazon refund',
+        'credit issued', 'credited', 'merchant refund',
+    ])
+
+    if refund_like:
+        if 'amazon' in combined:
+            return ('Reimbursement', 'Amazon refund', True)
+        return ('Reimbursement', 'Refund / reimbursement', True)
+
+    cash_app_income = (
+        ('cash app' in combined or 'cash@square.com' in combined or 'notifications.cash.app' in combined)
+        and ('payment received' in combined or 'paid you' in combined)
+    )
+    if cash_app_income:
+        return ('Reimbursement', 'Cash App reimbursement', True)
 
     # Explicit merchant cues
     if 'amazon' in combined:
         if 'prime video' in combined or re.search(r'amazon\.com order of ', subject, flags=re.IGNORECASE):
-            return ('Entertainment', 'Amazon Prime Video purchase')
-        return ('Household Items', 'Amazon purchase')
+            return ('Entertainment', 'Amazon Prime Video purchase', False)
+        return ('Household Items', 'Amazon purchase', False)
     if 'apple' in combined and 'receipt' in combined:
-        return ('My Music Career', 'Apple App Store purchase')
+        return ('My Music Career', 'Apple App Store purchase', False)
 
     # Generic forwarded receipt from Ryan: if it looks like a receipt and has a total, accept.
     if ('receipt' in combined or 'order total' in combined or 'total $' in combined):
-        return ('Other', 'Forwarded receipt purchase')
+        return ('Other', 'Forwarded receipt purchase', False)
 
     return None
 
@@ -199,25 +236,71 @@ def extract_amazon_items(subject: str, text: str) -> list[str]:
 def infer_description(subject: str, text: str, fallback: str) -> str:
     s = subject.strip()
     combined = (subject + '\n' + text).lower()
+    refund_like = any(k in combined for k in [
+        'refund', 'refunded', 'reimbursement', 'reimburse', 'reimbursed',
+        'return completed', 'return received', 'your refund', 'amazon refund',
+        'credit issued', 'credited', 'merchant refund',
+    ])
+    cash_app_income = (
+        ('cash app' in combined or 'cash@square.com' in combined or 'notifications.cash.app' in combined)
+        and ('payment received' in combined or 'paid you' in combined)
+    )
+
+    if cash_app_income:
+        payer = None
+        note = None
+        m = re.search(r'\n([^\n]+?)\s+paid you\s+\$[0-9]+(?:\.[0-9]{2})?', text, flags=re.IGNORECASE)
+        if m:
+            payer = m.group(1).strip(' .-\t\r\n')
+        m = re.search(r'\nFor\s+(.+)', text, flags=re.IGNORECASE)
+        if m:
+            note = m.group(1).strip(' .-\t\r\n')
+        if payer and note:
+            return f"{payer} - {note[:100]}"
+        if payer:
+            return f"{payer} - Cash App reimbursement"
+        return 'Cash App reimbursement'
 
     # Prefer concrete item names from message body/subject when available.
     items = extract_amazon_items(subject, text)
     if items:
-        prefix = 'Amazon Prime Video' if 'prime video' in combined or re.search(r'amazon\.com order of ', s, flags=re.IGNORECASE) else 'Amazon'
+        if refund_like:
+            prefix = 'Amazon refund'
+        else:
+            prefix = 'Amazon Prime Video' if 'prime video' in combined or re.search(r'amazon\.com order of ', s, flags=re.IGNORECASE) else 'Amazon'
         if len(items) == 1:
             return f"{prefix} - {items[0][:120]}"
         if len(items) == 2:
             return f"{prefix} - {items[0][:70]} + {items[1][:70]}"
         return f"{prefix} - {items[0][:60]} + {items[1][:60]} + {len(items)-2} more"
 
-    # Subject fallback: Example "Ordered: \"Mayfair...\" and 1 more item"
+    # Subject fallback: Example "Ordered: "Mayfair..." and 1 more item"
     m = re.search(r'Ordered:\s*"([^"]+)"\s*(and\s+\d+\s+more\s+item[s]?)?', s, flags=re.IGNORECASE)
     if m:
         item = m.group(1).strip()
         extra = m.group(2).strip() if m.group(2) else ''
+        prefix = 'Amazon refund' if refund_like else 'Amazon'
         if extra:
-            return f"Amazon - {item} ({extra})"
-        return f"Amazon - {item}"
+            return f"{prefix} - {item} ({extra})"
+        return f"{prefix} - {item}"
+
+    # Specific fallback for refunds: avoid dumb forwarded-header descriptions.
+    if refund_like:
+        for ln in (text or '').splitlines():
+            t = re.sub(r'\s+', ' ', ln).strip(' .-\t\r\n')
+            low = t.lower()
+            if not t or len(t) < 4:
+                continue
+            if any(bad in low for bad in [
+                'forwarded message', 'from:', 'subject:', 'date:', 'to:',
+                'amazon.com', 'refund issued', 'your refund has been processed',
+                'your refund', 'refund total', 'order total', 'total',
+            ]):
+                continue
+            if re.fullmatch(r'\$?[0-9]+(?:\.[0-9]{2})?', t):
+                continue
+            return f"Amazon refund - {t[:100]}"
+        return 'Amazon refund'
 
     # Fallback: use first meaningful non-empty line from body when available
     for ln in (text or '').splitlines():
@@ -227,11 +310,18 @@ def infer_description(subject: str, text: str, fallback: str) -> str:
 
     return fallback
 
-
 def get_expense_categories(svc) -> set[str]:
     vals = svc.spreadsheets().values().get(
         spreadsheetId=SHEET_ID,
         range=EXPENSE_DROPDOWN_RANGE
+    ).execute().get('values', [])
+    return {r[0].strip() for r in vals if r and r[0].strip()}
+
+
+def get_income_categories(svc) -> set[str]:
+    vals = svc.spreadsheets().values().get(
+        spreadsheetId=SHEET_ID,
+        range=INCOME_DROPDOWN_RANGE
     ).execute().get('values', [])
     return {r[0].strip() for r in vals if r and r[0].strip()}
 
@@ -299,6 +389,62 @@ def append_expense(svc, date_str: str, amount: float, description: str, category
     return row
 
 
+def append_income(svc, date_str: str, amount: float, description: str, category: str):
+    row = find_next_income_row(svc)
+    sheet_id = get_sheet_id(svc, SHEET_NAME)
+    row_idx = row - 1
+
+    source_row_idx = max(3, row_idx - 1)
+    requests = [
+        {
+            'copyPaste': {
+                'source': {
+                    'sheetId': sheet_id,
+                    'startRowIndex': source_row_idx,
+                    'endRowIndex': source_row_idx + 1,
+                    'startColumnIndex': 6,
+                    'endColumnIndex': 10,
+                },
+                'destination': {
+                    'sheetId': sheet_id,
+                    'startRowIndex': row_idx,
+                    'endRowIndex': row_idx + 1,
+                    'startColumnIndex': 6,
+                    'endColumnIndex': 10,
+                },
+                'pasteType': 'PASTE_FORMAT',
+            }
+        },
+        {
+            'repeatCell': {
+                'range': {
+                    'sheetId': sheet_id,
+                    'startRowIndex': row_idx,
+                    'endRowIndex': row_idx + 1,
+                    'startColumnIndex': 6,
+                    'endColumnIndex': 10,
+                },
+                'cell': {
+                    'userEnteredFormat': {
+                        'horizontalAlignment': 'LEFT'
+                    }
+                },
+                'fields': 'userEnteredFormat.horizontalAlignment'
+            }
+        }
+    ]
+    svc.spreadsheets().batchUpdate(spreadsheetId=SHEET_ID, body={'requests': requests}).execute()
+
+    rng = f"{SHEET_NAME}!G{row}:J{row}"
+    svc.spreadsheets().values().update(
+        spreadsheetId=SHEET_ID,
+        range=rng,
+        valueInputOption='USER_ENTERED',
+        body={'values': [[date_str, amount, description, category]]}
+    ).execute()
+    return row
+
+
 def main():
     state = load_state()
     processed = state.setdefault('processed', {})
@@ -307,6 +453,7 @@ def main():
     msgs = client.inboxes.messages.list(inbox_id=INBOX, limit=40).messages
     svc = get_sheets_service()
     valid_expense_categories = get_expense_categories(svc)
+    valid_income_categories = get_income_categories(svc)
 
     added = 0
     skipped = 0
@@ -333,9 +480,13 @@ def main():
             processed[mid] = {'status': 'skip_unclassified', 'subject': subject}
             continue
 
-        category, desc_base = cls
-        if category not in valid_expense_categories:
-            category = 'Other'
+        category, desc_base, is_income = cls
+        if is_income:
+            if category not in valid_income_categories:
+                category = 'Reimbursement' if 'Reimbursement' in valid_income_categories else 'Other'
+        else:
+            if category not in valid_expense_categories:
+                category = 'Other'
         amount = parse_amount(text)
         if amount is None:
             skipped += 1
@@ -345,16 +496,21 @@ def main():
         date_str = parse_date(text)
         description = infer_description(subject, text, desc_base)
 
-        # Apply Ryan's rounding preference for expenses
-        rounded = round_expense(amount, description)
+        if is_income:
+            stored_amount = float(amount)
+            row = append_income(svc, date_str, stored_amount, description, category)
+        else:
+            # Apply Ryan's rounding preference for expenses
+            stored_amount = round_expense(amount, description)
+            row = append_expense(svc, date_str, stored_amount, description, category)
 
-        row = append_expense(svc, date_str, rounded, description, category)
         processed[mid] = {
             'status': 'added',
+            'sheet_section': 'income' if is_income else 'expense',
             'row': row,
             'date': date_str,
             'amount_raw': amount,
-            'amount_stored': rounded,
+            'amount_stored': stored_amount,
             'description': description,
             'category': category,
             'subject': subject,

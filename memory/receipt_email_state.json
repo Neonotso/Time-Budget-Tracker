@@ -366,6 +366,37 @@
       "description": "Receipt - From: return@amazon.com <return@amazon.com>",
       "category": "Household Items",
       "subject": "Fwd: Advance refund issued for Heifymi E17 Intermediate Base...."
+    },
+    "<0100019d2cdbb264-5e067d9d-9787-478f-a1c1-10bea1a19b29-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "Drum Lessons -- 03-26-26"
+    },
+    "<0100019d2a92513a-5b6fc6ae-8cdf-4756-b0a7-740ca9fff47b-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "Morning Money Board -- 03-26-26"
+    },
+    "<0100019d2a91c4f1-7dde0a22-4095-400d-ab16-17413ae38286-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "Morning Money Board -- 03-26-26"
+    },
+    "<0100019d2a8f49fe-0135d408-7894-419a-8cf6-d2b25f7d1f2e-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "Morning Money Board -- 03-26-26"
+    },
+    "<0100019d2a8ca159-d0d63e0b-6f18-4cc1-95bb-906b3330670f-000000@email.amazonses.com>": {
+      "status": "skip_unclassified",
+      "subject": "Morning Money Board -- 03-26-26"
+    },
+    "<CADCD6xZ-hUo-948ALXyOS0tD9hQr6Ci=66NDczauNGOgA8d_fQ@mail.gmail.com>": {
+      "status": "added",
+      "sheet_section": "income",
+      "row": 24,
+      "date": "03/27/2026",
+      "amount_raw": 15.0,
+      "amount_stored": 15.0,
+      "description": "Casey Jacob Wassenaar - half of the toilet seat for now",
+      "category": "Other",
+      "subject": "Fwd: Payment received"
     }
   }
 }
