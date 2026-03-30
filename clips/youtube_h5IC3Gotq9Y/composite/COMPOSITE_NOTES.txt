@@ -1,0 +1,18 @@
+Composite clips built from non-contiguous semantic moments.
+
+A_hook_45s
+- 00:00-00:10 (voice-command setup)
+- 01:48-02:02 (God as first voice-command origin)
+- 03:27-03:43 (life/death in the tongue)
+- 08:44-08:49 (speak life emphasis)
+
+B_core_74s
+- 00:00-00:18 (problem + setup)
+- 01:48-02:28 (Genesis creation command analogy)
+- 03:27-03:47 (application: words carry life/death)
+
+C_story_93s
+- 00:00-00:18 (hook)
+- 01:48-02:28 (core analogy)
+- 04:11-04:36 (challenge: what kinds of words are we speaking?)
+- 08:50-09:00 (closing value statement)

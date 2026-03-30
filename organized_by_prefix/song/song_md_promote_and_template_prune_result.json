@@ -1,0 +1,531 @@
+{
+  "promoted_more_complete_to_parent_count": 27,
+  "archived_previous_canonical_count": 21,
+  "removed_template_like_archived_count": 9,
+  "remaining_archived_md_count": 84,
+  "errors_count": 0,
+  "promoted_sample": [
+    {
+      "from": "Beautiful Flower Of God/_md_archive/Beautiful Flower of God.md",
+      "to": "Beautiful Flower Of God/Beautiful Flower Of God.md",
+      "new_score": 101
+    },
+    {
+      "from": "Be Near To Me/_md_archive/Be Near To Me BARITONE -- starting to figure a little bit out.md",
+      "to": "Be Near To Me/Be Near To Me.md",
+      "new_score": 101
+    },
+    {
+      "from": "You Prepare My Path For Me/_md_archive/You Prepare My Path For Me cddc68b4c10a4660915b3e11432629f8.md",
+      "to": "You Prepare My Path For Me/You Prepare My Path For Me.md",
+      "new_score": 123
+    },
+    {
+      "from": "Following Your Voice/_md_archive/Following Your Voice 1fa2678d11634a12b6c3bdc2bf991703.md",
+      "to": "Following Your Voice/Following Your Voice.md",
+      "new_score": 101
+    },
+    {
+      "from": "Come Soon/_md_archive/20200421 130808 Come Soon alt lyrics -- Ever with our blessed King.md",
+      "to": "Come Soon/Come Soon.md",
+      "new_score": 101
+    },
+    {
+      "from": "Up Above The Dark Plain/_md_archive/Up above the dark plain.md",
+      "to": "Up Above The Dark Plain/Up Above The Dark Plain.md",
+      "new_score": 101
+    },
+    {
+      "from": "Turn On The Light/_md_archive/Turn_On_The_Light_-_working_on_piano_and_vocals.md",
+      "to": "Turn On The Light/Turn On The Light.md",
+      "new_score": 101
+    },
+    {
+      "from": "Whatchu Want/_md_archive/Whatchu Want BARITONE 5-21-21.md",
+      "to": "Whatchu Want/Whatchu Want.md",
+      "new_score": 101
+    },
+    {
+      "from": "God, You Are The Highest God (To Know Your Son)/_md_archive/God, You Are The Highest God (To Know Your Son) 1ebe5a73f1d980cebce9ce9dc2ccb9b2.md",
+      "to": "God, You Are The Highest God (To Know Your Son)/God, You Are The Highest God (To Know Your Son).md",
+      "new_score": 178
+    },
+    {
+      "from": "Tidal Wave Of Grace/_md_archive/Tidal Wave of Grace.md",
+      "to": "Tidal Wave Of Grace/Tidal Wave Of Grace.md",
+      "new_score": 101
+    },
+    {
+      "from": "I Died With Jesus/_md_archive/I Died With Jesus 683247317c0e40c6814e82e58da41970.md",
+      "to": "I Died With Jesus/I Died With Jesus.md",
+      "new_score": 181
+    },
+    {
+      "from": "My Soul's Tied In Your Soul/_md_archive/My_Souls_Tied_In_Your_Soul_(My_Heart_Breaks).md",
+      "to": "My Soul's Tied In Your Soul/My Soul's Tied In Your Soul.md",
+      "new_score": 101
+    },
+    {
+      "from": "I Love You Oh My Father/_md_archive/I Love You, O My Father 1a5fd3d6fb2b43a49a18453f3ccd2bb4.md",
+      "to": "I Love You Oh My Father/I Love You Oh My Father.md",
+      "new_score": 340
+    },
+    {
+      "from": "__CO-WRITES__/I Will Only Love My Lord/_md_archive/I Will Only Love My Lord d5de9fcb4c8844c3b7e3127240f9c3e6.md",
+      "to": "__CO-WRITES__/I Will Only Love My Lord/I Will Only Love My Lord.md",
+      "new_score": 205
+    },
+    {
+      "from": "__CO-WRITES__/Ken Meringa/Moments Of Grace/_md_archive/Moments of Grace.md",
+      "to": "__CO-WRITES__/Ken Meringa/Moments Of Grace/Moments Of Grace.md",
+      "new_score": 520
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/God, Be My Vision/_md_archive/God, Be My Vision 760ca19416d7450a889a008deebc5ff1.md",
+      "to": "__MY ARRANGEMENTS__/God, Be My Vision/God, Be My Vision.md",
+      "new_score": 119
+    },
+    {
+      "from": "__OLD__/My God/_md_archive/My God-withoutchords.md",
+      "to": "__OLD__/My God/My God.md",
+      "new_score": 101
+    },
+    {
+      "from": "__OLD__/You Are The Light/_md_archive/You Are The Light-without chords.md",
+      "to": "__OLD__/You Are The Light/You Are The Light.md",
+      "new_score": 101
+    },
+    {
+      "from": "__OLD__/You Are My God/_md_archive/You are my God.md",
+      "to": "__OLD__/You Are My God/You Are My God.md",
+      "new_score": 101
+    },
+    {
+      "from": "__SONG IDEAS__/Holy, Lord Almighty \u2014 DADGAD Revelation worship/_md_archive/Holy, Lord Almighty \u2014 DADGAD Revelation worship 89251da8345a49fe9bb89e8fa7fb7240.md",
+      "to": "__SONG IDEAS__/Holy, Lord Almighty \u2014 DADGAD Revelation worship/Holy, Lord Almighty \u2014 DADGAD Revelation worship.md",
+      "new_score": 125
+    },
+    {
+      "from": "__SONG IDEAS__/Some Days (Lord, Lead Me)/_md_archive/Some Days (Lord, Lead Me) b18b574265314f93ba1f7c22ec236096.md",
+      "to": "__SONG IDEAS__/Some Days (Lord, Lead Me)/Some Days (Lord, Lead Me).md",
+      "new_score": 145
+    },
+    {
+      "from": "__SONG IDEAS__/Even If I Have To Say No/_md_archive/Even if I have to say no.md",
+      "to": "__SONG IDEAS__/Even If I Have To Say No/Even If I Have To Say No.md",
+      "new_score": 101
+    },
+    {
+      "from": "__SONG IDEAS__/Lord We Give You The Praise/_md_archive/Lord_We_Give_You_The_Praise__4-18-21.md",
+      "to": "__SONG IDEAS__/Lord We Give You The Praise/Lord We Give You The Praise.md",
+      "new_score": 101
+    },
+    {
+      "from": "__SONG IDEAS__/Lead Me (Her) Lord/_md_archive/Lead_Me-Her_Lord_-_4-6-22.md",
+      "to": "__SONG IDEAS__/Lead Me (Her) Lord/Lead Me (Her) Lord.md",
+      "new_score": 101
+    },
+    {
+      "from": "__SONG IDEAS__/It's Been A Minute/_md_archive/Its_been_a_minute_since_I_been_in_it.md",
+      "to": "__SONG IDEAS__/It's Been A Minute/It's Been A Minute.md",
+      "new_score": 101
+    },
+    {
+      "from": "__SONG IDEAS__/It's Like You Knew All Along/_md_archive/Its_like_You_knew_all_along_(remarking_after_seeing_Linnea_laugh_at_my_gasp_comment).md",
+      "to": "__SONG IDEAS__/It's Like You Knew All Along/It's Like You Knew All Along.md",
+      "new_score": 101
+    },
+    {
+      "from": "__SONG IDEAS__/Praise God (Baptism Song)/_md_archive/Praise_God!_Baptism_Song__see_ending.md",
+      "to": "__SONG IDEAS__/Praise God (Baptism Song)/Praise God (Baptism Song).md",
+      "new_score": 101
+    }
+  ],
+  "removed_template_like_sample": [
+    {
+      "from": "God Almighty Lord Of All/_md_archive/God Almighty, Lord of All 032843cec8ef442d8ad5f93a0f29f7d8.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Template-Prune/God Almighty Lord Of All/_md_archive/God Almighty, Lord of All 032843cec8ef442d8ad5f93a0f29f7d8.md",
+      "score": 22
+    },
+    {
+      "from": "Be Near To Me/_md_archive/Be Near To Me.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Template-Prune/Be Near To Me/_md_archive/Be Near To Me.md",
+      "score": 23
+    },
+    {
+      "from": "Whatchu Want/_md_archive/Whatchu Want.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Template-Prune/Whatchu Want/_md_archive/Whatchu Want.md",
+      "score": 20
+    },
+    {
+      "from": "Hard to Get/_md_archive/Hard To Get 23ee5a73f1d98004b3d1d4484d73d3ae.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Template-Prune/Hard to Get/_md_archive/Hard To Get 23ee5a73f1d98004b3d1d4484d73d3ae.md",
+      "score": 24
+    },
+    {
+      "from": "The Unlovely One/_md_archive/The Unlovely One 4c641e35366a40dbba93e8602a4a33ea.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Template-Prune/The Unlovely One/_md_archive/The Unlovely One 4c641e35366a40dbba93e8602a4a33ea.md",
+      "score": 24
+    },
+    {
+      "from": "__OLD__/The Lord Jesus Christ/_md_archive/The Lord Jesus Christ 248e5a73f1d98095a478e85d4114f094.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Template-Prune/__OLD__/The Lord Jesus Christ/_md_archive/The Lord Jesus Christ 248e5a73f1d98095a478e85d4114f094.md",
+      "score": 16
+    },
+    {
+      "from": "__OLD__/It Is Time/_md_archive/It Is Time 248e5a73f1d980fb916ee674a8bee9af.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Template-Prune/__OLD__/It Is Time/_md_archive/It Is Time 248e5a73f1d980fb916ee674a8bee9af.md",
+      "score": 15
+    },
+    {
+      "from": "__OLD__/Unknown and Misunderstood/_md_archive/Unknown and Misunderstood 241e5a73f1d98028ba01e560517edb08.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Template-Prune/__OLD__/Unknown and Misunderstood/_md_archive/Unknown and Misunderstood 241e5a73f1d98028ba01e560517edb08.md",
+      "score": 15
+    },
+    {
+      "from": "__OLD__/You Are The Light/_md_archive/You Are The Light.md",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Template-Prune/__OLD__/You Are The Light/_md_archive/You Are The Light.md",
+      "score": 16
+    }
+  ],
+  "remaining_archived_sample": [
+    {
+      "file": "Blazing Light of God/_md_archive/Blazing Light of God ba5b312faa3f47588fba360a9c34ea5c.md",
+      "score": 48
+    },
+    {
+      "file": "My, My Mind/_md_archive/My, My Mind 9b9f353c3cf044668128886b6b60d892.md",
+      "score": 31
+    },
+    {
+      "file": "God, Make That Fruit Grow/_md_archive/God, Make That Fruit Grow 060d5c45feca49ad8503f15192d2125d.md",
+      "score": 49
+    },
+    {
+      "file": "Is Loving Worth The Loss/_md_archive/Chorus_transposes_Is_Loving_Worth_The_Loss.md",
+      "score": 101
+    },
+    {
+      "file": "Is Loving Worth The Loss/_md_archive/Is_Loving_Worth_The_Loss.md",
+      "score": 101
+    },
+    {
+      "file": "Is Loving Worth The Loss/_md_archive/Really_high_Is_Loving_Worth_The_Loss_(Nay).md",
+      "score": 101
+    },
+    {
+      "file": "Is Loving Worth The Loss/_md_archive/Another_verse_idea_Is_Loving_Worth_The_Loss.md",
+      "score": 101
+    },
+    {
+      "file": "Is Loving Worth The Loss/_md_archive/Is_Losing_Worth_The_Loss_2.md",
+      "score": 101
+    },
+    {
+      "file": "Is Loving Worth The Loss/_md_archive/Bridge_idea_Is_Loving_Worth_The_Loss.md",
+      "score": 101
+    },
+    {
+      "file": "Is Loving Worth The Loss/_md_archive/Verse_idea_Is_Loving_Worth_The_Loss.md",
+      "score": 101
+    },
+    {
+      "file": "Is Loving Worth The Loss/_md_archive/Jesus_Chorus_Is_Loving_Worth_The_Loss.md",
+      "score": 101
+    },
+    {
+      "file": "You Prepare My Path For Me/_md_archive/You Prepare My Path For Me.md",
+      "score": 101
+    },
+    {
+      "file": "Following Your Voice/_md_archive/Following Your Voice.md",
+      "score": 101
+    },
+    {
+      "file": "Finding It Hard/_md_archive/Finding It Hard 35cec4339be44ba38541f809695cce9c.md",
+      "score": 25
+    },
+    {
+      "file": "Whom Have I In Heaven But You/_md_archive/Whom Have I In Heaven But You 6e721bef6cbb4b6a98388cb40be3a097.md",
+      "score": 51
+    },
+    {
+      "file": "My Body/_md_archive/My Body 9e20edb44c8348b4a2e7e81a32fe1b7b.md",
+      "score": 45
+    },
+    {
+      "file": "Come Soon/_md_archive/Come Soon.md",
+      "score": 35
+    },
+    {
+      "file": "Come Soon/_md_archive/Come_Soon__05-06-22.md",
+      "score": 101
+    },
+    {
+      "file": "Devil Battle/_md_archive/Devil Battle 6b03a6a5e9144b5a9707e3c3cd17e2ff.md",
+      "score": 37
+    },
+    {
+      "file": "Live In Purity/_md_archive/Live_In_Purity_(in_car_w_wife_Britt__Christian)_-_10-25-2020.md",
+      "score": 101
+    },
+    {
+      "file": "Taste And See/_md_archive/Taste And See 58681e3c10d24884a4eacb94a460f291.md",
+      "score": 35
+    },
+    {
+      "file": "Livin' For The King/_md_archive/Livin\u2019 For The King 2ba1c8bed73f491f8c42a23ddae042a7.md",
+      "score": 70
+    },
+    {
+      "file": "Turn On The Light/_md_archive/Turn On The Light.md",
+      "score": 29
+    },
+    {
+      "file": "Whatchu Want/_md_archive/Whatchu Want additional LYRICS.md",
+      "score": 101
+    },
+    {
+      "file": "Whatchu Want/_md_archive/more_Whatchu_Want.md",
+      "score": 101
+    },
+    {
+      "file": "God, You Are The Highest God (To Know Your Son)/_md_archive/God, You Are The Highest God (To Know Your Son).md",
+      "score": 101
+    },
+    {
+      "file": "Think About The Good Things (Always Be Thankful)/_md_archive/Think About The Good Things - Ab.md",
+      "score": 101
+    },
+    {
+      "file": "Think About The Good Things (Always Be Thankful)/_md_archive/Think_About_The_Good_Things_(Always_Be_Thankful)_--_Philippians_and_1_Thessalonians_song.md",
+      "score": 101
+    },
+    {
+      "file": "The Writer/_md_archive/The Writer - with time sig changes marked.md",
+      "score": 101
+    },
+    {
+      "file": "The Writer/_md_archive/The Writer - finishing.md",
+      "score": 101
+    },
+    {
+      "file": "The Writer/_md_archive/The Writer some older ideas.md",
+      "score": 101
+    },
+    {
+      "file": "The Writer/_md_archive/The Writer - almost finished.md",
+      "score": 101
+    },
+    {
+      "file": "The Writer/_md_archive/The Writer & Sophie's World.md",
+      "score": 101
+    },
+    {
+      "file": "The Writer/_md_archive/The Writer - just words no headings.md",
+      "score": 101
+    },
+    {
+      "file": "The Writer/_md_archive/The Writer journal ideas.md",
+      "score": 101
+    },
+    {
+      "file": "The Writer/_md_archive/The Writer -- Em.md",
+      "score": 101
+    },
+    {
+      "file": "The Writer/_md_archive/The Writer CHORDS.md",
+      "score": 101
+    },
+    {
+      "file": "The Writer/_md_archive/The Writer WO chords old.md",
+      "score": 101
+    },
+    {
+      "file": "I Can't Get Low Enough/_md_archive/I Can\u2019t Get Low Enough 7b99eee869bc4c7391765aa3ae01910c.md",
+      "score": 70
+    },
+    {
+      "file": "Offer My Body As A Living Sacrifice/_md_archive/Offer My Body As A Living Sacrifice fc7d67786b30464ea1b4ab6cb74d8dae.md",
+      "score": 35
+    },
+    {
+      "file": "Even If You Take Everything/_md_archive/Even If You Take Everything 295ac5362c3e47e28422104e71906cd3.md",
+      "score": 59
+    },
+    {
+      "file": "I Died With Jesus/_md_archive/I Died With Jesus.md",
+      "score": 101
+    },
+    {
+      "file": "My Soul's Tied In Your Soul/_md_archive/My Soul's Tied In Your Soul.md",
+      "score": 65
+    },
+    {
+      "file": "My Soul's Tied In Your Soul/_md_archive/writing_My_Souls_Tied_In_Your_Soul.md",
+      "score": 101
+    },
+    {
+      "file": "My Soul's Tied In Your Soul/_md_archive/My_Souls_Tied_In_Your_Soul_-_3.md",
+      "score": 101
+    },
+    {
+      "file": "My Soul's Tied In Your Soul/_md_archive/My_Souls_Tied_In_Your_Soul_-_2.md",
+      "score": 101
+    },
+    {
+      "file": "This Is Where I Belong/_md_archive/This Is Where I Belong 241e5a73f1d980bc949ccae0e9d542ab.md",
+      "score": 28
+    },
+    {
+      "file": "Ever Deeper/_md_archive/Ever Deeper b50b46a65dcc484baa3c31da86fae23d.md",
+      "score": 102
+    },
+    {
+      "file": "Work In Progress (I Need Help Too)/_md_archive/Work In Progress (I Need Help, Too) fffe5a73f1d980538d7add2651b65df6.md",
+      "score": 29
+    },
+    {
+      "file": "I Love You Oh My Father/_md_archive/I Love You Oh My Father.md",
+      "score": 101
+    },
+    {
+      "file": "I Love The Way/_md_archive/I Love The Way 23ee5a73f1d9806d97b5e173f0db0315.md",
+      "score": 64
+    },
+    {
+      "file": "__CO-WRITES__/The Day Of Judgment/_md_archive/The Day Of Judgment 7caad0495c974fccbf0115d2df5eef93.md",
+      "score": 70
+    },
+    {
+      "file": "__CO-WRITES__/I Will Only Love My Lord/_md_archive/I Will Only Love My Lord.md",
+      "score": 101
+    },
+    {
+      "file": "__CO-WRITES__/Ken Meringa/Moments Of Grace/_md_archive/Moments_of_Grace.md",
+      "score": 101
+    },
+    {
+      "file": "__CO-WRITES__/Ken Meringa/Moments Of Grace/_md_archive/Moments Of Grace f58f0fc76c144e1fa4faa2661ff2dd47.md",
+      "score": 73
+    },
+    {
+      "file": "__CO-WRITES__/Ken Meringa/Moments Of Grace/_md_archive/continuing_to_work_on_Kens_Moments_of_Grace.md",
+      "score": 101
+    },
+    {
+      "file": "__CO-WRITES__/Ken Meringa/Moments Of Grace/_md_archive/singing_Moments_of_Grace_(Ken).md",
+      "score": 101
+    },
+    {
+      "file": "__MY ARRANGEMENTS__/God, Be My Vision/_md_archive/God, Be My Vision.md",
+      "score": 101
+    },
+    {
+      "file": "__OLD__/My God/_md_archive/My God.md",
+      "score": 26
+    },
+    {
+      "file": "__OLD__/My God/_md_archive/My_God_-_5-28-21.md",
+      "score": 101
+    },
+    {
+      "file": "__OLD__/If Tacos Could Talk-Oh!/_md_archive/If Tacos Could Talk-Oh! 42d8ed04e54b442bb2e664401488faa5.md",
+      "score": 52
+    },
+    {
+      "file": "__OLD__/You Will Never Die/_md_archive/You Will Never Die 797fdc575b174a619a95b86df59f7ca8.md",
+      "score": 28
+    },
+    {
+      "file": "__SONG IDEAS__/To Feat You Is The Beginning Of Knowledge/_md_archive/To_Fear_You_Is_The_Beginning_Of_Knowledge__Cdim7-G_then_Fmajor_then_Gm_passing_chord.md",
+      "score": 101
+    },
+    {
+      "file": "__SONG IDEAS__/Holy, Lord Almighty \u2014 DADGAD Revelation worship/_md_archive/Holy, Lord Almighty \u2014 DADGAD Revelation worship.md",
+      "score": 101
+    },
+    {
+      "file": "__SONG IDEAS__/Some Days (Lord, Lead Me)/_md_archive/Some Days (Lord, Lead Me).md",
+      "score": 101
+    },
+    {
+      "file": "__SONG IDEAS__/Lord We Give You The Praise/_md_archive/Lord We Give You The Praise.md",
+      "score": 45
+    },
+    {
+      "file": "__SONG IDEAS__/No More Idols/_md_archive/No more idols 8d5271384d804c2ba23013736ce34708.md",
+      "score": 26
+    },
+    {
+      "file": "__SONG IDEAS__/I Wanna Love You Like You're Right Here/_md_archive/I Wanna Love You Like You\u2019re Right Here f9a8aa808b504962ac95a87c0eff63cc.md",
+      "score": 38
+    },
+    {
+      "file": "__SONG IDEAS__/Thought To Thought/_md_archive/Thought to Thought 6bac43389ffc40da9015c8d7048c8e50.md",
+      "score": 34
+    },
+    {
+      "file": "__SONG IDEAS__/You\u2019re Bringing Me Into A Brand New Season/_md_archive/You\u2019re Bringing Me Into A Brand New Season 1ece5a73f1d980f9a660e87f39ddea87.md",
+      "score": 73
+    },
+    {
+      "file": "__SONG IDEAS__/Oh how I love You!/_md_archive/Oh how I love You! 1ece5a73f1d980bfb2d6cd0205f5050d.md",
+      "score": 42
+    },
+    {
+      "file": "__SONG IDEAS__/Lead Me (Her) Lord/_md_archive/Lead Me (Her) Lord.md",
+      "score": 31
+    },
+    {
+      "file": "__SONG IDEAS__/It's Been A Minute/_md_archive/It's Been A Minute.md",
+      "score": 74
+    },
+    {
+      "file": "__SONG IDEAS__/Warning Song (I\u2019m Thankful For No)/_md_archive/Warning Song (I\u2019m Thankful For No) 1ece5a73f1d980e49868cf6120415ff1.md",
+      "score": 53
+    },
+    {
+      "file": "__SONG IDEAS__/It's Like You Knew All Along/_md_archive/It's Like You Knew All Along.md",
+      "score": 52
+    },
+    {
+      "file": "__SONG IDEAS__/It's Amazing To Me, Your Sovereignty/_md_archive/It\u2019s Amazing To Me, Your Sovereignty 4ba0aea47391493f856d5ba9fe9d00f0.md",
+      "score": 53
+    },
+    {
+      "file": "__SONG IDEAS__/Praise God (Baptism Song)/_md_archive/Praise God (Baptism Song).md",
+      "score": 30
+    },
+    {
+      "file": "__SONG IDEAS__/Covenant With My Eyes/_md_archive/Covenant With My Eyes de4bdbdcf5b24f09854ca1dd921f4e3a.md",
+      "score": 30
+    },
+    {
+      "file": "__SONG IDEAS__/I\u2019ll Use Up All My Strength For You/_md_archive/I\u2019ll Use Up All My Strength For You 7cbe89dd673c47559037b070f6b52dcc.md",
+      "score": 78
+    },
+    {
+      "file": "__SONG IDEAS__/Make Christ The Judge Your Friend/_md_archive/Make Christ the Judge your friend d031f95387a448a8a8e8604d6d587879.md",
+      "score": 55
+    },
+    {
+      "file": "__SONG IDEAS__/I Love Her, But She Ain't My Girlfriend/_md_archive/I Love Her, But She Ain't My Girlfriend 77590f939338470793b047288bca77ba.md",
+      "score": 37
+    },
+    {
+      "file": "__SONG IDEAS__/I Thought I Wanted To Love You/_md_archive/I Thought I Wanted To Love You 81278cbafa5f4cb397920515e798ea20.md",
+      "score": 37
+    },
+    {
+      "file": "__SONG IDEAS__/Love With No Strings Attached/_md_archive/Love With No Strings Attached a86c1d1dbdfc4d3798db2c9bcd8f6c81.md",
+      "score": 49
+    },
+    {
+      "file": "__SONG IDEAS__/Cash (Isn't What Matters)/Cash_(isnt_what_matters)/_md_archive/Cash (isn\u2019t what matters) 8412ba8528314604a001fb18aa352347.md",
+      "score": 42
+    }
+  ],
+  "trash_root": "/Users/ryantaylorvegh/.Trash/OpenClaw-MD-Template-Prune",
+  "errors": []
+}

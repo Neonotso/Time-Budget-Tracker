@@ -1,0 +1,80 @@
+War Quotes — EasyOCR output in timestamp order
+Source folder ID: 1aFitPWd7kO3CbVA2UA-jOEg2svdZeich
+
+1. BC609C94-3659-4E75-BCA4-5E5B270603D1.JPG
+   taken: [missing in metadata; used Drive created time]
+   drive_created: 2026-03-11T18:24:14.087Z
+   rotation_used: 0°
+   text:
+   ( 4 1 1 ~M 22 2. `   ( Je 37 do  is " G8385 A 1 Vot    th h , lk in 3 g 2  " 5 s y 3o ns 23 "8 ty U S "olarn {s  We  orI Lto "    32 L 16o, ] e1 300 U C seditob 4' " %c vith war; [ E 0. ,4 P Sn 1t ac & M 136 n Z 5 ho V le € = 2 Ls " 2  K 2 s ha 2 ve 2 2  U  3  2 U 2 e 2 2 s U 2  U U U  2 2
+
+2. 43516462-0BF5-48F6-BBEC-6DC6855108EF.JPG
+   taken: [missing in metadata; used Drive created time]
+   drive_created: 2026-03-11T18:24:14.551Z
+   rotation_used: 0°
+   text:
+   [no text detected]
+
+3. CDC1307F-67F4-4D49-B983-F0817481807F.JPG
+   taken: [missing in metadata; used Drive created time]
+   drive_created: 2026-03-11T18:24:14.615Z
+   rotation_used: 0°
+   text:
+   [no text detected]
+
+4. 6EC34AEA-F55A-451E-BC1C-C4F7B2169EE7.JPG
+   taken: [missing in metadata; used Drive created time]
+   drive_created: 2026-03-11T18:24:14.685Z
+   rotation_used: 0°
+   text:
+   [no text detected]
+
+5. 17638D9C-E51C-47BB-A323-7CEE2B5FF5B2.JPG
+   taken: [missing in metadata; used Drive created time]
+   drive_created: 2026-03-11T18:24:14.890Z
+   rotation_used: 0°
+   text:
+   [no text detected]
+
+6. D53C9530-CBAC-4B58-8FFF-0FDBC3B4FC2B.JPG
+   taken: [missing in metadata; used Drive created time]
+   drive_created: 2026-03-11T18:24:14.932Z
+   rotation_used: 0°
+   text:
+   [no text detected]
+
+7. 4630F111-D77E-47C9-82D2-E111404837F9.JPG
+   taken: [missing in metadata; used Drive created time]
+   drive_created: 2026-03-11T18:24:14.987Z
+   rotation_used: 0°
+   text:
+   [no text detected]
+
+8. A6F031ED-B362-4E1C-9D78-892D59EA853C.JPG
+   taken: [missing in metadata; used Drive created time]
+   drive_created: 2026-03-11T18:24:15.007Z
+   rotation_used: 0°
+   text:
+   [no text detected]
+
+9. 4F0D9298-B17C-40FE-A520-32C74C34D334.JPG
+   taken: [missing in metadata; used Drive created time]
+   drive_created: 2026-03-11T18:24:15.039Z
+   rotation_used: 0°
+   text:
+   [no text detected]
+
+10. 6E995C01-7A2E-4FF6-A753-64754D0156D1.JPG
+   taken: [missing in metadata; used Drive created time]
+   drive_created: 2026-03-11T18:24:15.075Z
+   rotation_used: 0°
+   text:
+   [no text detected]
+
+11. D202E253-EFCF-4D3E-82DE-99638932D7A0.JPG
+   taken: [missing in metadata; used Drive created time]
+   drive_created: 2026-03-11T18:24:18.537Z
+   rotation_used: 0°
+   text:
+   [no text detected]
+

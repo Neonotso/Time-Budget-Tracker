@@ -1,0 +1,110 @@
+{
+  "updated_count": 14,
+  "missing_count": 21,
+  "updated": [
+    "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/Way of the Wise/Way of the Wise.md",
+    "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/Everybody Let's Vacate/Everybody Let's Vacate.md",
+    "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/My Heart Was Lost/My Heart Was Lost.md",
+    "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/Lost In Your Love/Lost In Your Love.md",
+    "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/Hard To Get/Hard To Get.md",
+    "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/Second Chances/Second Chances.md",
+    "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/The Sunday Show/The Sunday Show.md",
+    "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/Ever Deeper/Ever Deeper.md",
+    "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/License To Live/License To Live.md",
+    "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/People Are People/People Are People.md",
+    "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/Devil Battle/Devil Battle.md",
+    "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/Blazing Light of God/Blazing Light of God.md",
+    "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/Walking In the Garden/Walking In the Garden.md",
+    "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/Sweet Chaos/Sweet Chaos.md"
+  ],
+  "missing": [
+    {
+      "album": "Raj",
+      "title": "My Name Is Raj"
+    },
+    {
+      "album": "Raj",
+      "title": "I Waited"
+    },
+    {
+      "album": "Raj",
+      "title": "Psychotic Vengeance"
+    },
+    {
+      "album": "Raj",
+      "title": "The World Is a Bright Blossom"
+    },
+    {
+      "album": "Raj",
+      "title": "Lullaby To a Deluded Patient"
+    },
+    {
+      "album": "Raj",
+      "title": "Life's a Dream",
+      "reason": "no_frontmatter",
+      "path": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/Life's a Dream/Life's a Dream.md"
+    },
+    {
+      "album": "Raj",
+      "title": "Psycho"
+    },
+    {
+      "album": "Raj",
+      "title": "Hawk Song"
+    },
+    {
+      "album": "Raj",
+      "title": "Prodigal Son Song"
+    },
+    {
+      "album": "Raj",
+      "title": "The Heavenly Ethnicity"
+    },
+    {
+      "album": "The Moonlit Sunrise",
+      "title": "Moonlight Upon the First Sunrise"
+    },
+    {
+      "album": "The Moonlit Sunrise",
+      "title": "A Time"
+    },
+    {
+      "album": "The Moonlit Sunrise",
+      "title": "The Writer",
+      "reason": "no_frontmatter",
+      "path": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/The Writer/The Writer.md"
+    },
+    {
+      "album": "The Moonlit Sunrise",
+      "title": "Temptation"
+    },
+    {
+      "album": "The Moonlit Sunrise",
+      "title": "Be It Unto Me"
+    },
+    {
+      "album": "The Early Years",
+      "title": "You Are the Light"
+    },
+    {
+      "album": "The Early Years",
+      "title": "In Thee, O Lord"
+    },
+    {
+      "album": "The Early Years",
+      "title": "Children of God"
+    },
+    {
+      "album": "The Early Years",
+      "title": "My God"
+    },
+    {
+      "album": "The Early Years",
+      "title": "Thank You, Lord"
+    },
+    {
+      "album": "The Early Years",
+      "title": "I Need Your Help Again"
+    }
+  ]
+}

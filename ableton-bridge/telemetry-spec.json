@@ -1,0 +1,24 @@
+{
+  "topic": "duck_telemetry",
+  "version": 1,
+  "fields": {
+    "ts": "number (ms epoch)",
+    "trackId": "string",
+    "kickTrackId": "string",
+    "windowMs": "number",
+    "instDuckDb": "number",
+    "peakDuckDb": "number",
+    "medianDuckDb": "number",
+    "hit": "boolean"
+  },
+  "example": {
+    "ts": 1772164000123,
+    "trackId": "track-6",
+    "kickTrackId": "track-4",
+    "windowMs": 120,
+    "instDuckDb": 4.8,
+    "peakDuckDb": 7.1,
+    "medianDuckDb": 5.2,
+    "hit": true
+  }
+}

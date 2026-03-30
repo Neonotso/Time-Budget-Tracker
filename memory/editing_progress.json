@@ -1,0 +1,14 @@
+{
+  "status": "complete",
+  "document_url": "https://docs.google.com/document/d/1svQ_yhpqxR7DgA1LVIuyoeoJEivb_4Q9ygQ-9Fcu3ag/edit",
+  "total_characters": 466084,
+  "chapters": "1-27 (plus repeat 1-18 ignored)",
+  "edits_applied": [
+    "Fixed paragraph spacing (no double breaks)",
+    "Fixed apostrophes in contractions (can't, don't, won't, etc.)",
+    "Fixed lowercase 'i' to 'I'",
+    "Fixed common misspellings",
+    "Fixed spacing before punctuation",
+    "Cleaned up leading spaces"
+  ]
+}

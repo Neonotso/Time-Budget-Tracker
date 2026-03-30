@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>Ableton Remote</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <main>
+      <h1>🎛️ Ableton Remote</h1>
+
+      <section id="transportPanel" class="transport-panel">
+        <div class="transport-header">
+          <div id="status">Connecting...</div>
+          <button id="transportToggle" class="small-btn">Hide</button>
+        </div>
+
+        <div id="transportBody">
+          <section class="grid">
+            <button data-cmd="play" class="primary">▶ Play</button>
+            <button data-cmd="stop">■ Stop</button>
+            <button data-cmd="record" class="danger">● Record</button>
+            <button data-cmd="tapTempo">Tap Tempo</button>
+            <button data-cmd="toggleMetronome">Metronome</button>
+            <button data-cmd="undo">Undo</button>
+          </section>
+
+          <section class="tempo">
+            <button id="tempoDown">-</button>
+            <input id="tempoInput" type="number" min="20" max="300" value="120" />
+            <button id="tempoUp">+</button>
+          </section>
+        </div>
+      </section>
+
+      <section id="countInPanel" class="preview sticky-panel">
+        <div class="transport-header">
+          <div class="preview-header">Count-in before locator</div>
+          <button id="countInToggle" class="small-btn">Hide</button>
+        </div>
+        <div id="countInBody">
+          <div class="countin-row" id="countInRow">
+            <button data-countin="0">Off</button>
+            <button data-countin="1">1 Bar</button>
+            <button data-countin="2" class="active-green">2 Bars</button>
+          </div>
+        </div>
+      </section>
+
+      <section id="locatorPanel" class="markers preview">
+        <div class="transport-header">
+          <div class="preview-header">Project Locators</div>
+          <button id="locatorToggle" class="small-btn">Hide</button>
+        </div>
+        <div id="locatorBody">
+          <div id="locatorList">Looking for locators…</div>
+        </div>
+      </section>
+
+      <section id="trackArmPanel" class="preview">
+        <div class="transport-header">
+          <div class="preview-header">Track Arm</div>
+          <button id="trackArmToggle" class="small-btn">Hide</button>
+        </div>
+        <div id="trackArmBody">
+          <div id="trackArmList">Loading…</div>
+        </div>
+      </section>
+    </main>
+
+    <script src="/socket.io/socket.io.js"></script>
+    <script type="module" src="/app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,24 @@
+{
+  "copied_only_in_backup_count": 192,
+  "copied_conflict_variants_count": 4,
+  "errors_count": 0,
+  "conflict_copies": [
+    {
+      "source_rel": "Ever Deeper/Ever Deeper.pages",
+      "copied_to_rel": "Ever Deeper/Ever Deeper (from backup).pages"
+    },
+    {
+      "source_rel": "Following Your Voice/Figuring out chords -- guitar + bass combined.rtf",
+      "copied_to_rel": "Following Your Voice/Figuring out chords -- guitar + bass combined (from backup).rtf"
+    },
+    {
+      "source_rel": "Following Your Voice/Following Your Voice-2.reason",
+      "copied_to_rel": "Following Your Voice/Following Your Voice-2 (from backup).reason"
+    },
+    {
+      "source_rel": "I Look Up To The Holy God/I Look Up To The Holy God - C#m.pages",
+      "copied_to_rel": "I Look Up To The Holy God/I Look Up To The Holy God - C#m (from backup).pages"
+    }
+  ],
+  "errors": []
+}

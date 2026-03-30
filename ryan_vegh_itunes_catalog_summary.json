@@ -1,0 +1,270 @@
+{
+  "artist_id": 1049177436,
+  "songs_count_search": 84,
+  "songs_count_lookup": 85,
+  "albums_count": 6,
+  "videos_count": 0,
+  "album_track_counts_from_song_results": {
+    "The Moonlit Sunrise": 14,
+    "Good News": 48,
+    "The Early Years - EP": 6,
+    "God, You Are the Highest God (To Know Your Son) - Single": 1,
+    "Raj": 15
+  },
+  "genres_from_song_results": {
+    "Christian": 84
+  },
+  "track_explicitness": {
+    "notExplicit": 84
+  },
+  "preview_urls_available": 84,
+  "date_min": "2008-07-23",
+  "date_max": "2022-09-11",
+  "albums": [
+    {
+      "name": "The Early Years - EP",
+      "releaseDate": "2008-07-23",
+      "trackCount": 6,
+      "primaryGenreName": "Christian",
+      "collectionType": "Album"
+    },
+    {
+      "name": "The Moonlit Sunrise",
+      "releaseDate": "2011-08-21",
+      "trackCount": 14,
+      "primaryGenreName": "Christian",
+      "collectionType": "Album"
+    },
+    {
+      "name": "Raj",
+      "releaseDate": "2012-11-16",
+      "trackCount": 15,
+      "primaryGenreName": "Christian",
+      "collectionType": "Album"
+    },
+    {
+      "name": "God, You Are the Highest God (To Know Your Son) - Single",
+      "releaseDate": "2022-05-15",
+      "trackCount": 1,
+      "primaryGenreName": "Christian",
+      "collectionType": "Album"
+    },
+    {
+      "name": "Good News",
+      "releaseDate": "2022-09-11",
+      "trackCount": 24,
+      "primaryGenreName": "Christian",
+      "collectionType": "Album"
+    },
+    {
+      "name": "Good News",
+      "releaseDate": "2022-09-11",
+      "trackCount": 24,
+      "primaryGenreName": "Christian",
+      "collectionType": "Album"
+    }
+  ],
+  "sample_songs": [
+    {
+      "trackName": "The Sunday Show",
+      "collectionName": "The Moonlit Sunrise",
+      "releaseDate": "2011-08-21",
+      "primaryGenreName": "Christian",
+      "trackTimeMillis": 151458,
+      "previewUrl": true
+    },
+    {
+      "trackName": "Walking In the Garden",
+      "collectionName": "Good News",
+      "releaseDate": "2022-09-11",
+      "primaryGenreName": "Christian",
+      "trackTimeMillis": 288466,
+      "previewUrl": true
+    },
+    {
+      "trackName": "Receive the Holy Spirit",
+      "collectionName": "Good News",
+      "releaseDate": "2022-09-11",
+      "primaryGenreName": "Christian",
+      "trackTimeMillis": 298146,
+      "previewUrl": true
+    },
+    {
+      "trackName": "Time's Running Out (Repent)",
+      "collectionName": "Good News",
+      "releaseDate": "2022-09-11",
+      "primaryGenreName": "Christian",
+      "trackTimeMillis": 481226,
+      "previewUrl": true
+    },
+    {
+      "trackName": "His Name Is Jesus",
+      "collectionName": "Good News",
+      "releaseDate": "2022-09-11",
+      "primaryGenreName": "Christian",
+      "trackTimeMillis": 260630,
+      "previewUrl": true
+    },
+    {
+      "trackName": "I Died With Jesus",
+      "collectionName": "Good News",
+      "releaseDate": "2022-09-11",
+      "primaryGenreName": "Christian",
+      "trackTimeMillis": 376724,
+      "previewUrl": true
+    },
+    {
+      "trackName": "Receive the Holy Spirit",
+      "collectionName": "Good News",
+      "releaseDate": "2022-09-11",
+      "primaryGenreName": "Christian",
+      "trackTimeMillis": 298146,
+      "previewUrl": true
+    },
+    {
+      "trackName": "I Died With Jesus",
+      "collectionName": "Good News",
+      "releaseDate": "2022-09-11",
+      "primaryGenreName": "Christian",
+      "trackTimeMillis": 375197,
+      "previewUrl": true
+    },
+    {
+      "trackName": "In the Beginning",
+      "collectionName": "Good News",
+      "releaseDate": "2022-09-11",
+      "primaryGenreName": "Christian",
+      "trackTimeMillis": 160082,
+      "previewUrl": true
+    },
+    {
+      "trackName": "A Bath & a Burial",
+      "collectionName": "Good News",
+      "releaseDate": "2022-09-11",
+      "primaryGenreName": "Christian",
+      "trackTimeMillis": 201426,
+      "previewUrl": true
+    },
+    {
+      "trackName": "Continue In the Faith",
+      "collectionName": "Good News",
+      "releaseDate": "2022-09-11",
+      "primaryGenreName": "Christian",
+      "trackTimeMillis": 365722,
+      "previewUrl": true
+    },
+    {
+      "trackName": "Chess",
+      "collectionName": "Good News",
+      "releaseDate": "2022-09-11",
+      "primaryGenreName": "Christian",
+      "trackTimeMillis": 109216,
+      "previewUrl": true
+    },
+    {
+      "trackName": "Walking In the Garden",
+      "collectionName": "Good News",
+      "releaseDate": "2022-09-11",
+      "primaryGenreName": "Christian",
+      "trackTimeMillis": 289028,
+      "previewUrl": true
+    },
+    {
+      "trackName": "Believe In Jesus",
+      "collectionName": "Good News",
+      "releaseDate": "2022-09-11",
+      "primaryGenreName": "Christian",
+      "trackTimeMillis": 231624,
+      "previewUrl": true
+    },
+    {
+      "trackName": "God, Make That Fruit Grow",
+      "collectionName": "Good News",
+      "releaseDate": "2022-09-11",
+      "primaryGenreName": "Christian",
+      "trackTimeMillis": 246811,
+      "previewUrl": true
+    },
+    {
+      "trackName": "In Thee, O Lord",
+      "collectionName": "The Early Years - EP",
+      "releaseDate": "2008-07-23",
+      "primaryGenreName": "Christian",
+      "trackTimeMillis": 309981,
+      "previewUrl": true
+    },
+    {
+      "trackName": "Devil Battle",
+      "collectionName": "The Moonlit Sunrise",
+      "releaseDate": "2011-08-21",
+      "primaryGenreName": "Christian",
+      "trackTimeMillis": 398594,
+      "previewUrl": true
+    },
+    {
+      "trackName": "In the Beginning",
+      "collectionName": "Good News",
+      "releaseDate": "2022-09-11",
+      "primaryGenreName": "Christian",
+      "trackTimeMillis": 160082,
+      "previewUrl": true
+    },
+    {
+      "trackName": "Following Your",
+      "collectionName": "Good News",
+      "releaseDate": "2022-09-11",
+      "primaryGenreName": "Christian",
+      "trackTimeMillis": 365445,
+      "previewUrl": true
+    },
+    {
+      "trackName": "God, Make That Fruit Grow",
+      "collectionName": "Good News",
+      "releaseDate": "2022-09-11",
+      "primaryGenreName": "Christian",
+      "trackTimeMillis": 247500,
+      "previewUrl": true
+    },
+    {
+      "trackName": "Livin' For the King",
+      "collectionName": "Good News",
+      "releaseDate": "2022-09-11",
+      "primaryGenreName": "Christian",
+      "trackTimeMillis": 281862,
+      "previewUrl": true
+    },
+    {
+      "trackName": "My God",
+      "collectionName": "The Early Years - EP",
+      "releaseDate": "2008-07-23",
+      "primaryGenreName": "Christian",
+      "trackTimeMillis": 209828,
+      "previewUrl": true
+    },
+    {
+      "trackName": "God's Provision",
+      "collectionName": "Good News",
+      "releaseDate": "2022-09-11",
+      "primaryGenreName": "Christian",
+      "trackTimeMillis": 205814,
+      "previewUrl": true
+    },
+    {
+      "trackName": "Admit It & Quit",
+      "collectionName": "Good News",
+      "releaseDate": "2022-09-11",
+      "primaryGenreName": "Christian",
+      "trackTimeMillis": 152308,
+      "previewUrl": true
+    },
+    {
+      "trackName": "We're Sent Out",
+      "collectionName": "Good News",
+      "releaseDate": "2022-09-11",
+      "primaryGenreName": "Christian",
+      "trackTimeMillis": 265405,
+      "previewUrl": true
+    }
+  ],
+  "videos": []
+}

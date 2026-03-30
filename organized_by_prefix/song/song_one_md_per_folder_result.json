@@ -1,0 +1,1536 @@
+{
+  "created_named_md_count": 31,
+  "renamed_to_named_md_count": 132,
+  "archived_extra_md_count": 241,
+  "errors_count": 0,
+  "created_sample": [
+    "__SONG IDEAS__/F# Descent Project/F# Descent Project.md",
+    "Worst Of All Sinners/Session File Backups/Session File Backups.md",
+    "__MY ARRANGEMENTS__/Chorales/Chorales.md",
+    "The Unlovely One/The Unlovely One (from root 2).pages/Metadata/Metadata.md",
+    "The Unlovely One/The Unlovely One.pages/Metadata/Metadata.md",
+    "Everybody Let's Vacate/Everybody Let's Vacate.pages/Metadata/Metadata.md",
+    "Everybody Let's Vacate/Everybody Let's Vacate - lyrics.pages/Metadata/Metadata.md",
+    "I Want To Be Free/I Want To Be Free.pages/Metadata/Metadata.md",
+    "__MY ARRANGEMENTS__/It Is Well With My Soul/Music/Music.md",
+    "__MY ARRANGEMENTS__/Come Thou Fount 5-4/Recording/Come Thou Fount 5-4 Project/Ableton Project Info/Ableton Project Info.md",
+    "Life's A Dream/Life's A Dream.pages/Metadata/Metadata.md",
+    "Temptation/Temptation.pages/Metadata/Metadata.md",
+    "Temptation/Temptation - lyrics.pages/Metadata/Metadata.md",
+    "__OLD__/In Thee, O Lord/Old and Others/Old and Others.md",
+    "__OLD__/My God/My God - lyrics.pages/Metadata/Metadata.md",
+    "Whatchu Want/Recording/Whatchu Want Project/Ableton Project Info/Ableton Project Info.md",
+    "Taste And See/Recording/Taste And See/Taste And See.md",
+    "Taste And See/Chords/Taste And See.pages/Metadata/Metadata.md",
+    "Taste And See/Chords/Taste And See - lyrics.pages/Metadata/Metadata.md",
+    "Taste And See/Recording/Taste And See/Session File Backups/Session File Backups.md",
+    "__SPOKEN WORD__/Hawk Song.pages/Metadata/Metadata.md",
+    "__SONG IDEAS__/F# Descent Project/Ableton Project Info/Ableton Project Info.md",
+    "__SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Ableton Project Info/Ableton Project Info.md",
+    "__SONG IDEAS__/Heartbeat Of Life/Heartbeat of Life.pages/Metadata/Metadata.md",
+    "Concrete/Concrete.pages/Metadata/Metadata.md",
+    "Finding It Hard/Finding It Hard - lyrics.pages/Metadata/Metadata.md",
+    "Finding It Hard/Finding It Hard.pages/Metadata/Metadata.md",
+    "Be It Unto Me/Be It Unto Me - lyrics.pages/Metadata/Metadata.md",
+    "Be It Unto Me/Be It Unto Me.pages/Metadata/Metadata.md",
+    "I Just Wanna Listen To You/I Just Wanna Listen To You (from root 2).pages/Metadata/Metadata.md",
+    "I Just Wanna Listen To You/I Just Wanna Listen To You.pages/Metadata/Metadata.md"
+  ],
+  "renamed_sample": [
+    {
+      "from": "Blazing Light of God/Ryan Vegh - Blazing Light of God with notes.md",
+      "to": "Blazing Light of God/Blazing Light of God.md"
+    },
+    {
+      "from": "God Almighty Lord Of All/more God Almighty.md",
+      "to": "God Almighty Lord Of All/God Almighty Lord Of All.md"
+    },
+    {
+      "from": "I Just Wanna Listen To You/I Just Wanna Listen To You 23ee5a73f1d98077829fdcd304627315.md",
+      "to": "I Just Wanna Listen To You/I Just Wanna Listen To You.md"
+    },
+    {
+      "from": "The Show's Over (In The Arms Of Jesus)/The Show\u2019s Over (In The Arms of Jesus) 241e5a73f1d980d1886fd2af5f4c53cf.md",
+      "to": "The Show's Over (In The Arms Of Jesus)/The Show's Over (In The Arms Of Jesus).md"
+    },
+    {
+      "from": "Today's A Good Day To Disobey The Devil/Today\u2019s A Good Day To Disobey The Devil 24ee5a73f1d9802196c5cf2927d5ad8f.md",
+      "to": "Today's A Good Day To Disobey The Devil/Today's A Good Day To Disobey The Devil.md"
+    },
+    {
+      "from": "Without A Cause/Without A Cause - original.md",
+      "to": "Without A Cause/Without A Cause.md"
+    },
+    {
+      "from": "Walking In The Garden/Walking In The Garden with chords (extensions).md",
+      "to": "Walking In The Garden/Walking In The Garden.md"
+    },
+    {
+      "from": "Time's Running Out (Repent)/Time's Running Out (with rotating key signature).md",
+      "to": "Time's Running Out (Repent)/Time's Running Out (Repent).md"
+    },
+    {
+      "from": "God, Make That Fruit Grow/end_of_Chorus__God_Make_That_Fruit_G-g-g-g-grow!.md",
+      "to": "God, Make That Fruit Grow/God, Make That Fruit Grow.md"
+    },
+    {
+      "from": "Be Near To Me/Be Near To Me 10350bf898cb4b15908655904c2af5c9.md",
+      "to": "Be Near To Me/Be Near To Me.md"
+    },
+    {
+      "from": "You Prepare My Path For Me/You_Prepare_My_Path_For_Me_(finished).md",
+      "to": "You Prepare My Path For Me/You Prepare My Path For Me.md"
+    },
+    {
+      "from": "Following Your Voice/Following_Your_Voice__new_intro_part.md",
+      "to": "Following Your Voice/Following Your Voice.md"
+    },
+    {
+      "from": "For The Rest Of The Night/For The Rest Of The Night - Ryan Vegh - D.md",
+      "to": "For The Rest Of The Night/For The Rest Of The Night.md"
+    },
+    {
+      "from": "Finding It Hard/Finding_It_Hard_-_baritone_5-27-21.md",
+      "to": "Finding It Hard/Finding It Hard.md"
+    },
+    {
+      "from": "Whom Have I In Heaven But You/Whom Have I In Heaven But You -- easy.md",
+      "to": "Whom Have I In Heaven But You/Whom Have I In Heaven But You.md"
+    },
+    {
+      "from": "My Body/fun_triple_vocal_break_My_Body.md",
+      "to": "My Body/My Body.md"
+    },
+    {
+      "from": "Come Soon/Come Soon fffe5a73f1d980d48b4fec610c832585.md",
+      "to": "Come Soon/Come Soon.md"
+    },
+    {
+      "from": "Devil Battle/Devil_Battle_with_Firebrand_and_grit.md",
+      "to": "Devil Battle/Devil Battle.md"
+    },
+    {
+      "from": "I Look Up To The Holy God/I Look Up To The Holy God - C#m (Ryans-M1-Mac.hsd1.mi.comcast.net's conflicted copy 2024-06-03).md",
+      "to": "I Look Up To The Holy God/I Look Up To The Holy God.md"
+    },
+    {
+      "from": "The Longing Of The Soul/The Longing Of The Soul - lyrics.md",
+      "to": "The Longing Of The Soul/The Longing Of The Soul.md"
+    },
+    {
+      "from": "My Heart Was Lost/My Heart Was Lost - chords.md",
+      "to": "My Heart Was Lost/My Heart Was Lost.md"
+    },
+    {
+      "from": "An Overturned Lantern/An Overturned Lantern - w chords.md",
+      "to": "An Overturned Lantern/An Overturned Lantern.md"
+    },
+    {
+      "from": "Live In Purity/Live In Purity 3145100186ba4c87bfb383c73f1cc04a.md",
+      "to": "Live In Purity/Live In Purity.md"
+    },
+    {
+      "from": "Way of the Wise/Way of the Wise2.md",
+      "to": "Way of the Wise/Way of the Wise.md"
+    },
+    {
+      "from": "Shema Yisrael/Shema Yisrael w drums.md",
+      "to": "Shema Yisrael/Shema Yisrael.md"
+    },
+    {
+      "from": "Taste And See/Taste_And_See__baritone_E_-_5-27-21.md",
+      "to": "Taste And See/Taste And See.md"
+    },
+    {
+      "from": "Livin' For The King/Livin_For_The_King__new_Bridge.md",
+      "to": "Livin' For The King/Livin' For The King.md"
+    },
+    {
+      "from": "Turn On The Light/Turn On The Light 20244acde6bc4d30a1a6f9bb425e1013.md",
+      "to": "Turn On The Light/Turn On The Light.md"
+    },
+    {
+      "from": "Whatchu Want/Whatchu Want 23ee5a73f1d98046bc3acf5b5c608a02.md",
+      "to": "Whatchu Want/Whatchu Want.md"
+    },
+    {
+      "from": "God, You Are The Highest God (To Know Your Son)/God_You_are_the_Highest_God_(To_Know_Your_Son)_-_pg_1.md",
+      "to": "God, You Are The Highest God (To Know Your Son)/God, You Are The Highest God (To Know Your Son).md"
+    },
+    {
+      "from": "Sweet Chaos/Sweet Chaos - finished.md",
+      "to": "Sweet Chaos/Sweet Chaos.md"
+    },
+    {
+      "from": "Think About The Good Things (Always Be Thankful)/Think About The Good Things (Always Be Thankful) 10be5a73f1d9801aa54cf5e5630de842.md",
+      "to": "Think About The Good Things (Always Be Thankful)/Think About The Good Things (Always Be Thankful).md"
+    },
+    {
+      "from": "The Writer/The Writer 176e5a73f1d980ce9039dfc69de57221.md",
+      "to": "The Writer/The Writer.md"
+    },
+    {
+      "from": "I Can't Get Low Enough/I_Cant_Get_Low_Enough__in_higher_key_at_Dwell__Elles_house.md",
+      "to": "I Can't Get Low Enough/I Can't Get Low Enough.md"
+    },
+    {
+      "from": "Offer My Body As A Living Sacrifice/Romans_Offer_My_Body_as_a_living_Sacrifice.md",
+      "to": "Offer My Body As A Living Sacrifice/Offer My Body As A Living Sacrifice.md"
+    },
+    {
+      "from": "Life's A Dream/Life\u2019s A Dream 23ee5a73f1d9802f810bd20d9fe15764.md",
+      "to": "Life's A Dream/Life's A Dream.md"
+    },
+    {
+      "from": "Speak Your Word/Speak Your Word 18fe5a73f1d980e8aff8e9baee4db3eb.md",
+      "to": "Speak Your Word/Speak Your Word.md"
+    },
+    {
+      "from": "Even If You Take Everything/Even_If_You_Take_Everything__with_words.md",
+      "to": "Even If You Take Everything/Even If You Take Everything.md"
+    },
+    {
+      "from": "I Died With Jesus/I_Died_With_Jesus.md",
+      "to": "I Died With Jesus/I Died With Jesus.md"
+    },
+    {
+      "from": "My Soul's Tied In Your Soul/My Soul\u2019s Tied In Your Soul 10be5a73f1d980e18e29f7eee09f96c8.md",
+      "to": "My Soul's Tied In Your Soul/My Soul's Tied In Your Soul.md"
+    },
+    {
+      "from": "This Is Where I Belong/This Is Where I Belong BARITONE -- ending chord and new verse - 5-29-21.md",
+      "to": "This Is Where I Belong/This Is Where I Belong.md"
+    },
+    {
+      "from": "Work In Progress (I Need Help Too)/Work In Progress (I Need Help, Too).md",
+      "to": "Work In Progress (I Need Help Too)/Work In Progress (I Need Help Too).md"
+    },
+    {
+      "from": "Here Goes Nothing/Here Goes Nothing BARITONE =D - 5-22-21.md",
+      "to": "Here Goes Nothing/Here Goes Nothing.md"
+    },
+    {
+      "from": "I Love You Oh My Father/I_Love_You_Oh_My_Father.md",
+      "to": "I Love You Oh My Father/I Love You Oh My Father.md"
+    },
+    {
+      "from": "Hard to Get/Hard to Get chords.md",
+      "to": "Hard to Get/Hard to Get.md"
+    },
+    {
+      "from": "I Love The Way/I Love The Way (whole song -- minus additional Choruses) BARITONE - 5-22-21.md",
+      "to": "I Love The Way/I Love The Way.md"
+    },
+    {
+      "from": "I Want To Be Free/I Want To Be Free - full song.md",
+      "to": "I Want To Be Free/I Want To Be Free.md"
+    },
+    {
+      "from": "Everybody Let's Vacate/Everybody Let's Vacate - alternate lyrics.md",
+      "to": "Everybody Let's Vacate/Everybody Let's Vacate.md"
+    },
+    {
+      "from": "The Unlovely One/The_Unlovely_One_baritone_Am.md",
+      "to": "The Unlovely One/The Unlovely One.md"
+    },
+    {
+      "from": "__SONG IDEAS__/The Fear Of The Lord/The Fear Of The Lord-bckp.md",
+      "to": "__SONG IDEAS__/The Fear Of The Lord/The Fear Of The Lord.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Don't Wanna Be Ashamed Of You/Don\u2019t Wanna Be Ashamed Of You c548ffd9ffed4c9285859511c241f33b.md",
+      "to": "__SONG IDEAS__/Don't Wanna Be Ashamed Of You/Don't Wanna Be Ashamed Of You.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Time's Running Out (Repent)/Time's Running Out (with rotating key signature).md",
+      "to": "__SONG IDEAS__/Time's Running Out (Repent)/Time's Running Out (Repent).md"
+    },
+    {
+      "from": "__SONG IDEAS__/I'll Walk This Road/I\u2019ll Walk This Road 58c4b487c1014570af8317c5c6e5f387.md",
+      "to": "__SONG IDEAS__/I'll Walk This Road/I'll Walk This Road.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Minor Classical Guitar Song/20160729_134622 Minor classical guitar.md",
+      "to": "__SONG IDEAS__/Minor Classical Guitar Song/Minor Classical Guitar Song.md"
+    },
+    {
+      "from": "__SONG IDEAS__/To Feat You Is The Beginning Of Knowledge/To Fear You Is The Beginning Of Knowledge d0f0c453d9e34d848fa90e50f1e842a7.md",
+      "to": "__SONG IDEAS__/To Feat You Is The Beginning Of Knowledge/To Feat You Is The Beginning Of Knowledge.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Jazzy Baritone Song/Jazzy baritone song 9.md",
+      "to": "__SONG IDEAS__/Jazzy Baritone Song/Jazzy Baritone Song.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Holy, Lord Almighty \u2014 DADGAD Revelation worship/Holy_Lord_Almighty_-_pg_1.md",
+      "to": "__SONG IDEAS__/Holy, Lord Almighty \u2014 DADGAD Revelation worship/Holy, Lord Almighty \u2014 DADGAD Revelation worship.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Surely You Care For Me/Surely you care for me_2.md",
+      "to": "__SONG IDEAS__/Surely You Care For Me/Surely You Care For Me.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Some Days (Lord, Lead Me)/Some_Days_(Lord_Lead_Me).md",
+      "to": "__SONG IDEAS__/Some Days (Lord, Lead Me)/Some Days (Lord, Lead Me).md"
+    },
+    {
+      "from": "__SONG IDEAS__/Lord We Give You The Praise/Lord We Give You The Praise 40ed8933079841bc92e5c021d2285307.md",
+      "to": "__SONG IDEAS__/Lord We Give You The Praise/Lord We Give You The Praise.md"
+    },
+    {
+      "from": "__SONG IDEAS__/No More Idols/No_more_idols.md",
+      "to": "__SONG IDEAS__/No More Idols/No More Idols.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Even Though I Don't Like Spendin' Money/Even_though_I_dont_like_spendin_money.md",
+      "to": "__SONG IDEAS__/Even Though I Don't Like Spendin' Money/Even Though I Don't Like Spendin' Money.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Before Everything/Before everything_1.md",
+      "to": "__SONG IDEAS__/Before Everything/Before Everything.md"
+    },
+    {
+      "from": "__SONG IDEAS__/I Wanna Love You Like You're Right Here/I_Wanna_Love_You_Like_Youre_Right_Here.md",
+      "to": "__SONG IDEAS__/I Wanna Love You Like You're Right Here/I Wanna Love You Like You're Right Here.md"
+    },
+    {
+      "from": "__SONG IDEAS__/More Is Never Enough/More Is Never Enough (2).md",
+      "to": "__SONG IDEAS__/More Is Never Enough/More Is Never Enough.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Thought To Thought/Thought_To_Thought.md",
+      "to": "__SONG IDEAS__/Thought To Thought/Thought To Thought.md"
+    },
+    {
+      "from": "__SONG IDEAS__/You\u2019re Bringing Me Into A Brand New Season/Youre_bringing_me_into_a_brand_new_season.md",
+      "to": "__SONG IDEAS__/You\u2019re Bringing Me Into A Brand New Season/You\u2019re Bringing Me Into A Brand New Season.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Xenharmonic Dobro/Xenharmonic Dobro 1.md",
+      "to": "__SONG IDEAS__/Xenharmonic Dobro/Xenharmonic Dobro.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Oh how I love You!/Oh_how_I_love_You!.md",
+      "to": "__SONG IDEAS__/Oh how I love You!/Oh how I love You!.md"
+    },
+    {
+      "from": "__SONG IDEAS__/I Agree With What You Say/20200212 081811 I Agree With What You Say.md",
+      "to": "__SONG IDEAS__/I Agree With What You Say/I Agree With What You Say.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Just Stop/Just Stop (2).md",
+      "to": "__SONG IDEAS__/Just Stop/Just Stop.md"
+    },
+    {
+      "from": "__SONG IDEAS__/My Choice To Rejoice/My Choice To Rejoice journal ideas.md",
+      "to": "__SONG IDEAS__/My Choice To Rejoice/My Choice To Rejoice.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Lead Me (Her) Lord/Lead Me Her, Lord 67802e84c78841bf810f6d691f5d465f.md",
+      "to": "__SONG IDEAS__/Lead Me (Her) Lord/Lead Me (Her) Lord.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Let It Shine Through Me/Let It Shine Through Me 93552ea890e342559b4be089bb04ca3d.md",
+      "to": "__SONG IDEAS__/Let It Shine Through Me/Let It Shine Through Me.md"
+    },
+    {
+      "from": "__SONG IDEAS__/It's Been A Minute/It\u2019s Been A Minute Since I\u2019 Been In It b7d070f8fba747cea45c8844845138da.md",
+      "to": "__SONG IDEAS__/It's Been A Minute/It's Been A Minute.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Warning Song (I\u2019m Thankful For No)/Warning_Song_(Im_Thankful_For_No).md",
+      "to": "__SONG IDEAS__/Warning Song (I\u2019m Thankful For No)/Warning Song (I\u2019m Thankful For No).md"
+    },
+    {
+      "from": "__SONG IDEAS__/I Serve A Higher King/I Serve A Higher King - first ideas on guitar.md",
+      "to": "__SONG IDEAS__/I Serve A Higher King/I Serve A Higher King.md"
+    },
+    {
+      "from": "__SONG IDEAS__/I Am Like A Ship At Sea/I am like a ship at sea 57541c7cdc844b79b3051aacbacc28aa.md",
+      "to": "__SONG IDEAS__/I Am Like A Ship At Sea/I Am Like A Ship At Sea.md"
+    },
+    {
+      "from": "__SONG IDEAS__/It's Like You Knew All Along/It\u2019s Like You Knew All Along fffe5a73f1d980e09444eb2222c8276b.md",
+      "to": "__SONG IDEAS__/It's Like You Knew All Along/It's Like You Knew All Along.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Dm9 spacey piano song/Dm9 spacey piano song - 2.md",
+      "to": "__SONG IDEAS__/Dm9 spacey piano song/Dm9 spacey piano song.md"
+    },
+    {
+      "from": "__SONG IDEAS__/It's Amazing To Me, Your Sovereignty/Verse_-_Its_amazing_to_me_Your_sovereignty_(rap-esque).md",
+      "to": "__SONG IDEAS__/It's Amazing To Me, Your Sovereignty/It's Amazing To Me, Your Sovereignty.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Praise God (Baptism Song)/Praise God! (baptism song) ab46ad4c35af49a4902f2d3d74d63e2b.md",
+      "to": "__SONG IDEAS__/Praise God (Baptism Song)/Praise God (Baptism Song).md"
+    },
+    {
+      "from": "__SONG IDEAS__/Covenant With My Eyes/Covenant_With_My_Eyes_idea.md",
+      "to": "__SONG IDEAS__/Covenant With My Eyes/Covenant With My Eyes.md"
+    },
+    {
+      "from": "__SONG IDEAS__/It's A Good Day To Be Alive/It\u2019s A Good Day To Be Alive d9918c6ffdc94ea5b7d882a7a7e577fa.md",
+      "to": "__SONG IDEAS__/It's A Good Day To Be Alive/It's A Good Day To Be Alive.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Not Gonna Wanna Halfta/Not Gonna Wanna Halfta b0b362a174a946c9a857f6d38ace0106.md",
+      "to": "__SONG IDEAS__/Not Gonna Wanna Halfta/Not Gonna Wanna Halfta.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Oh, Make Us One/Oh, Make Us One 93d5cd05d45a46e29e555863d4a7fa70.md",
+      "to": "__SONG IDEAS__/Oh, Make Us One/Oh, Make Us One.md"
+    },
+    {
+      "from": "__SONG IDEAS__/I\u2019ll Use Up All My Strength For You/Ill_Use_Up_All_My_Strength_For_You.md",
+      "to": "__SONG IDEAS__/I\u2019ll Use Up All My Strength For You/I\u2019ll Use Up All My Strength For You.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Make Christ The Judge Your Friend/Make_Christ_the_Judge_your_friend.md",
+      "to": "__SONG IDEAS__/Make Christ The Judge Your Friend/Make Christ The Judge Your Friend.md"
+    },
+    {
+      "from": "__SONG IDEAS__/I Love Her, But She Ain't My Girlfriend/I_love_her_but_she_aint_my_girlfriend.md",
+      "to": "__SONG IDEAS__/I Love Her, But She Ain't My Girlfriend/I Love Her, But She Ain't My Girlfriend.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Solely Devoted To Your Love/Solely Devoted To Your Love - 8.md",
+      "to": "__SONG IDEAS__/Solely Devoted To Your Love/Solely Devoted To Your Love.md"
+    },
+    {
+      "from": "__SONG IDEAS__/I Thought I Wanted To Love You/I_thought_I_wanted_to_love_you__song_idea.md",
+      "to": "__SONG IDEAS__/I Thought I Wanted To Love You/I Thought I Wanted To Love You.md"
+    },
+    {
+      "from": "__SONG IDEAS__/First Place/God_my_God_you_take_First_Place_why_should_you_give_me_Children.md",
+      "to": "__SONG IDEAS__/First Place/First Place.md"
+    },
+    {
+      "from": "__SONG IDEAS__/I Have The Best Man/I have the best man_1.md",
+      "to": "__SONG IDEAS__/I Have The Best Man/I Have The Best Man.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Love With No Strings Attached/Love_With_No_Strings_Attached.md",
+      "to": "__SONG IDEAS__/Love With No Strings Attached/Love With No Strings Attached.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Feel Like I Need To Move My Body/Feel Like I Need To Move My Body 65b93e84948744ab8bb14a07bfebdafc.md",
+      "to": "__SONG IDEAS__/Feel Like I Need To Move My Body/Feel Like I Need To Move My Body.md"
+    },
+    {
+      "from": "__OLD__/My God/My God 4af77c27c6b343a9ad991e6025a862bb.md",
+      "to": "__OLD__/My God/My God.md"
+    },
+    {
+      "from": "__OLD__/The Lord Jesus Christ/Yeah! It's the Lord Jesus Christ.md",
+      "to": "__OLD__/The Lord Jesus Christ/The Lord Jesus Christ.md"
+    },
+    {
+      "from": "__OLD__/In All Things/In All Things - WO chords.md",
+      "to": "__OLD__/In All Things/In All Things.md"
+    },
+    {
+      "from": "__OLD__/True 2 U/True To You True 2 U 24de5a73f1d9802c80f8d1b2964b2894.md",
+      "to": "__OLD__/True 2 U/True 2 U.md"
+    },
+    {
+      "from": "__OLD__/It Is Time/It Is Time new ideas.md",
+      "to": "__OLD__/It Is Time/It Is Time.md"
+    },
+    {
+      "from": "__OLD__/I Need Your Help Again/I Need Your Help Again-withoutchords.md",
+      "to": "__OLD__/I Need Your Help Again/I Need Your Help Again.md"
+    },
+    {
+      "from": "__OLD__/Unknown and Misunderstood/unknown and misunderstood idea.md",
+      "to": "__OLD__/Unknown and Misunderstood/Unknown and Misunderstood.md"
+    },
+    {
+      "from": "__OLD__/Just Look Around/Just Look Around-altering.md",
+      "to": "__OLD__/Just Look Around/Just Look Around.md"
+    },
+    {
+      "from": "__OLD__/You Are The Light/You Are The Light 248e5a73f1d9808e8441f22da20efabf.md",
+      "to": "__OLD__/You Are The Light/You Are The Light.md"
+    },
+    {
+      "from": "__OLD__/Thank You, Lord/Thank You, Lord-WOchords.md",
+      "to": "__OLD__/Thank You, Lord/Thank You, Lord.md"
+    },
+    {
+      "from": "__OLD__/All I Got Left Is God/All I Got Left Is God - lyrics.md",
+      "to": "__OLD__/All I Got Left Is God/All I Got Left Is God.md"
+    },
+    {
+      "from": "__OLD__/God Is In The Business/God Is In The Business WO chords.md",
+      "to": "__OLD__/God Is In The Business/God Is In The Business.md"
+    },
+    {
+      "from": "__OLD__/You Will Never Die/You will never die-withouchords.md",
+      "to": "__OLD__/You Will Never Die/You Will Never Die.md"
+    },
+    {
+      "from": "__OLD__/Bring Us To You/Bring Us To You journal.md",
+      "to": "__OLD__/Bring Us To You/Bring Us To You.md"
+    },
+    {
+      "from": "__OLD__/Soon and Forever/Soon and Forever-WOchords.md",
+      "to": "__OLD__/Soon and Forever/Soon and Forever.md"
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/It Is Well With My Soul/It Is Well With My Soul - normal version.md",
+      "to": "__MY ARRANGEMENTS__/It Is Well With My Soul/It Is Well With My Soul.md"
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/The Day of Judgment/The Day of Judgement.md",
+      "to": "__MY ARRANGEMENTS__/The Day of Judgment/The Day of Judgment.md"
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/Dry Bones/Dry Bones - RV arrangement VS2 chords.md",
+      "to": "__MY ARRANGEMENTS__/Dry Bones/Dry Bones.md"
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/Marvelous Light/Marvelous Light - Ellie Holcomb - A.md",
+      "to": "__MY ARRANGEMENTS__/Marvelous Light/Marvelous Light.md"
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/I Look Up To The Holy God/I Look Up To The Holy God - Cm (original key).md",
+      "to": "__MY ARRANGEMENTS__/I Look Up To The Holy God/I Look Up To The Holy God.md"
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/Not Ashamed/Not Ashamed - RV version.md",
+      "to": "__MY ARRANGEMENTS__/Not Ashamed/Not Ashamed.md"
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/This Is What You Do/This Is What You Do - RV arrangement.md",
+      "to": "__MY ARRANGEMENTS__/This Is What You Do/This Is What You Do.md"
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/Psalm 5/Psalm 5 - key of D.md",
+      "to": "__MY ARRANGEMENTS__/Psalm 5/Psalm 5.md"
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/Our God/Our God - Ryan Vegh Reharmonization.md",
+      "to": "__MY ARRANGEMENTS__/Our God/Our God.md"
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/It's So Sweet To Trust In Jesus/It's So Sweet -- Oh part =).md",
+      "to": "__MY ARRANGEMENTS__/It's So Sweet To Trust In Jesus/It's So Sweet To Trust In Jesus.md"
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/How Great Thou Art/How Great Thou Art - Reharmonized Quartet.md",
+      "to": "__MY ARRANGEMENTS__/How Great Thou Art/How Great Thou Art.md"
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/Give Me Faith/Give Me Faith - RV arrangement UPDATED 5:29:19.md",
+      "to": "__MY ARRANGEMENTS__/Give Me Faith/Give Me Faith.md"
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/I Came To Magnify The Lord/I Came To Magnify The Lord - 2.md",
+      "to": "__MY ARRANGEMENTS__/I Came To Magnify The Lord/I Came To Magnify The Lord.md"
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/For You/For You - RV arrangement (jazzy!).md",
+      "to": "__MY ARRANGEMENTS__/For You/For You.md"
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/God, Be My Vision/God_Be_My_Vision_--_D_to_Eb_to_E.md",
+      "to": "__MY ARRANGEMENTS__/God, Be My Vision/God, Be My Vision.md"
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/And Can It Be (Can It Be True)/And Can It Be - D.md",
+      "to": "__MY ARRANGEMENTS__/And Can It Be (Can It Be True)/And Can It Be (Can It Be True).md"
+    },
+    {
+      "from": "__CO-WRITES__/Eric Gommesen/Spirit of the Lord Moves.md",
+      "to": "__CO-WRITES__/Eric Gommesen/Eric Gommesen.md"
+    },
+    {
+      "from": "__CO-WRITES__/The Day Of Judgment/The_Day_Of_Judgment__with_chords.md",
+      "to": "__CO-WRITES__/The Day Of Judgment/The Day Of Judgment.md"
+    },
+    {
+      "from": "__CO-WRITES__/I Will Only Love My Lord/I_Will_Only_Love_My_Lord__from_The_Heavenly_Man__1-12-22.md",
+      "to": "__CO-WRITES__/I Will Only Love My Lord/I Will Only Love My Lord.md"
+    },
+    {
+      "from": "__CO-WRITES__/Jesus! Jesus! Hail Jesus! (Jesus The Mighty One)/Jesus! Jesus! Hail Jesus 56b5172c348f4f6b809bb5432015456d.md",
+      "to": "__CO-WRITES__/Jesus! Jesus! Hail Jesus! (Jesus The Mighty One)/Jesus! Jesus! Hail Jesus! (Jesus The Mighty One).md"
+    },
+    {
+      "from": "__CO-WRITES__/Eric Gommesen/Our Lord/Our_Lord_-_first_go.md",
+      "to": "__CO-WRITES__/Eric Gommesen/Our Lord/Our Lord.md"
+    },
+    {
+      "from": "__SONG IDEAS__/__RIFFS__/8-String/8-string_into_Rabea_high_gain_amp.md",
+      "to": "__SONG IDEAS__/__RIFFS__/8-String/8-String.md"
+    }
+  ],
+  "archived_sample": [
+    {
+      "from": "Blazing Light of God/Blazing Light of God - WO chords.doc.md",
+      "to": "Blazing Light of God/_md_archive/Blazing Light of God - WO chords.doc.md"
+    },
+    {
+      "from": "Blazing Light of God/Blazing_Light_of_God_-_key_of_Bm_-_8-string_on_Fender_amp.md",
+      "to": "Blazing Light of God/_md_archive/Blazing_Light_of_God_-_key_of_Bm_-_8-string_on_Fender_amp.md"
+    },
+    {
+      "from": "Blazing Light of God/Blazing Light of God ba5b312faa3f47588fba360a9c34ea5c.md",
+      "to": "Blazing Light of God/_md_archive/Blazing Light of God ba5b312faa3f47588fba360a9c34ea5c.md"
+    },
+    {
+      "from": "Blazing Light of God/Blazing Light of God - Key of Em - 2-22-24.md",
+      "to": "Blazing Light of God/_md_archive/Blazing Light of God - Key of Em - 2-22-24.md"
+    },
+    {
+      "from": "Blazing Light of God/Blazing Light of God - key of E with detune.md",
+      "to": "Blazing Light of God/_md_archive/Blazing Light of God - key of E with detune.md"
+    },
+    {
+      "from": "God Almighty Lord Of All/God Almighty Quartal ending.md",
+      "to": "God Almighty Lord Of All/_md_archive/God Almighty Quartal ending.md"
+    },
+    {
+      "from": "God Almighty Lord Of All/God Almighty - 3.md",
+      "to": "God Almighty Lord Of All/_md_archive/God Almighty - 3.md"
+    },
+    {
+      "from": "God Almighty Lord Of All/God Almighty - 2.md",
+      "to": "God Almighty Lord Of All/_md_archive/God Almighty - 2.md"
+    },
+    {
+      "from": "God Almighty Lord Of All/God Almighty - 5.md",
+      "to": "God Almighty Lord Of All/_md_archive/God Almighty - 5.md"
+    },
+    {
+      "from": "God Almighty Lord Of All/More of God Almighty.md",
+      "to": "God Almighty Lord Of All/_md_archive/More of God Almighty.md"
+    },
+    {
+      "from": "God Almighty Lord Of All/God Almighty - 1.md",
+      "to": "God Almighty Lord Of All/_md_archive/God Almighty - 1.md"
+    },
+    {
+      "from": "God Almighty Lord Of All/God Almighty - 0.md",
+      "to": "God Almighty Lord Of All/_md_archive/God Almighty - 0.md"
+    },
+    {
+      "from": "God Almighty Lord Of All/God Almighty - 4.md",
+      "to": "God Almighty Lord Of All/_md_archive/God Almighty - 4.md"
+    },
+    {
+      "from": "God Almighty Lord Of All/God Almighty Lord Of All - NEW.md",
+      "to": "God Almighty Lord Of All/_md_archive/God Almighty Lord Of All - NEW.md"
+    },
+    {
+      "from": "God Almighty Lord Of All/God Almighty, Lord of All 032843cec8ef442d8ad5f93a0f29f7d8.md",
+      "to": "God Almighty Lord Of All/_md_archive/God Almighty, Lord of All 032843cec8ef442d8ad5f93a0f29f7d8.md"
+    },
+    {
+      "from": "My, My Mind/My, My Mind 9b9f353c3cf044668128886b6b60d892.md",
+      "to": "My, My Mind/_md_archive/My, My Mind 9b9f353c3cf044668128886b6b60d892.md"
+    },
+    {
+      "from": "Without A Cause/Without A Cause -- weird chords.md",
+      "to": "Without A Cause/_md_archive/Without A Cause -- weird chords.md"
+    },
+    {
+      "from": "Without A Cause/Without A Cause - WO chords.md",
+      "to": "Without A Cause/_md_archive/Without A Cause - WO chords.md"
+    },
+    {
+      "from": "Without A Cause/Without A Cause -- D editing (missing some parts).md",
+      "to": "Without A Cause/_md_archive/Without A Cause -- D editing (missing some parts).md"
+    },
+    {
+      "from": "Without A Cause/Without A Cause - new in D (w: extensions).md",
+      "to": "Without A Cause/_md_archive/Without A Cause - new in D (w: extensions).md"
+    },
+    {
+      "from": "Walking In The Garden/walking in the garden idea.md",
+      "to": "Walking In The Garden/_md_archive/walking in the garden idea.md"
+    },
+    {
+      "from": "Time's Running Out (Repent)/Time's Running Out (Don't Die).md",
+      "to": "Time's Running Out (Repent)/_md_archive/Time's Running Out (Don't Die).md"
+    },
+    {
+      "from": "God, Make That Fruit Grow/God, Make That Fruit Grow 060d5c45feca49ad8503f15192d2125d.md",
+      "to": "God, Make That Fruit Grow/_md_archive/God, Make That Fruit Grow 060d5c45feca49ad8503f15192d2125d.md"
+    },
+    {
+      "from": "God, Make That Fruit Grow/New_Verse_for_God_Make_That_Fruit_Grow.md",
+      "to": "God, Make That Fruit Grow/_md_archive/New_Verse_for_God_Make_That_Fruit_Grow.md"
+    },
+    {
+      "from": "Beautiful Flower Of God/Beautiful Flower of God.md",
+      "to": "Beautiful Flower Of God/_md_archive/Beautiful Flower of God.md"
+    },
+    {
+      "from": "Be Near To Me/Be Near To Me BARITONE -- starting to figure a little bit out.md",
+      "to": "Be Near To Me/_md_archive/Be Near To Me BARITONE -- starting to figure a little bit out.md"
+    },
+    {
+      "from": "Is Loving Worth The Loss/Chorus_transposes_Is_Loving_Worth_The_Loss.md",
+      "to": "Is Loving Worth The Loss/_md_archive/Chorus_transposes_Is_Loving_Worth_The_Loss.md"
+    },
+    {
+      "from": "Is Loving Worth The Loss/Is_Loving_Worth_The_Loss.md",
+      "to": "Is Loving Worth The Loss/_md_archive/Is_Loving_Worth_The_Loss.md"
+    },
+    {
+      "from": "Is Loving Worth The Loss/Really_high_Is_Loving_Worth_The_Loss_(Nay).md",
+      "to": "Is Loving Worth The Loss/_md_archive/Really_high_Is_Loving_Worth_The_Loss_(Nay).md"
+    },
+    {
+      "from": "Is Loving Worth The Loss/Another_verse_idea_Is_Loving_Worth_The_Loss.md",
+      "to": "Is Loving Worth The Loss/_md_archive/Another_verse_idea_Is_Loving_Worth_The_Loss.md"
+    },
+    {
+      "from": "Is Loving Worth The Loss/Is_Losing_Worth_The_Loss_2.md",
+      "to": "Is Loving Worth The Loss/_md_archive/Is_Losing_Worth_The_Loss_2.md"
+    },
+    {
+      "from": "Is Loving Worth The Loss/Bridge_idea_Is_Loving_Worth_The_Loss.md",
+      "to": "Is Loving Worth The Loss/_md_archive/Bridge_idea_Is_Loving_Worth_The_Loss.md"
+    },
+    {
+      "from": "Is Loving Worth The Loss/Verse_idea_Is_Loving_Worth_The_Loss.md",
+      "to": "Is Loving Worth The Loss/_md_archive/Verse_idea_Is_Loving_Worth_The_Loss.md"
+    },
+    {
+      "from": "Is Loving Worth The Loss/Jesus_Chorus_Is_Loving_Worth_The_Loss.md",
+      "to": "Is Loving Worth The Loss/_md_archive/Jesus_Chorus_Is_Loving_Worth_The_Loss.md"
+    },
+    {
+      "from": "You Prepare My Path For Me/You_Prepare_My_Path_For_Me_-_page_1.md",
+      "to": "You Prepare My Path For Me/_md_archive/You_Prepare_My_Path_For_Me_-_page_1.md"
+    },
+    {
+      "from": "You Prepare My Path For Me/You Prepare My Path For Me cddc68b4c10a4660915b3e11432629f8.md",
+      "to": "You Prepare My Path For Me/_md_archive/You Prepare My Path For Me cddc68b4c10a4660915b3e11432629f8.md"
+    },
+    {
+      "from": "You Prepare My Path For Me/You_Prepare_My_Path_For_Me copy.md",
+      "to": "You Prepare My Path For Me/_md_archive/You_Prepare_My_Path_For_Me copy.md"
+    },
+    {
+      "from": "You Prepare My Path For Me/You_Prepare_My_Path_For_Me__chorus_with_piano_chords.md",
+      "to": "You Prepare My Path For Me/_md_archive/You_Prepare_My_Path_For_Me__chorus_with_piano_chords.md"
+    },
+    {
+      "from": "Following Your Voice/Following_Your_Voice 1.md",
+      "to": "Following Your Voice/_md_archive/Following_Your_Voice 1.md"
+    },
+    {
+      "from": "Following Your Voice/Following Your Voice-2 (from backup).md",
+      "to": "Following Your Voice/_md_archive/Following Your Voice-2 (from backup).md"
+    },
+    {
+      "from": "Following Your Voice/Following Your Voice - 3.md",
+      "to": "Following Your Voice/_md_archive/Following Your Voice - 3.md"
+    },
+    {
+      "from": "Following Your Voice/Following Your Voice -- GuitarPro.md",
+      "to": "Following Your Voice/_md_archive/Following Your Voice -- GuitarPro.md"
+    },
+    {
+      "from": "Following Your Voice/Following_Your_Voice_verse_1.md",
+      "to": "Following Your Voice/_md_archive/Following_Your_Voice_verse_1.md"
+    },
+    {
+      "from": "Following Your Voice/Following_Your_Voice_-_all_the_parts.md",
+      "to": "Following Your Voice/_md_archive/Following_Your_Voice_-_all_the_parts.md"
+    },
+    {
+      "from": "Following Your Voice/Following Your Voice CHORDS - 08-04-21 -- see end of video for best chords.md",
+      "to": "Following Your Voice/_md_archive/Following Your Voice CHORDS - 08-04-21 -- see end of video for best chords.md"
+    },
+    {
+      "from": "Following Your Voice/Following Your Voice -- bass part in last Chorus.md",
+      "to": "Following Your Voice/_md_archive/Following Your Voice -- bass part in last Chorus.md"
+    },
+    {
+      "from": "Following Your Voice/Following Your Voice -- add Bass info.md",
+      "to": "Following Your Voice/_md_archive/Following Your Voice -- add Bass info.md"
+    },
+    {
+      "from": "Following Your Voice/Bridge_Following_Your_Voice.md",
+      "to": "Following Your Voice/_md_archive/Bridge_Following_Your_Voice.md"
+    },
+    {
+      "from": "Following Your Voice/Following Your Voice - 0.md",
+      "to": "Following Your Voice/_md_archive/Following Your Voice - 0.md"
+    },
+    {
+      "from": "Following Your Voice/Following Your Voice 1fa2678d11634a12b6c3bdc2bf991703.md",
+      "to": "Following Your Voice/_md_archive/Following Your Voice 1fa2678d11634a12b6c3bdc2bf991703.md"
+    },
+    {
+      "from": "Finding It Hard/Finding It Hard 35cec4339be44ba38541f809695cce9c.md",
+      "to": "Finding It Hard/_md_archive/Finding It Hard 35cec4339be44ba38541f809695cce9c.md"
+    },
+    {
+      "from": "Whom Have I In Heaven But You/Whom Have I In Heaven But You 6e721bef6cbb4b6a98388cb40be3a097.md",
+      "to": "Whom Have I In Heaven But You/_md_archive/Whom Have I In Heaven But You 6e721bef6cbb4b6a98388cb40be3a097.md"
+    },
+    {
+      "from": "Whom Have I In Heaven But You/Whom_Have_I_In_Heaven_with_Kelly_in_chapel_Hide.md",
+      "to": "Whom Have I In Heaven But You/_md_archive/Whom_Have_I_In_Heaven_with_Kelly_in_chapel_Hide.md"
+    },
+    {
+      "from": "Whom Have I In Heaven But You/Whom_Have_I_other_parts.md",
+      "to": "Whom Have I In Heaven But You/_md_archive/Whom_Have_I_other_parts.md"
+    },
+    {
+      "from": "My Body/My Body 9e20edb44c8348b4a2e7e81a32fe1b7b.md",
+      "to": "My Body/_md_archive/My Body 9e20edb44c8348b4a2e7e81a32fe1b7b.md"
+    },
+    {
+      "from": "My Body/My_Body_(Temple).md",
+      "to": "My Body/_md_archive/My_Body_(Temple).md"
+    },
+    {
+      "from": "My Body/My_Body_high_with_rumble.md",
+      "to": "My Body/_md_archive/My_Body_high_with_rumble.md"
+    },
+    {
+      "from": "My Body/My_Body_(Im_Not_My_Own).md",
+      "to": "My Body/_md_archive/My_Body_(Im_Not_My_Own).md"
+    },
+    {
+      "from": "Come Soon/20200421 130808 Come Soon alt lyrics -- Ever with our blessed King.md",
+      "to": "Come Soon/_md_archive/20200421 130808 Come Soon alt lyrics -- Ever with our blessed King.md"
+    },
+    {
+      "from": "Come Soon/Come_Soon__05-06-22.md",
+      "to": "Come Soon/_md_archive/Come_Soon__05-06-22.md"
+    },
+    {
+      "from": "Devil Battle/Devil Battle 6b03a6a5e9144b5a9707e3c3cd17e2ff.md",
+      "to": "Devil Battle/_md_archive/Devil Battle 6b03a6a5e9144b5a9707e3c3cd17e2ff.md"
+    },
+    {
+      "from": "Devil Battle/Devil Battle - writing.md",
+      "to": "Devil Battle/_md_archive/Devil Battle - writing.md"
+    },
+    {
+      "from": "You Are God, Amen/God, You Are The Highest God.md",
+      "to": "You Are God, Amen/_md_archive/God, You Are The Highest God.md"
+    },
+    {
+      "from": "I Look Up To The Holy God/I Look Up To The Holy God - Cm (original key).md",
+      "to": "I Look Up To The Holy God/_md_archive/I Look Up To The Holy God - Cm (original key).md"
+    },
+    {
+      "from": "I Look Up To The Holy God/I Look Up To The Holy God - C#m - maybe old version.md",
+      "to": "I Look Up To The Holy God/_md_archive/I Look Up To The Holy God - C#m - maybe old version.md"
+    },
+    {
+      "from": "I Look Up To The Holy God/I Look Up To The Holy God on Piano.md",
+      "to": "I Look Up To The Holy God/_md_archive/I Look Up To The Holy God on Piano.md"
+    },
+    {
+      "from": "The Longing Of The Soul/The Longing Of The Soul w: Chords--forGoodFriday.md",
+      "to": "The Longing Of The Soul/_md_archive/The Longing Of The Soul w: Chords--forGoodFriday.md"
+    },
+    {
+      "from": "Live In Purity/Live_In_Purity_(in_car_w_wife_Britt__Christian)_-_10-25-2020.md",
+      "to": "Live In Purity/_md_archive/Live_In_Purity_(in_car_w_wife_Britt__Christian)_-_10-25-2020.md"
+    },
+    {
+      "from": "Way of the Wise/Way of the Wise WO chords - editing.md",
+      "to": "Way of the Wise/_md_archive/Way of the Wise WO chords - editing.md"
+    },
+    {
+      "from": "Taste And See/Taste And See 58681e3c10d24884a4eacb94a460f291.md",
+      "to": "Taste And See/_md_archive/Taste And See 58681e3c10d24884a4eacb94a460f291.md"
+    },
+    {
+      "from": "Taste And See/Taste And See - Ryan Vegh - A.md",
+      "to": "Taste And See/_md_archive/Taste And See - Ryan Vegh - A.md"
+    },
+    {
+      "from": "Taste And See/Taste And See - Ryan Vegh - G (capo 2).md",
+      "to": "Taste And See/_md_archive/Taste And See - Ryan Vegh - G (capo 2).md"
+    },
+    {
+      "from": "Taste And See/Taste And See (no bridge).md",
+      "to": "Taste And See/_md_archive/Taste And See (no bridge).md"
+    },
+    {
+      "from": "Taste And See/Taste_And_See__baritone_A_-_5-27-21.md",
+      "to": "Taste And See/_md_archive/Taste_And_See__baritone_A_-_5-27-21.md"
+    },
+    {
+      "from": "Up Above The Dark Plain/Up above the dark plain.md",
+      "to": "Up Above The Dark Plain/_md_archive/Up above the dark plain.md"
+    },
+    {
+      "from": "Livin' For The King/Livin_for_the_King__pause_before_last_Chorus.md",
+      "to": "Livin' For The King/_md_archive/Livin_for_the_King__pause_before_last_Chorus.md"
+    },
+    {
+      "from": "Livin' For The King/Livin\u2019 For The King 2ba1c8bed73f491f8c42a23ddae042a7.md",
+      "to": "Livin' For The King/_md_archive/Livin\u2019 For The King 2ba1c8bed73f491f8c42a23ddae042a7.md"
+    },
+    {
+      "from": "Livin' For The King/Livin_For_The_KingPiano_4ths_idea.md",
+      "to": "Livin' For The King/_md_archive/Livin_For_The_KingPiano_4ths_idea.md"
+    },
+    {
+      "from": "Livin' For The King/Livin_For_The_King__05-10-22.md",
+      "to": "Livin' For The King/_md_archive/Livin_For_The_King__05-10-22.md"
+    },
+    {
+      "from": "Livin' For The King/Livin_For_The_King__Bridge_with_Chords_).md",
+      "to": "Livin' For The King/_md_archive/Livin_For_The_King__Bridge_with_Chords_).md"
+    },
+    {
+      "from": "Turn On The Light/Turn_On_The_Light_-_working_on_piano_and_vocals.md",
+      "to": "Turn On The Light/_md_archive/Turn_On_The_Light_-_working_on_piano_and_vocals.md"
+    },
+    {
+      "from": "Whatchu Want/Whatchu Want additional LYRICS.md",
+      "to": "Whatchu Want/_md_archive/Whatchu Want additional LYRICS.md"
+    },
+    {
+      "from": "Whatchu Want/Whatchu Want BARITONE 5-21-21.md",
+      "to": "Whatchu Want/_md_archive/Whatchu Want BARITONE 5-21-21.md"
+    },
+    {
+      "from": "Whatchu Want/more_Whatchu_Want.md",
+      "to": "Whatchu Want/_md_archive/more_Whatchu_Want.md"
+    },
+    {
+      "from": "God, You Are The Highest God (To Know Your Son)/God, You Are The Highest God (To Know Your Son) 1ebe5a73f1d980cebce9ce9dc2ccb9b2.md",
+      "to": "God, You Are The Highest God (To Know Your Son)/_md_archive/God, You Are The Highest God (To Know Your Son) 1ebe5a73f1d980cebce9ce9dc2ccb9b2.md"
+    },
+    {
+      "from": "God, You Are The Highest God (To Know Your Son)/You Are God, Amen.md",
+      "to": "God, You Are The Highest God (To Know Your Son)/_md_archive/You Are God, Amen.md"
+    },
+    {
+      "from": "God, You Are The Highest God (To Know Your Son)/God_You_are_the_Highest_God_(To_Know_Your_Son)_-_pg_2.md",
+      "to": "God, You Are The Highest God (To Know Your Son)/_md_archive/God_You_are_the_Highest_God_(To_Know_Your_Son)_-_pg_2.md"
+    },
+    {
+      "from": "God, You Are The Highest God (To Know Your Son)/God_You_Are_The_Highest_God_(To_Know_Your_Son)_--_capo_6.md",
+      "to": "God, You Are The Highest God (To Know Your Son)/_md_archive/God_You_Are_The_Highest_God_(To_Know_Your_Son)_--_capo_6.md"
+    },
+    {
+      "from": "God, You Are The Highest God (To Know Your Son)/God You Are The Highest God -- live video.md",
+      "to": "God, You Are The Highest God (To Know Your Son)/_md_archive/God You Are The Highest God -- live video.md"
+    },
+    {
+      "from": "Tidal Wave Of Grace/Tidal Wave of Grace.md",
+      "to": "Tidal Wave Of Grace/_md_archive/Tidal Wave of Grace.md"
+    },
+    {
+      "from": "Sweet Chaos/Sweet Chaos - new song guitar idea.md",
+      "to": "Sweet Chaos/_md_archive/Sweet Chaos - new song guitar idea.md"
+    },
+    {
+      "from": "Think About The Good Things (Always Be Thankful)/Think About The Good Things - Ab.md",
+      "to": "Think About The Good Things (Always Be Thankful)/_md_archive/Think About The Good Things - Ab.md"
+    },
+    {
+      "from": "Think About The Good Things (Always Be Thankful)/Think_About_The_Good_Things_(Always_Be_Thankful)_--_Philippians_and_1_Thessalonians_song.md",
+      "to": "Think About The Good Things (Always Be Thankful)/_md_archive/Think_About_The_Good_Things_(Always_Be_Thankful)_--_Philippians_and_1_Thessalonians_song.md"
+    },
+    {
+      "from": "The Writer/The Writer - with time sig changes marked.md",
+      "to": "The Writer/_md_archive/The Writer - with time sig changes marked.md"
+    },
+    {
+      "from": "The Writer/The Writer - finishing.md",
+      "to": "The Writer/_md_archive/The Writer - finishing.md"
+    },
+    {
+      "from": "The Writer/The Writer some older ideas.md",
+      "to": "The Writer/_md_archive/The Writer some older ideas.md"
+    },
+    {
+      "from": "The Writer/The Writer - almost finished.md",
+      "to": "The Writer/_md_archive/The Writer - almost finished.md"
+    },
+    {
+      "from": "The Writer/The Writer & Sophie's World.md",
+      "to": "The Writer/_md_archive/The Writer & Sophie's World.md"
+    },
+    {
+      "from": "The Writer/The Writer - just words no headings.md",
+      "to": "The Writer/_md_archive/The Writer - just words no headings.md"
+    },
+    {
+      "from": "The Writer/The Writer journal ideas.md",
+      "to": "The Writer/_md_archive/The Writer journal ideas.md"
+    },
+    {
+      "from": "The Writer/The Writer -- Em.md",
+      "to": "The Writer/_md_archive/The Writer -- Em.md"
+    },
+    {
+      "from": "The Writer/The Writer CHORDS.md",
+      "to": "The Writer/_md_archive/The Writer CHORDS.md"
+    },
+    {
+      "from": "The Writer/The Writer WO chords old.md",
+      "to": "The Writer/_md_archive/The Writer WO chords old.md"
+    },
+    {
+      "from": "I Can't Get Low Enough/I_Cant_Get_Low_Enough__second_version.md",
+      "to": "I Can't Get Low Enough/_md_archive/I_Cant_Get_Low_Enough__second_version.md"
+    },
+    {
+      "from": "I Can't Get Low Enough/I Can\u2019t Get Low Enough_1.md",
+      "to": "I Can't Get Low Enough/_md_archive/I Can\u2019t Get Low Enough_1.md"
+    },
+    {
+      "from": "I Can't Get Low Enough/I Can\u2019t Get Low Enough_4.md",
+      "to": "I Can't Get Low Enough/_md_archive/I Can\u2019t Get Low Enough_4.md"
+    },
+    {
+      "from": "I Can't Get Low Enough/I Can\u2019t Get Low Enough_3.md",
+      "to": "I Can't Get Low Enough/_md_archive/I Can\u2019t Get Low Enough_3.md"
+    },
+    {
+      "from": "I Can't Get Low Enough/I Can\u2019t Get Low Enough 7b99eee869bc4c7391765aa3ae01910c.md",
+      "to": "I Can't Get Low Enough/_md_archive/I Can\u2019t Get Low Enough 7b99eee869bc4c7391765aa3ae01910c.md"
+    },
+    {
+      "from": "I Can't Get Low Enough/I Can\u2019t Get Low Enough_2.md",
+      "to": "I Can't Get Low Enough/_md_archive/I Can\u2019t Get Low Enough_2.md"
+    },
+    {
+      "from": "I Can't Get Low Enough/I_Cant_Get_Low_Enough__first_version.md",
+      "to": "I Can't Get Low Enough/_md_archive/I_Cant_Get_Low_Enough__first_version.md"
+    },
+    {
+      "from": "Offer My Body As A Living Sacrifice/Offer My Body As A Living Sacrifice fc7d67786b30464ea1b4ab6cb74d8dae.md",
+      "to": "Offer My Body As A Living Sacrifice/_md_archive/Offer My Body As A Living Sacrifice fc7d67786b30464ea1b4ab6cb74d8dae.md"
+    },
+    {
+      "from": "Even If You Take Everything/Even If You Take Everything 295ac5362c3e47e28422104e71906cd3.md",
+      "to": "Even If You Take Everything/_md_archive/Even If You Take Everything 295ac5362c3e47e28422104e71906cd3.md"
+    },
+    {
+      "from": "Even If You Take Everything/piano_Even_If_You_Take_Everything.md",
+      "to": "Even If You Take Everything/_md_archive/piano_Even_If_You_Take_Everything.md"
+    },
+    {
+      "from": "Even If You Take Everything/Even_If_You_Take_Everything_(cool_piano_part).md",
+      "to": "Even If You Take Everything/_md_archive/Even_If_You_Take_Everything_(cool_piano_part).md"
+    },
+    {
+      "from": "Even If You Take Everything/Even_If_You_Take_Everything__Bridge_and_all_the_singing.md",
+      "to": "Even If You Take Everything/_md_archive/Even_If_You_Take_Everything__Bridge_and_all_the_singing.md"
+    },
+    {
+      "from": "I Died With Jesus/I Died With Jesus 683247317c0e40c6814e82e58da41970.md",
+      "to": "I Died With Jesus/_md_archive/I Died With Jesus 683247317c0e40c6814e82e58da41970.md"
+    },
+    {
+      "from": "My Soul's Tied In Your Soul/writing_My_Souls_Tied_In_Your_Soul.md",
+      "to": "My Soul's Tied In Your Soul/_md_archive/writing_My_Souls_Tied_In_Your_Soul.md"
+    },
+    {
+      "from": "My Soul's Tied In Your Soul/My_Souls_Tied_In_Your_Soul_-_3.md",
+      "to": "My Soul's Tied In Your Soul/_md_archive/My_Souls_Tied_In_Your_Soul_-_3.md"
+    },
+    {
+      "from": "My Soul's Tied In Your Soul/My_Souls_Tied_In_Your_Soul_(My_Heart_Breaks).md",
+      "to": "My Soul's Tied In Your Soul/_md_archive/My_Souls_Tied_In_Your_Soul_(My_Heart_Breaks).md"
+    },
+    {
+      "from": "My Soul's Tied In Your Soul/My_Souls_Tied_In_Your_Soul_-_2.md",
+      "to": "My Soul's Tied In Your Soul/_md_archive/My_Souls_Tied_In_Your_Soul_-_2.md"
+    },
+    {
+      "from": "This Is Where I Belong/This Is Where I Belong BARITONE - 5-24-21 (with Spider Capo and AEADGB tuning).md",
+      "to": "This Is Where I Belong/_md_archive/This Is Where I Belong BARITONE - 5-24-21 (with Spider Capo and AEADGB tuning).md"
+    },
+    {
+      "from": "This Is Where I Belong/This Is Where I Belong BARITONE (figuring it out) - 5-22-21.md",
+      "to": "This Is Where I Belong/_md_archive/This Is Where I Belong BARITONE (figuring it out) - 5-22-21.md"
+    },
+    {
+      "from": "This Is Where I Belong/This Is Where I Belong 241e5a73f1d980bc949ccae0e9d542ab.md",
+      "to": "This Is Where I Belong/_md_archive/This Is Where I Belong 241e5a73f1d980bc949ccae0e9d542ab.md"
+    },
+    {
+      "from": "Ever Deeper/Ever Deeper b50b46a65dcc484baa3c31da86fae23d.md",
+      "to": "Ever Deeper/_md_archive/Ever Deeper b50b46a65dcc484baa3c31da86fae23d.md"
+    },
+    {
+      "from": "Work In Progress (I Need Help Too)/Work In Progress (I Need Help, Too) fffe5a73f1d980538d7add2651b65df6.md",
+      "to": "Work In Progress (I Need Help Too)/_md_archive/Work In Progress (I Need Help, Too) fffe5a73f1d980538d7add2651b65df6.md"
+    },
+    {
+      "from": "I Love You Oh My Father/a_little_bit_of_I_Love_You_Oh_My_Father.md",
+      "to": "I Love You Oh My Father/_md_archive/a_little_bit_of_I_Love_You_Oh_My_Father.md"
+    },
+    {
+      "from": "I Love You Oh My Father/I Love You, O My Father 1a5fd3d6fb2b43a49a18453f3ccd2bb4.md",
+      "to": "I Love You Oh My Father/_md_archive/I Love You, O My Father 1a5fd3d6fb2b43a49a18453f3ccd2bb4.md"
+    },
+    {
+      "from": "I Love You Oh My Father/Bridge_for_I_Love_You_Oh_My_Father.md",
+      "to": "I Love You Oh My Father/_md_archive/Bridge_for_I_Love_You_Oh_My_Father.md"
+    },
+    {
+      "from": "I Love You Oh My Father/more_of_I_Love_You_O_My_Father.md",
+      "to": "I Love You Oh My Father/_md_archive/more_of_I_Love_You_O_My_Father.md"
+    },
+    {
+      "from": "Hard to Get/Hard_To_Get_with_Jason_Chertos.md",
+      "to": "Hard to Get/_md_archive/Hard_To_Get_with_Jason_Chertos.md"
+    },
+    {
+      "from": "Hard to Get/Hard To Get 23ee5a73f1d98004b3d1d4484d73d3ae.md",
+      "to": "Hard to Get/_md_archive/Hard To Get 23ee5a73f1d98004b3d1d4484d73d3ae.md"
+    },
+    {
+      "from": "Hard to Get/Hard to Get-writing.md",
+      "to": "Hard to Get/_md_archive/Hard to Get-writing.md"
+    },
+    {
+      "from": "I Love The Way/I Love The Way 23ee5a73f1d9806d97b5e173f0db0315.md",
+      "to": "I Love The Way/_md_archive/I Love The Way 23ee5a73f1d9806d97b5e173f0db0315.md"
+    },
+    {
+      "from": "I Love The Way/I_Love_The_Way__and_in_higher_keys_too_(first_part_is_me_finding_it)_-_4-3-23.md",
+      "to": "I Love The Way/_md_archive/I_Love_The_Way__and_in_higher_keys_too_(first_part_is_me_finding_it)_-_4-3-23.md"
+    },
+    {
+      "from": "I Love The Way/I Love The Way (chords) - 5-22-21.md",
+      "to": "I Love The Way/_md_archive/I Love The Way (chords) - 5-22-21.md"
+    },
+    {
+      "from": "I Love The Way/I_Love_The_Way_-_gradually_more_full_then_key_changes_upwards_-_4-2-23.md",
+      "to": "I Love The Way/_md_archive/I_Love_The_Way_-_gradually_more_full_then_key_changes_upwards_-_4-2-23.md"
+    },
+    {
+      "from": "The Unlovely One/The Unlovely One 4c641e35366a40dbba93e8602a4a33ea.md",
+      "to": "The Unlovely One/_md_archive/The Unlovely One 4c641e35366a40dbba93e8602a4a33ea.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Time's Running Out (Repent)/Time's Running Out (Don't Die).md",
+      "to": "__SONG IDEAS__/Time's Running Out (Repent)/_md_archive/Time's Running Out (Don't Die).md"
+    },
+    {
+      "from": "__SONG IDEAS__/To Feat You Is The Beginning Of Knowledge/To_Fear_You_Is_The_Beginning_Of_Knowledge__Cdim7-G_then_Fmajor_then_Gm_passing_chord.md",
+      "to": "__SONG IDEAS__/To Feat You Is The Beginning Of Knowledge/_md_archive/To_Fear_You_Is_The_Beginning_Of_Knowledge__Cdim7-G_then_Fmajor_then_Gm_passing_chord.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Jazzy Baritone Song/Jazzy baritone song 8.md",
+      "to": "__SONG IDEAS__/Jazzy Baritone Song/_md_archive/Jazzy baritone song 8.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Jazzy Baritone Song/Jazzy baritone song 3.md",
+      "to": "__SONG IDEAS__/Jazzy Baritone Song/_md_archive/Jazzy baritone song 3.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Jazzy Baritone Song/Jazzy baritone song 7.md",
+      "to": "__SONG IDEAS__/Jazzy Baritone Song/_md_archive/Jazzy baritone song 7.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Jazzy Baritone Song/Jazzy baritone song 6.md",
+      "to": "__SONG IDEAS__/Jazzy Baritone Song/_md_archive/Jazzy baritone song 6.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Jazzy Baritone Song/Jazzy baritone song 2.md",
+      "to": "__SONG IDEAS__/Jazzy Baritone Song/_md_archive/Jazzy baritone song 2.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Jazzy Baritone Song/Jazzy baritone song 5.md",
+      "to": "__SONG IDEAS__/Jazzy Baritone Song/_md_archive/Jazzy baritone song 5.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Jazzy Baritone Song/Jazzy baritone song 1.md",
+      "to": "__SONG IDEAS__/Jazzy Baritone Song/_md_archive/Jazzy baritone song 1.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Jazzy Baritone Song/Jazzy baritone song 4.md",
+      "to": "__SONG IDEAS__/Jazzy Baritone Song/_md_archive/Jazzy baritone song 4.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Holy, Lord Almighty \u2014 DADGAD Revelation worship/Holy_Lord_Almighty_-_pg_2.md",
+      "to": "__SONG IDEAS__/Holy, Lord Almighty \u2014 DADGAD Revelation worship/_md_archive/Holy_Lord_Almighty_-_pg_2.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Holy, Lord Almighty \u2014 DADGAD Revelation worship/Holy, Lord Almighty \u2014 DADGAD Revelation worship 89251da8345a49fe9bb89e8fa7fb7240.md",
+      "to": "__SONG IDEAS__/Holy, Lord Almighty \u2014 DADGAD Revelation worship/_md_archive/Holy, Lord Almighty \u2014 DADGAD Revelation worship 89251da8345a49fe9bb89e8fa7fb7240.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Surely You Care For Me/Surely you care for me_1.md",
+      "to": "__SONG IDEAS__/Surely You Care For Me/_md_archive/Surely you care for me_1.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Some Days (Lord, Lead Me)/Some_Days___I_Love_You_O_My_Father.md",
+      "to": "__SONG IDEAS__/Some Days (Lord, Lead Me)/_md_archive/Some_Days___I_Love_You_O_My_Father.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Some Days (Lord, Lead Me)/Some Days (Lord, Lead Me) b18b574265314f93ba1f7c22ec236096.md",
+      "to": "__SONG IDEAS__/Some Days (Lord, Lead Me)/_md_archive/Some Days (Lord, Lead Me) b18b574265314f93ba1f7c22ec236096.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Even If I Have To Say No/Even if I have to say no.md",
+      "to": "__SONG IDEAS__/Even If I Have To Say No/_md_archive/Even if I have to say no.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Lord We Give You The Praise/Lord_We_Give_You_The_Praise__4-18-21.md",
+      "to": "__SONG IDEAS__/Lord We Give You The Praise/_md_archive/Lord_We_Give_You_The_Praise__4-18-21.md"
+    },
+    {
+      "from": "__SONG IDEAS__/No More Idols/No more idols 8d5271384d804c2ba23013736ce34708.md",
+      "to": "__SONG IDEAS__/No More Idols/_md_archive/No more idols 8d5271384d804c2ba23013736ce34708.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Before Everything/Before everything_2.md",
+      "to": "__SONG IDEAS__/Before Everything/_md_archive/Before everything_2.md"
+    },
+    {
+      "from": "__SONG IDEAS__/I Wanna Love You Like You're Right Here/I Wanna Love You Like You\u2019re Right Here f9a8aa808b504962ac95a87c0eff63cc.md",
+      "to": "__SONG IDEAS__/I Wanna Love You Like You're Right Here/_md_archive/I Wanna Love You Like You\u2019re Right Here f9a8aa808b504962ac95a87c0eff63cc.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Thought To Thought/Thought to Thought 6bac43389ffc40da9015c8d7048c8e50.md",
+      "to": "__SONG IDEAS__/Thought To Thought/_md_archive/Thought to Thought 6bac43389ffc40da9015c8d7048c8e50.md"
+    },
+    {
+      "from": "__SONG IDEAS__/You\u2019re Bringing Me Into A Brand New Season/You\u2019re Bringing Me Into A Brand New Season 1ece5a73f1d980f9a660e87f39ddea87.md",
+      "to": "__SONG IDEAS__/You\u2019re Bringing Me Into A Brand New Season/_md_archive/You\u2019re Bringing Me Into A Brand New Season 1ece5a73f1d980f9a660e87f39ddea87.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Oh how I love You!/Oh how I love You! 1ece5a73f1d980bfb2d6cd0205f5050d.md",
+      "to": "__SONG IDEAS__/Oh how I love You!/_md_archive/Oh how I love You! 1ece5a73f1d980bfb2d6cd0205f5050d.md"
+    },
+    {
+      "from": "__SONG IDEAS__/I Agree With What You Say/20200209 230211 I Agree Chorus.md",
+      "to": "__SONG IDEAS__/I Agree With What You Say/_md_archive/20200209 230211 I Agree Chorus.md"
+    },
+    {
+      "from": "__SONG IDEAS__/My Choice To Rejoice/My Choice To Rejoice lyrics.md",
+      "to": "__SONG IDEAS__/My Choice To Rejoice/_md_archive/My Choice To Rejoice lyrics.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Lead Me (Her) Lord/Lead_Me-Her_Lord_-_4-6-22.md",
+      "to": "__SONG IDEAS__/Lead Me (Her) Lord/_md_archive/Lead_Me-Her_Lord_-_4-6-22.md"
+    },
+    {
+      "from": "__SONG IDEAS__/It's Been A Minute/Its_been_a_minute_since_I_been_in_it.md",
+      "to": "__SONG IDEAS__/It's Been A Minute/_md_archive/Its_been_a_minute_since_I_been_in_it.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Warning Song (I\u2019m Thankful For No)/Warning Song (I\u2019m Thankful For No) 1ece5a73f1d980e49868cf6120415ff1.md",
+      "to": "__SONG IDEAS__/Warning Song (I\u2019m Thankful For No)/_md_archive/Warning Song (I\u2019m Thankful For No) 1ece5a73f1d980e49868cf6120415ff1.md"
+    },
+    {
+      "from": "__SONG IDEAS__/It's Like You Knew All Along/Its_like_You_knew_all_along_(remarking_after_seeing_Linnea_laugh_at_my_gasp_comment).md",
+      "to": "__SONG IDEAS__/It's Like You Knew All Along/_md_archive/Its_like_You_knew_all_along_(remarking_after_seeing_Linnea_laugh_at_my_gasp_comment).md"
+    },
+    {
+      "from": "__SONG IDEAS__/Dm9 spacey piano song/Dm9 spacey piano song - 0.md",
+      "to": "__SONG IDEAS__/Dm9 spacey piano song/_md_archive/Dm9 spacey piano song - 0.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Dm9 spacey piano song/Dm9 spacey piano song - 1.md",
+      "to": "__SONG IDEAS__/Dm9 spacey piano song/_md_archive/Dm9 spacey piano song - 1.md"
+    },
+    {
+      "from": "__SONG IDEAS__/It's Amazing To Me, Your Sovereignty/It\u2019s Amazing To Me, Your Sovereignty 4ba0aea47391493f856d5ba9fe9d00f0.md",
+      "to": "__SONG IDEAS__/It's Amazing To Me, Your Sovereignty/_md_archive/It\u2019s Amazing To Me, Your Sovereignty 4ba0aea47391493f856d5ba9fe9d00f0.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Praise God (Baptism Song)/Praise_God!_Baptism_Song__see_ending.md",
+      "to": "__SONG IDEAS__/Praise God (Baptism Song)/_md_archive/Praise_God!_Baptism_Song__see_ending.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Covenant With My Eyes/Covenant With My Eyes de4bdbdcf5b24f09854ca1dd921f4e3a.md",
+      "to": "__SONG IDEAS__/Covenant With My Eyes/_md_archive/Covenant With My Eyes de4bdbdcf5b24f09854ca1dd921f4e3a.md"
+    },
+    {
+      "from": "__SONG IDEAS__/I\u2019ll Use Up All My Strength For You/I\u2019ll Use Up All My Strength For You 7cbe89dd673c47559037b070f6b52dcc.md",
+      "to": "__SONG IDEAS__/I\u2019ll Use Up All My Strength For You/_md_archive/I\u2019ll Use Up All My Strength For You 7cbe89dd673c47559037b070f6b52dcc.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Make Christ The Judge Your Friend/Make Christ the Judge your friend d031f95387a448a8a8e8604d6d587879.md",
+      "to": "__SONG IDEAS__/Make Christ The Judge Your Friend/_md_archive/Make Christ the Judge your friend d031f95387a448a8a8e8604d6d587879.md"
+    },
+    {
+      "from": "__SONG IDEAS__/I Love Her, But She Ain't My Girlfriend/I Love Her, But She Ain't My Girlfriend 77590f939338470793b047288bca77ba.md",
+      "to": "__SONG IDEAS__/I Love Her, But She Ain't My Girlfriend/_md_archive/I Love Her, But She Ain't My Girlfriend 77590f939338470793b047288bca77ba.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Solely Devoted To Your Love/Solely Devoted To Your Love - 9.md",
+      "to": "__SONG IDEAS__/Solely Devoted To Your Love/_md_archive/Solely Devoted To Your Love - 9.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Solely Devoted To Your Love/Solely Devoted To Your Love - 2.md",
+      "to": "__SONG IDEAS__/Solely Devoted To Your Love/_md_archive/Solely Devoted To Your Love - 2.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Solely Devoted To Your Love/Solely Devoted To Your Love - 6.md",
+      "to": "__SONG IDEAS__/Solely Devoted To Your Love/_md_archive/Solely Devoted To Your Love - 6.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Solely Devoted To Your Love/Solely Devoted To Your Love - 7.md",
+      "to": "__SONG IDEAS__/Solely Devoted To Your Love/_md_archive/Solely Devoted To Your Love - 7.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Solely Devoted To Your Love/Solely Devoted To Your Love - 3.md",
+      "to": "__SONG IDEAS__/Solely Devoted To Your Love/_md_archive/Solely Devoted To Your Love - 3.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Solely Devoted To Your Love/Solely Devoted To Your Love - 4.md",
+      "to": "__SONG IDEAS__/Solely Devoted To Your Love/_md_archive/Solely Devoted To Your Love - 4.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Solely Devoted To Your Love/Solely Devoted To Your Love - 0.md",
+      "to": "__SONG IDEAS__/Solely Devoted To Your Love/_md_archive/Solely Devoted To Your Love - 0.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Solely Devoted To Your Love/Solely Devoted To Your Love - 1.md",
+      "to": "__SONG IDEAS__/Solely Devoted To Your Love/_md_archive/Solely Devoted To Your Love - 1.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Solely Devoted To Your Love/Solely Devoted To Your Love - 5.md",
+      "to": "__SONG IDEAS__/Solely Devoted To Your Love/_md_archive/Solely Devoted To Your Love - 5.md"
+    },
+    {
+      "from": "__SONG IDEAS__/I Thought I Wanted To Love You/I Thought I Wanted To Love You 81278cbafa5f4cb397920515e798ea20.md",
+      "to": "__SONG IDEAS__/I Thought I Wanted To Love You/_md_archive/I Thought I Wanted To Love You 81278cbafa5f4cb397920515e798ea20.md"
+    },
+    {
+      "from": "__SONG IDEAS__/Love With No Strings Attached/Love With No Strings Attached a86c1d1dbdfc4d3798db2c9bcd8f6c81.md",
+      "to": "__SONG IDEAS__/Love With No Strings Attached/_md_archive/Love With No Strings Attached a86c1d1dbdfc4d3798db2c9bcd8f6c81.md"
+    },
+    {
+      "from": "__OLD__/My God/My God-withoutchords.md",
+      "to": "__OLD__/My God/_md_archive/My God-withoutchords.md"
+    },
+    {
+      "from": "__OLD__/My God/My_God_-_5-28-21.md",
+      "to": "__OLD__/My God/_md_archive/My_God_-_5-28-21.md"
+    },
+    {
+      "from": "__OLD__/The Lord Jesus Christ/The Lord Jesus Christ-WOchords-MR.md",
+      "to": "__OLD__/The Lord Jesus Christ/_md_archive/The Lord Jesus Christ-WOchords-MR.md"
+    },
+    {
+      "from": "__OLD__/The Lord Jesus Christ/The Lord Jesus Christ 248e5a73f1d98095a478e85d4114f094.md",
+      "to": "__OLD__/The Lord Jesus Christ/_md_archive/The Lord Jesus Christ 248e5a73f1d98095a478e85d4114f094.md"
+    },
+    {
+      "from": "__OLD__/In All Things/In All Things journal ideas.md",
+      "to": "__OLD__/In All Things/_md_archive/In All Things journal ideas.md"
+    },
+    {
+      "from": "__OLD__/It Is Time/It Is Time 248e5a73f1d980fb916ee674a8bee9af.md",
+      "to": "__OLD__/It Is Time/_md_archive/It Is Time 248e5a73f1d980fb916ee674a8bee9af.md"
+    },
+    {
+      "from": "__OLD__/It Is Time/It is time-withoutchords.md",
+      "to": "__OLD__/It Is Time/_md_archive/It is time-withoutchords.md"
+    },
+    {
+      "from": "__OLD__/Unknown and Misunderstood/Unknown and Misunderstood 241e5a73f1d98028ba01e560517edb08.md",
+      "to": "__OLD__/Unknown and Misunderstood/_md_archive/Unknown and Misunderstood 241e5a73f1d98028ba01e560517edb08.md"
+    },
+    {
+      "from": "__OLD__/Unknown and Misunderstood/Unknown and Misunderstood WO chords.md",
+      "to": "__OLD__/Unknown and Misunderstood/_md_archive/Unknown and Misunderstood WO chords.md"
+    },
+    {
+      "from": "__OLD__/Just Look Around/Just Look Around - WO chords - most recent.md",
+      "to": "__OLD__/Just Look Around/_md_archive/Just Look Around - WO chords - most recent.md"
+    },
+    {
+      "from": "__OLD__/You Are The Light/You Are The Light-without chords.md",
+      "to": "__OLD__/You Are The Light/_md_archive/You Are The Light-without chords.md"
+    },
+    {
+      "from": "__OLD__/Thank You, Lord/Thank You, Lord -- new chords.md",
+      "to": "__OLD__/Thank You, Lord/_md_archive/Thank You, Lord -- new chords.md"
+    },
+    {
+      "from": "__OLD__/If Tacos Could Talk-Oh!/If Tacos Could Talk-Oh! 42d8ed04e54b442bb2e664401488faa5.md",
+      "to": "__OLD__/If Tacos Could Talk-Oh!/_md_archive/If Tacos Could Talk-Oh! 42d8ed04e54b442bb2e664401488faa5.md"
+    },
+    {
+      "from": "__OLD__/All I Got Left Is God/All I Got Left Is God w chords.md",
+      "to": "__OLD__/All I Got Left Is God/_md_archive/All I Got Left Is God w chords.md"
+    },
+    {
+      "from": "__OLD__/God Is In The Business/God Is In The Business journal ideas.md",
+      "to": "__OLD__/God Is In The Business/_md_archive/God Is In The Business journal ideas.md"
+    },
+    {
+      "from": "__OLD__/Dance In My Pants/Writing Dance In My Pants.md",
+      "to": "__OLD__/Dance In My Pants/_md_archive/Writing Dance In My Pants.md"
+    },
+    {
+      "from": "__OLD__/You Will Never Die/You_Will_Never_Die_w_extra_ending_line_).md",
+      "to": "__OLD__/You Will Never Die/_md_archive/You_Will_Never_Die_w_extra_ending_line_).md"
+    },
+    {
+      "from": "__OLD__/You Will Never Die/You Will Never Die 797fdc575b174a619a95b86df59f7ca8.md",
+      "to": "__OLD__/You Will Never Die/_md_archive/You Will Never Die 797fdc575b174a619a95b86df59f7ca8.md"
+    },
+    {
+      "from": "__OLD__/Bring Us To You/Bring Them To You.md",
+      "to": "__OLD__/Bring Us To You/_md_archive/Bring Them To You.md"
+    },
+    {
+      "from": "__OLD__/You Are My God/You are my God.md",
+      "to": "__OLD__/You Are My God/_md_archive/You are my God.md"
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/Marvelous Light/Marvelous Light - RV arrangement.md",
+      "to": "__MY ARRANGEMENTS__/Marvelous Light/_md_archive/Marvelous Light - RV arrangement.md"
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/Marvelous Light/Marvelous Light + Salvation Is Here medley.md",
+      "to": "__MY ARRANGEMENTS__/Marvelous Light/_md_archive/Marvelous Light + Salvation Is Here medley.md"
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/Why - Jonathan Reynolds/Why -- Jonathan McReynolds.md",
+      "to": "__MY ARRANGEMENTS__/Why - Jonathan Reynolds/_md_archive/Why -- Jonathan McReynolds.md"
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/This Is What You Do/This Is What You Do-C.md",
+      "to": "__MY ARRANGEMENTS__/This Is What You Do/_md_archive/This Is What You Do-C.md"
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/It's So Sweet To Trust In Jesus/'Tis So Sweet To Trust In Jesus.md",
+      "to": "__MY ARRANGEMENTS__/It's So Sweet To Trust In Jesus/_md_archive/'Tis So Sweet To Trust In Jesus.md"
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/God, Be My Vision/And_guitar_God_Be_My_Vision_Chorus.md",
+      "to": "__MY ARRANGEMENTS__/God, Be My Vision/_md_archive/And_guitar_God_Be_My_Vision_Chorus.md"
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/God, Be My Vision/God_Be_My_Vision_CHORUS_1.md",
+      "to": "__MY ARRANGEMENTS__/God, Be My Vision/_md_archive/God_Be_My_Vision_CHORUS_1.md"
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/God, Be My Vision/God_Be_My_Vision_chorus_and_super-chorus.md",
+      "to": "__MY ARRANGEMENTS__/God, Be My Vision/_md_archive/God_Be_My_Vision_chorus_and_super-chorus.md"
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/God, Be My Vision/God_Be_My_Vision_-_page_1.md",
+      "to": "__MY ARRANGEMENTS__/God, Be My Vision/_md_archive/God_Be_My_Vision_-_page_1.md"
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/God, Be My Vision/God_Be_My_Vision_--_Notes_2.md",
+      "to": "__MY ARRANGEMENTS__/God, Be My Vision/_md_archive/God_Be_My_Vision_--_Notes_2.md"
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/God, Be My Vision/God, Be My Vision 760ca19416d7450a889a008deebc5ff1.md",
+      "to": "__MY ARRANGEMENTS__/God, Be My Vision/_md_archive/God, Be My Vision 760ca19416d7450a889a008deebc5ff1.md"
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/God, Be My Vision/God Be My Vision (easy to play).md",
+      "to": "__MY ARRANGEMENTS__/God, Be My Vision/_md_archive/God Be My Vision (easy to play).md"
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/God, Be My Vision/God_Be_My_Vision_CHORUS_2.md",
+      "to": "__MY ARRANGEMENTS__/God, Be My Vision/_md_archive/God_Be_My_Vision_CHORUS_2.md"
+    },
+    {
+      "from": "__MY ARRANGEMENTS__/And Can It Be (Can It Be True)/And Can It Be - Am-Bm (1).md",
+      "to": "__MY ARRANGEMENTS__/And Can It Be (Can It Be True)/_md_archive/And Can It Be - Am-Bm (1).md"
+    },
+    {
+      "from": "__CO-WRITES__/The Day Of Judgment/The_Day_Of_Judgment__writing_(original_lyrics_Philip_Doddridge_born_1702).md",
+      "to": "__CO-WRITES__/The Day Of Judgment/_md_archive/The_Day_Of_Judgment__writing_(original_lyrics_Philip_Doddridge_born_1702).md"
+    },
+    {
+      "from": "__CO-WRITES__/The Day Of Judgment/The_Day_Of_Judgment__Dm.md",
+      "to": "__CO-WRITES__/The Day Of Judgment/_md_archive/The_Day_Of_Judgment__Dm.md"
+    },
+    {
+      "from": "__CO-WRITES__/The Day Of Judgment/The_Day_of_Judgment__Drum_Beat_for_Ending.md",
+      "to": "__CO-WRITES__/The Day Of Judgment/_md_archive/The_Day_of_Judgment__Drum_Beat_for_Ending.md"
+    },
+    {
+      "from": "__CO-WRITES__/The Day Of Judgment/The_Day_Of_Judgment__additional_chords_at_end.md",
+      "to": "__CO-WRITES__/The Day Of Judgment/_md_archive/The_Day_Of_Judgment__additional_chords_at_end.md"
+    },
+    {
+      "from": "__CO-WRITES__/The Day Of Judgment/The Day Of Judgment 7caad0495c974fccbf0115d2df5eef93.md",
+      "to": "__CO-WRITES__/The Day Of Judgment/_md_archive/The Day Of Judgment 7caad0495c974fccbf0115d2df5eef93.md"
+    },
+    {
+      "from": "__CO-WRITES__/I Will Only Love My Lord/I_Will_Only_Love_My_Lord_-_pg_1.md",
+      "to": "__CO-WRITES__/I Will Only Love My Lord/_md_archive/I_Will_Only_Love_My_Lord_-_pg_1.md"
+    },
+    {
+      "from": "__CO-WRITES__/I Will Only Love My Lord/I_Will_Only_Love_My_Lord_ideas.md",
+      "to": "__CO-WRITES__/I Will Only Love My Lord/_md_archive/I_Will_Only_Love_My_Lord_ideas.md"
+    },
+    {
+      "from": "__CO-WRITES__/I Will Only Love My Lord/I_Will_Only_Love_My_Lord_-_pg_2.md",
+      "to": "__CO-WRITES__/I Will Only Love My Lord/_md_archive/I_Will_Only_Love_My_Lord_-_pg_2.md"
+    },
+    {
+      "from": "__CO-WRITES__/I Will Only Love My Lord/I Will Only Love My Lord d5de9fcb4c8844c3b7e3127240f9c3e6.md",
+      "to": "__CO-WRITES__/I Will Only Love My Lord/_md_archive/I Will Only Love My Lord d5de9fcb4c8844c3b7e3127240f9c3e6.md"
+    },
+    {
+      "from": "__CO-WRITES__/Eric Gommesen/Our Lord/Our_Lord__Eric_G.md",
+      "to": "__CO-WRITES__/Eric Gommesen/Our Lord/_md_archive/Our_Lord__Eric_G.md"
+    },
+    {
+      "from": "__CO-WRITES__/Ken Meringa/Moments Of Grace/Moments_of_Grace.md",
+      "to": "__CO-WRITES__/Ken Meringa/Moments Of Grace/_md_archive/Moments_of_Grace.md"
+    },
+    {
+      "from": "__CO-WRITES__/Ken Meringa/Moments Of Grace/Moments Of Grace f58f0fc76c144e1fa4faa2661ff2dd47.md",
+      "to": "__CO-WRITES__/Ken Meringa/Moments Of Grace/_md_archive/Moments Of Grace f58f0fc76c144e1fa4faa2661ff2dd47.md"
+    },
+    {
+      "from": "__CO-WRITES__/Ken Meringa/Moments Of Grace/Moments of Grace.md",
+      "to": "__CO-WRITES__/Ken Meringa/Moments Of Grace/_md_archive/Moments of Grace.md"
+    },
+    {
+      "from": "__CO-WRITES__/Ken Meringa/Moments Of Grace/continuing_to_work_on_Kens_Moments_of_Grace.md",
+      "to": "__CO-WRITES__/Ken Meringa/Moments Of Grace/_md_archive/continuing_to_work_on_Kens_Moments_of_Grace.md"
+    },
+    {
+      "from": "__CO-WRITES__/Ken Meringa/Moments Of Grace/singing_Moments_of_Grace_(Ken).md",
+      "to": "__CO-WRITES__/Ken Meringa/Moments Of Grace/_md_archive/singing_Moments_of_Grace_(Ken).md"
+    },
+    {
+      "from": "__SONG IDEAS__/Cash (Isn't What Matters)/Cash_(isnt_what_matters)/Cash (isn\u2019t what matters) 8412ba8528314604a001fb18aa352347.md",
+      "to": "__SONG IDEAS__/Cash (Isn't What Matters)/Cash_(isnt_what_matters)/_md_archive/Cash (isn\u2019t what matters) 8412ba8528314604a001fb18aa352347.md"
+    },
+    {
+      "from": "__SONG IDEAS__/__RIFFS__/8-String/8-String_Little_Rock_Vibe_moving_A_shape_idea.md",
+      "to": "__SONG IDEAS__/__RIFFS__/8-String/_md_archive/8-String_Little_Rock_Vibe_moving_A_shape_idea.md"
+    },
+    {
+      "from": "__SONG IDEAS__/__RIFFS__/8-String/Am_fun_bar_chord_8-string_song.md",
+      "to": "__SONG IDEAS__/__RIFFS__/8-String/_md_archive/Am_fun_bar_chord_8-string_song.md"
+    },
+    {
+      "from": "__SONG IDEAS__/__RIFFS__/8-String/8-string_song_2.md",
+      "to": "__SONG IDEAS__/__RIFFS__/8-String/_md_archive/8-string_song_2.md"
+    },
+    {
+      "from": "__SONG IDEAS__/__RIFFS__/8-String/Diminished_riff_on_8-string_with_Fender_amp.md",
+      "to": "__SONG IDEAS__/__RIFFS__/8-String/_md_archive/Diminished_riff_on_8-string_with_Fender_amp.md"
+    },
+    {
+      "from": "__SONG IDEAS__/__RIFFS__/8-String/8-string_song_3.md",
+      "to": "__SONG IDEAS__/__RIFFS__/8-String/_md_archive/8-string_song_3.md"
+    },
+    {
+      "from": "__SONG IDEAS__/__RIFFS__/8-String/8-string_drop_C_song_D.md",
+      "to": "__SONG IDEAS__/__RIFFS__/8-String/_md_archive/8-string_drop_C_song_D.md"
+    }
+  ],
+  "errors": []
+}

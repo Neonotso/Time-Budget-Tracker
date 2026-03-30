@@ -1,0 +1,61 @@
+{
+  "found_download_candidates": 9,
+  "duplicates_trashed": 1,
+  "moved_into_song_folders": 3,
+  "missing_song_folder_matches": 5,
+  "moved": [
+    {
+      "track": 6,
+      "title": "His Name Is Jesus",
+      "from": "/Users/ryantaylorvegh/Downloads/6HisNameIsJesus02.aiff",
+      "to": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/His Name Is Jesus/6HisNameIsJesus02.aiff"
+    },
+    {
+      "track": 22,
+      "title": "Born Again",
+      "from": "/Users/ryantaylorvegh/Downloads/22BornAgain.aiff",
+      "to": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/Born Again/22BornAgain.aiff"
+    },
+    {
+      "track": 24,
+      "title": "For The Rest Of The Night",
+      "from": "/Users/ryantaylorvegh/Downloads/24ForTheRestOfTheNight.aiff",
+      "to": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/For The Rest Of The Night/24ForTheRestOfTheNight.aiff"
+    }
+  ],
+  "missing_folder": [
+    {
+      "track": 1,
+      "title": "Chess",
+      "file": "1Chess.aiff"
+    },
+    {
+      "track": 2,
+      "title": "In The Beginning",
+      "file": "2InTheBeginning.aiff"
+    },
+    {
+      "track": 5,
+      "title": "God's Provision",
+      "file": "5GodsProvision.aiff"
+    },
+    {
+      "track": 10,
+      "title": "It's So Sweet",
+      "file": "10ItsSoSweet.aiff"
+    },
+    {
+      "track": 23,
+      "title": "Next Steps",
+      "file": "23NextSteps.aiff"
+    }
+  ],
+  "duplicates_trashed_detail": [
+    {
+      "from": "/Users/ryantaylorvegh/Downloads/24ForTheRestOfTheNight (1).aiff",
+      "to_trash": "/Users/ryantaylorvegh/.Trash/OpenClaw-DistroKid-Duplicates/24ForTheRestOfTheNight (1).aiff",
+      "track": 24
+    }
+  ],
+  "trash_root": "/Users/ryantaylorvegh/.Trash/OpenClaw-DistroKid-Duplicates"
+}

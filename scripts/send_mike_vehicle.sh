@@ -1,0 +1,3 @@
+#!/bin/bash
+# Send vehicle message to Mike Laukaitis
+osascript -e 'tell application "Messages" to send "Hey Mike! Good morning. Just found out last night that one of my friends is selling a lot of things for cheap -- including some vehicles -- because her uncle is being put in a nursing home. That includes a 2018 Toyota Camry for $4,000 and a 2017 Honda Accord for $4,000. I thought of Patricia. I don'\''t know if you'\''d want to team up and help her buy a vehicle, but it was at least a thought in my brain. I don'\''t know if she has enough money for the monthly insurance and gas yet while still paying off her debt, but it could be a step in the right direction. Thoughts?" to buddy "+16166342992"'

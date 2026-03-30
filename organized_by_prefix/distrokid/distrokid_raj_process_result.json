@@ -1,0 +1,73 @@
+{
+  "raj_candidates_seen": 16,
+  "moved_count": 8,
+  "unmatched_count": 8,
+  "moved": [
+    {
+      "from": "EthnicityRaj02WayoftheWise.wav",
+      "to": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/Way of the Wise/Way of the Wise.m4a"
+    },
+    {
+      "from": "EthnicityRaj03EverybodyLetsVacate.wav",
+      "to": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/Everybody Let's Vacate/Everybody Let's Vacate.m4a"
+    },
+    {
+      "from": "EthnicityRaj04MyHeartWasLost.wav",
+      "to": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/My Heart Was Lost/My Heart Was Lost.m4a"
+    },
+    {
+      "from": "EthnicityRaj05LostInYourLove.wav",
+      "to": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/Lost In Your Love/Lost In Your Love.m4a"
+    },
+    {
+      "from": "EthnicityRaj10LifesADream.wav",
+      "to": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/Life's A Dream/Life's A Dream.m4a"
+    },
+    {
+      "from": "EthnicityRaj11Psycho.wav",
+      "to": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/Pyscho/Psycho chords/Psycho chords.m4a"
+    },
+    {
+      "from": "EthnicityRaj12HawkSong.wav",
+      "to": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/__SPOKEN WORD__/Hawk Song.pages/Hawk Song.pages.m4a"
+    },
+    {
+      "from": "EthnicityRaj14HardToGetfeat.D3.wav",
+      "to": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/Hard to Get/Hard to Get.m4a"
+    }
+  ],
+  "unmatched": [
+    {
+      "file": "EthnicityRaj01MyNameIsRaj (1).wav",
+      "title": "My Name Is Raj"
+    },
+    {
+      "file": "EthnicityRaj01MyNameIsRaj.wav",
+      "title": "My Name Is Raj"
+    },
+    {
+      "file": "EthnicityRaj06IWaited.wav",
+      "title": "IWaited"
+    },
+    {
+      "file": "EthnicityRaj07PsychoticVengeance.wav",
+      "title": "Psychotic Vengeance"
+    },
+    {
+      "file": "EthnicityRaj08TheWorldIsABrightBlossom.wav",
+      "title": "The World Is ABright Blossom"
+    },
+    {
+      "file": "EthnicityRaj09LullabyToADeludedPatient.wav",
+      "title": "Lullaby To ADeluded Patient"
+    },
+    {
+      "file": "EthnicityRaj13ProdigalSonSong.wav",
+      "title": "Prodigal Son Song"
+    },
+    {
+      "file": "EthnicityRaj15TheHeavenlyEthnicity.wav",
+      "title": "The Heavenly Ethnicity"
+    }
+  ]
+}

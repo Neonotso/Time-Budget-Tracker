@@ -1,0 +1,54 @@
+{
+  "imported_detected": 132,
+  "md_updated_count": 9,
+  "links_added_count": 9,
+  "updated_files": [
+    "Walking In The Garden/Walking In The Garden.md",
+    "Time's Running Out (Repent)/Time's Running Out (Repent).md",
+    "His Name Is Jesus/His Name Is Jesus.md",
+    "God, Make That Fruit Grow/God, Make That Fruit Grow.md",
+    "Following Your Voice/Following Your Voice.md",
+    "For The Rest Of The Night/For The Rest Of The Night.md",
+    "Come Soon/Come Soon.md",
+    "Livin' For The King/Livin' For The King.md",
+    "I Died With Jesus/I Died With Jesus.md"
+  ],
+  "links_added_sample": [
+    {
+      "md": "Walking In The Garden/Walking In The Garden.md",
+      "file": "3WalkingInTheGarden.aif"
+    },
+    {
+      "md": "Time's Running Out (Repent)/Time's Running Out (Repent).md",
+      "file": "8TimesRunningOutRepent05.aif"
+    },
+    {
+      "md": "His Name Is Jesus/His Name Is Jesus.md",
+      "file": "6HisNameIsJesus02.aiff"
+    },
+    {
+      "md": "God, Make That Fruit Grow/God, Make That Fruit Grow.md",
+      "file": "16GodMakeThatFruitGrow.aif"
+    },
+    {
+      "md": "Following Your Voice/Following Your Voice.md",
+      "file": "14FollowingYourVoice.aif"
+    },
+    {
+      "md": "For The Rest Of The Night/For The Rest Of The Night.md",
+      "file": "24ForTheRestOfTheNight.aiff"
+    },
+    {
+      "md": "Come Soon/Come Soon.md",
+      "file": "20ComeSoon05.aif"
+    },
+    {
+      "md": "Livin' For The King/Livin' For The King.md",
+      "file": "18LivinForTheKing.aif"
+    },
+    {
+      "md": "I Died With Jesus/I Died With Jesus.md",
+      "file": "12IDiedWithJesus.aif"
+    }
+  ]
+}

@@ -1,0 +1,436 @@
+My Songs folder comparison
+Dropbox: /Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs
+Backup:  /Users/ryantaylorvegh/Desktop/My Songs - backup from old Dropbox
+
+dropbox_files: 1214
+backup_files: 804
+only_in_dropbox: 603
+only_in_backup: 193
+common_paths: 611
+identical_common_files: 587
+different_common_files: 24
+uncertain_hash_checks: 1
+
+Only in backup (candidates to copy into Dropbox) (193):
+     1. Beautiful Flower of God.txt
+     2. Blazing Light of God/Blazing Light of God - Key of Em - 2-22-24.pages
+     3. Do Not Forget His Faithfulness.txt
+     4. Endless Embrace Of Your Love.rtf
+     5. Even If You Take Everything.txt
+     6. Even If You Take Everything/Even If You Take Everything.rtf
+     7. Every Day Is A New Beginning.txt
+     8. For The Rest Of The Night - Ryan Vegh - D.pdf
+     9. For The Rest Of The Night.txt
+    10. God, Make That Fruit Grow!.txt
+    11. God, You Are The Highest God (To Know Your Son) -- capo 6.pdf
+    12. I Came To Magnify The Lord - 2.txt
+    13. I Came To Magnify The Lord.txt
+    14. I Just Wanna Listen To You.pages/Data/Hardcover_bullet_black-13.png
+    15. I Just Wanna Listen To You.pages/Index.zip
+    16. I Just Wanna Listen To You.pages/Metadata/BuildVersionHistory.plist
+    17. I Just Wanna Listen To You.pages/Metadata/DocumentIdentifier
+    18. I Just Wanna Listen To You.pages/Metadata/Properties.plist
+    19. I Just Wanna Listen To You.pages/preview-micro.jpg
+    20. I Just Wanna Listen To You.pages/preview-web.jpg
+    21. I Just Wanna Listen To You.pages/preview.jpg
+    22. I Look Up To The Holy God/I Look Up To The Holy God - C#m (Ryans-M1-Mac.hsd1.mi.comcast.net's conflicted copy 2024-06-03).pages
+    23. I Will Be Still.pages
+    24. If Tacos Could Talk-Oh!/If Tacos Could Talk-Oh!.doc
+    25. If Tacos Could Talk-Oh!/If Tacos Could Talk-Oh!.txt
+    26. Isaiah 25.pages
+    27. Jesus! Jesus! (Jesus The Mighty One)/Jesus! Jesus! (Jesus The Mighty One) — Ben Anderson Song.mp3
+    28. Jesus! Jesus! (Jesus The Mighty One)/Jesus! Jesus! Lyrics and Chords.JPG
+    29. Live In Purity.pages
+    30. Moments of Grace.pdf
+    31. Moments of Grace.txt
+    32. Moth To The Flame.txt
+    33. My Heart Was Lost/My Heart Was Lost - chords.pages
+    34. My Soul's Tied In Your Soul.txt
+    35. My, My Mind (Ryan’s M1 Mac's conflicted copy 2025-05-15).txt
+    36. My, My Mind.txt
+    37. Oh How Wonderful Are You Jesus.doc
+    38. Oh Marvelous Love Of My Blessed Jesus.pages
+    39. Perfect For Me.doc
+    40. The Unlovely One.pages/Data/Hardcover_bullet_black-13.png
+    41. The Unlovely One.pages/Index.zip
+    42. The Unlovely One.pages/Metadata/BuildVersionHistory.plist
+    43. The Unlovely One.pages/Metadata/DocumentIdentifier
+    44. The Unlovely One.pages/Metadata/Properties.plist
+    45. The Unlovely One.pages/preview-micro.jpg
+    46. The Unlovely One.pages/preview-web.jpg
+    47. The Unlovely One.pages/preview.jpg
+    48. Think About The Good Things (Always Be Thankful).txt
+    49. Think About The Good Things (Always Be Thankful)/Think About The Good Things - Ab.pdf
+    50. Think About The Good Things (Always Be Thankful)/Think About The Good Things.pdf
+    51. Tidal Wave of Grace.txt
+    52. Up Above The Dark Plain/New Guitar Version/Up Above The Dark Plain - Easy.pdf
+    53. Up Above The Dark Plain/New Guitar Version/Up Above The Dark Plain -- Easy.txt
+    54. What You Think Of My Life.doc
+    55. Whatchu Want/Whatchu Want additional LYRICS.pdf
+    56. Without A Cause/Without A Cause -- weird chords.txt
+    57. Without A Cause/Without A Cause.txt
+    58. Work In Progress (I Need Help, Too).txt
+    59. Worst Of All Sinners/Worst Of All Sinners.pdf
+    60. You Are God, Amen/God You Are The Highest God (To Know Your Son).m4a
+    61. You Are God, Amen/God You Are The Highest God -- live video.mov
+    62. You Are God, Amen/God You Are The Highest God -- live video.mov.asd
+    63. You Are God, Amen/God, You Are The Highest God.txt
+    64. You Are God, Amen/To Know Your Son.aif
+    65. You Are God, Amen/To Know Your Son.mov
+    66. You Are God, Amen/To Know Your Son.pdf
+    67. You Are God, Amen/To Know Your Son_02.mov
+    68. You Are God, Amen/You Are God, Amen.m4a
+    69. You Are God, Amen/getting the chords.m4a
+    70. You Prepare My Path For Me (finished).txt
+    71. You Prepare My Path For Me.pdf
+    72. __MY ARRANGEMENTS__/God, Be My Vision/God Be My Vision (easy to play).rtf
+    73. __MY ARRANGEMENTS__/God, Be My Vision/God, Be My Vision -- D to Eb to E.pdf
+    74. __MY ARRANGEMENTS__/God, Be My Vision/God, Be My Vision -- Easy.txt
+    75. __MY ARRANGEMENTS__/God, Be My Vision/God, Be My Vision.pdf
+    76. __MY ARRANGEMENTS__/God, Be My Vision/God, Be My Vision.txt
+    77. __MY ARRANGEMENTS__/I Look Up To The Holy God/I Look Up To The Holy God - C#m.docx
+    78. __MY ARRANGEMENTS__/I Look Up To The Holy God/I Look Up To The Holy God - C#m.pages
+    79. __MY ARRANGEMENTS__/I Look Up To The Holy God/I Look Up To The Holy God - Cm (original key).docx
+    80. __MY ARRANGEMENTS__/I Look Up To The Holy God/I Look Up To The Holy God - Cm (original key).pages
+    81. __MY ARRANGEMENTS__/Lord I Need You/Chords/Lord I Need You - RV arrangement - EASIER.pages
+    82. __MY ARRANGEMENTS__/Lord I Need You/Chords/Lord I Need You EASY.txt
+    83. __OLD__/M-A-A-M-E.doc
+    84. __SONG IDEAS__/2020 that night I (Ryan) was worshipping in the living room I think -- making up things -- see last 10 minutes or so.m4a
+    85. __SONG IDEAS__/20200110 203414 I'll be robed in white what a glorious sight.m4a
+    86. __SONG IDEAS__/20200209 230211 I Agree Chorus.m4a
+    87. __SONG IDEAS__/20200212 081811 I Agree With What You Say.m4a
+    88. __SONG IDEAS__/20200218 212715 Our God Is Awesome -- For The Lord Our God His Love Endures.m4a
+    89. __SONG IDEAS__/20200310 145007 Even if I have to say no.m4a
+    90. __SONG IDEAS__/20200310 220115 God We're Living In Your Mercy.m4a
+    91. __SONG IDEAS__/20200421 130808 Come Soon alt lyrics -- Ever with our blessed King.m4a
+    92. __SONG IDEAS__/20200428 211732 Drum Rhythm.m4a
+    93. __SONG IDEAS__/BP/BP idea 6-8.amr
+    94. __SONG IDEAS__/BP/More BP stuff.amr
+    95. __SONG IDEAS__/Cmaj7#11 C7#5#9 Fmaj913 F#m7b5 Dsus4 Db7b5 C69 Abmb6 G6 Fadd9 Bbadd2….pages
+    96. __SONG IDEAS__/Cool uke chord progression! :D.mp3
+    97. __SONG IDEAS__/Even if I have to say no.pages
+    98. __SONG IDEAS__/G A E E (C# D#) (E F#) — (AG A6#11G).pages
+    99. __SONG IDEAS__/G riff.gp
+   100. __SONG IDEAS__/G#m to D Maj piano.mp3
+   101. __SONG IDEAS__/I Know You Love Me, And I Love You.mp3
+   102. __SONG IDEAS__/I Will Worship You My God - song idea @ church.mp3
+   103. __SONG IDEAS__/I've Nearly Died.doc
+   104. __SONG IDEAS__/Improv D Spacey Song.mp3
+   105. __SONG IDEAS__/Into the Hands of Evil.txt
+   106. __SONG IDEAS__/Jazzy Minor Brooding Your Will.mp3
+   107. __SONG IDEAS__/Jazzy piano tune.mp3
+   108. __SONG IDEAS__/Just Stop.doc
+   109. __SONG IDEAS__/Keep On Clappin' Dem Hands.mp3
+   110. __SONG IDEAS__/Let Your Name Live On.doc
+   111. __SONG IDEAS__/More Is Never Enough.doc
+   112. __SONG IDEAS__/Song Idea! 7-1-20.m4a
+   113. __SONG IDEAS__/Songwriting with Kelly (and David kind of) 4-17-21.m4a
+   114. __SONG IDEAS__/Sweet Chaos - new song guitar idea.amr
+   115. __SONG IDEAS__/The Fear Of The Lord/G riff.gp
+   116. __SONG IDEAS__/The Fear Of The Lord/The Fear Of The Lord-bckp.gp
+   117. __SONG IDEAS__/The Fear Of The Lord/The Fear Of The Lord-bckp2.gp
+   118. __SONG IDEAS__/The Fear Of The Lord/The Fear Of The Lord.gp
+   119. __SONG IDEAS__/The Fear Of The Lord/The Fear Of The Lord.mp3
+   120. __SONG IDEAS__/The Fear Of The Lord/The Fear Of The Lord.pdf
+   121. __SONG IDEAS__/The Flames Proclaim Your Name.amr
+   122. __SONG IDEAS__/Time's Running Out (Repent)/Repent (Time's Running Out) -- Ryan Vegh -- October 2018 F&C.mp3
+   123. __SONG IDEAS__/Time's Running Out (Repent)/Repent Drums.mp3
+   124. __SONG IDEAS__/Time's Running Out (Repent)/Repent Drums.mp3.asd
+   125. __SONG IDEAS__/Time's Running Out (Repent)/Time's Running Out (Don't Die).pages
+   126. __SONG IDEAS__/Time's Running Out (Repent)/Time's Running Out (with rotating key signature).m4v
+   127. __SONG IDEAS__/Tune that's been in my head -- piano.mp3
+   128. __SONG IDEAS__/Whatchu Want/.DS_Store
+   129. __SONG IDEAS__/Whatchu Want/Ideas/Whatchu Want -- with improv.mp3
+   130. __SONG IDEAS__/Whatchu Want/Ideas/Whatchu Want.mp3
+   131. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Ableton Project Info/Project8_1.cfg
+   132. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Processed/Crop/E riff.aif
+   133. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Processed/Crop/E riff.aif.asd
+   134. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0001 3-Audio-1.aif
+   135. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0001 3-Audio-1.aif.asd
+   136. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0001 3-Audio.aif
+   137. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0001 3-Audio.aif.asd
+   138. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0003 3-Audio-1.aif
+   139. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0003 3-Audio-1.aif.asd
+   140. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0004 3-Audio-1.aif
+   141. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0004 3-Audio-1.aif.asd
+   142. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0004 3-Audio.aif
+   143. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0004 3-Audio.aif.asd
+   144. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0006 3-Audio.aif
+   145. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0006 3-Audio.aif.asd
+   146. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0007 3-Audio.aif
+   147. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0007 3-Audio.aif.asd
+   148. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0008 3-Audio.aif
+   149. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0008 3-Audio.aif.asd
+   150. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0009 3-Audio-1.aif
+   151. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0009 3-Audio.aif
+   152. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0010 3-Audio.aif
+   153. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0011 3-Audio.aif
+   154. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0012 3-Audio.aif
+   155. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0013 3-Audio.aif
+   156. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0014 3-Audio.aif
+   157. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0014 3-Audio.aif.asd
+   158. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0015 3-Audio.aif
+   159. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0016 3-Audio.aif
+   160. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0016 3-Audio.aif.asd
+   161. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0017 3-Audio.aif
+   162. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0019 Guitar.aif
+   163. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0019 Guitar.aif.asd
+   164. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0020 Guitar.aif
+   165. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0020 Guitar.aif.asd
+   166. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0021 Guitar.aif
+   167. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0021 Guitar.aif.asd
+   168. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0022 Guitar.aif
+   169. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0022 Guitar.aif.asd
+   170. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0023 Guitar-1.aif
+   171. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0023 Guitar.aif
+   172. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0024 Guitar.aif
+   173. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0025 Guitar.aif
+   174. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0025 Guitar.aif.asd
+   175. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0027 Guitar.aif
+   176. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0027 Guitar.aif.asd
+   177. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0028 Guitar.aif
+   178. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0028 Guitar.aif.asd
+   179. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0029 Guitar.aif
+   180. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Samples/Recorded/0029 Guitar.aif.asd
+   181. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Whatchu Want -- LIVE (w click panning etc).als
+   182. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Whatchu Want-more.aif
+   183. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Whatchu Want-more.aif.asd
+   184. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Whatchu Want.aif
+   185. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Whatchu Want.aif.asd
+   186. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Whatchu Want.als
+   187. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/Whatchu Want.mp3
+   188. __SONG IDEAS__/Whatchu Want/Recording/Whatchu Want Project/testing things with MPKII.als
+   189. __SONG IDEAS__/Worship then Baptism Songwriting 4-13-21.m4a
+   190. __SONG IDEAS__/Worshiping on Mountain Dulcimer.mp3
+   191. __SONG IDEAS__/You Are So Good.mp3
+   192. __SONG IDEAS__/funky F# song.mp3
+   193. __SONG IDEAS__/jazzy trumpet melody.mp3
+
+Only in Dropbox (603):
+     1. Be Near To Me/Be Near To Me 10350bf898cb4b15908655904c2af5c9.md
+     2. Be Near To Me/Be Near To Me BARITONE -- starting to figure a little bit out.mov
+     3. Be Near To Me/Be_Near_To_Me.m4a
+     4. Beautiful Flower Of God/Beautiful Flower of God.txt
+     5. Blazing Light of God/Blazing Light of God ba5b312faa3f47588fba360a9c34ea5c.md
+     6. Blazing Light of God/Blazing_Light_of_God_-_key_of_Bm_-_8-string_on_Fender_amp.m4a
+     7. Born Again/Turn_from_your_sins_(Born_Again).m4a
+     8. Come Soon/20200421 130808 Come Soon alt lyrics -- Ever with our blessed King.m4a
+     9. Come Soon/Come Soon fffe5a73f1d980d48b4fec610c832585.md
+    10. Come Soon/Come_Soon__05-06-22.m4a
+    11. Devil Battle/Devil Battle 6b03a6a5e9144b5a9707e3c3cd17e2ff.md
+    12. Devil Battle/Devil_Battle_with_Firebrand_and_grit.m4a
+    13. Even If You Take Everything/Even If You Take Everything 295ac5362c3e47e28422104e71906cd3.md
+    14. Even If You Take Everything/Even If You Take Everything.txt
+    15. Even If You Take Everything/Even_If_You_Take_Everything_(cool_piano_part).m4a
+    16. Even If You Take Everything/Even_If_You_Take_Everything__Bridge_and_all_the_singing.m4a
+    17. Even If You Take Everything/Even_If_You_Take_Everything__with_words.m4a
+    18. Even If You Take Everything/piano_Even_If_You_Take_Everything.m4a
+    19. Ever Deeper/Ever Deeper - Gm.pdf
+    20. Ever Deeper/Ever Deeper b50b46a65dcc484baa3c31da86fae23d.md
+    21. Ever Deeper/Ever Deeper.md
+    22. Ever Deeper/Ever_Deeper__baritone_bass_riff_E_G_F_D_D_E_..._also_bridge_chords_Em_A_C_Dm_F_late_in_recording.m4a
+    23. Finding It Hard/Finding It Hard 35cec4339be44ba38541f809695cce9c.md
+    24. Finding It Hard/Finding_It_Hard_-_baritone_5-27-21.m4a
+    25. Following Your Voice/Bridge_Following_Your_Voice.m4a
+    26. Following Your Voice/Bridge_snippet.m4a
+    27. Following Your Voice/FYV_verse_1_idea.m4a
+    28. Following Your Voice/Following Your Voice -- GuitarPro.gp
+    29. Following Your Voice/Following Your Voice 1fa2678d11634a12b6c3bdc2bf991703.md
+    30. Following Your Voice/Following Your Voice CHORDS - 08-04-21 -- see end of video for best chords.mov
+    31. Following Your Voice/Following_Your_Voice 1.m4a
+    32. Following Your Voice/Following_Your_Voice.m4a
+    33. Following Your Voice/Following_Your_Voice_-_1.jpg
+    34. Following Your Voice/Following_Your_Voice_-_2.jpg
+    35. Following Your Voice/Following_Your_Voice_-_3.jpg
+    36. Following Your Voice/Following_Your_Voice_-_all_the_parts.m4a
+    37. Following Your Voice/Following_Your_Voice__new_intro_part.m4a
+    38. Following Your Voice/Following_Your_Voice_verse_1.m4a
+    39. Following Your Voice/Guitar_in_Em.m4a
+    40. Following Your Voice/With_drumming__wait_for_drum_come_in_til_AND_of_2_for_Last_Chorus.m4a
+    41. Following Your Voice/With_guitar.m4a
+    42. For The Rest Of The Night/For The Rest Of The Night - Ryan Vegh - D.pdf
+    43. For The Rest Of The Night/For The Rest Of The Night.txt
+    44. God Almighty Lord Of All/God Almighty, Lord of All 032843cec8ef442d8ad5f93a0f29f7d8.md
+    45. God Almighty Lord Of All/God_Almighty.m4a
+    46. God, Make That Fruit Grow/God, Make That Fruit Grow 060d5c45feca49ad8503f15192d2125d.md
+    47. God, Make That Fruit Grow/God, Make That Fruit Grow!.txt
+    48. God, Make That Fruit Grow/New_Verse_for_God_Make_That_Fruit_Grow.m4a
+    49. God, Make That Fruit Grow/end_of_Chorus__God_Make_That_Fruit_G-g-g-g-grow!.m4a
+    50. God, You Are The Highest God (To Know Your Son)/God You Are The Highest God (To Know Your Son).m4a
+    51. God, You Are The Highest God (To Know Your Son)/God You Are The Highest God -- live video.mov
+    52. God, You Are The Highest God (To Know Your Son)/God You Are The Highest God -- live video.mov.asd
+    53. God, You Are The Highest God (To Know Your Son)/God, You Are The Highest God (To Know Your Son) -- capo 6.pdf
+    54. God, You Are The Highest God (To Know Your Son)/God, You Are The Highest God (To Know Your Son) 1ebe5a73f1d980cebce9ce9dc2ccb9b2.md
+    55. God, You Are The Highest God (To Know Your Son)/God, You Are The Highest God.txt
+    56. God, You Are The Highest God (To Know Your Son)/God_You_Are_The_Highest_God_(To_Know_Your_Son)_--_capo_6.pdf
+    57. God, You Are The Highest God (To Know Your Son)/God_You_are_the_Highest_God_(To_Know_Your_Son)_-_pg_1.jpg
+    58. God, You Are The Highest God (To Know Your Son)/God_You_are_the_Highest_God_(To_Know_Your_Son)_-_pg_2.jpg
+    59. God, You Are The Highest God (To Know Your Son)/To Know Your Son.aif
+    60. God, You Are The Highest God (To Know Your Son)/To Know Your Son.mov
+    61. God, You Are The Highest God (To Know Your Son)/To Know Your Son.pdf
+    62. God, You Are The Highest God (To Know Your Son)/To Know Your Son_02.mov
+    63. God, You Are The Highest God (To Know Your Son)/You Are God, Amen.m4a
+    64. God, You Are The Highest God (To Know Your Son)/getting the chords.m4a
+    65. Hard to Get/Hard To Get 23ee5a73f1d98004b3d1d4484d73d3ae.md
+    66. Hard to Get/Hard_To_Get_with_Jason_Chertos.m4a
+    67. Here Goes Nothing/Here Goes Nothing BARITONE =D - 5-22-21.mov
+    68. I Can't Get Low Enough/I Can’t Get Low Enough 7b99eee869bc4c7391765aa3ae01910c.md
+    69. I Can't Get Low Enough/I Can’t Get Low Enough_1.jpg
+    70. I Can't Get Low Enough/I Can’t Get Low Enough_2.jpg
+    71. I Can't Get Low Enough/I Can’t Get Low Enough_3.jpg
+    72. I Can't Get Low Enough/I Can’t Get Low Enough_4.jpg
+    73. I Can't Get Low Enough/I_Cant_Get_Low_Enough__first_version.m4a
+    74. I Can't Get Low Enough/I_Cant_Get_Low_Enough__in_higher_key_at_Dwell__Elles_house.m4a
+    75. I Can't Get Low Enough/I_Cant_Get_Low_Enough__second_version.m4a
+    76. I Died With Jesus/Ascending_Riff.m4a
+    77. I Died With Jesus/Awesome_pentatonic_sin_burial_melody_4-14-21.m4a
+    78. I Died With Jesus/Baptism_Song_for_Bri.m4a
+    79. I Died With Jesus/Bridge_Idea.m4a
+    80. I Died With Jesus/Cool_extra_pre-chorus_guitar_riff__G5_A5_C5_to_the_Bm_Chorus.m4a
+    81. I Died With Jesus/I Died With Jesus 683247317c0e40c6814e82e58da41970.md
+    82. I Died With Jesus/I_Died_With_Jesus.m4a
+    83. I Died With Jesus/I_Died_With_Jesus_--_first_ideas_from_Notes_app.pdf
+    84. I Died With Jesus/I_Died_With_Jesus_-_1.jpg
+    85. I Died With Jesus/I_Died_With_Jesus_-_2.jpg
+    86. I Died With Jesus/I_Died_With_Jesus_1.m4a
+    87. I Died With Jesus/I_Died_With_Jesus_2.m4a
+    88. I Died With Jesus/I_Died_With_Jesus__Aguirres_05-06-22.m4a
+    89. I Died With Jesus/New_hook_for_after_Chorus.m4a
+    90. I Died With Jesus/So_Im_Comin_To_The_River.m4a
+    91. I Died With Jesus/Verse_Idea.m4a
+    92. I Died With Jesus/Vocal_Riff.m4a
+    93. I Just Wanna Listen To You/.DS_Store
+    94. I Just Wanna Listen To You/I Just Wanna Listen To You 23ee5a73f1d98077829fdcd304627315.md
+    95. I Just Wanna Listen To You/I Just Wanna Listen To You.pages/Data/Hardcover_bullet_black-13.png
+    96. I Just Wanna Listen To You/I Just Wanna Listen To You.pages/Index.zip
+    97. I Just Wanna Listen To You/I Just Wanna Listen To You.pages/Metadata/BuildVersionHistory.plist
+    98. I Just Wanna Listen To You/I Just Wanna Listen To You.pages/Metadata/DocumentIdentifier
+    99. I Just Wanna Listen To You/I Just Wanna Listen To You.pages/Metadata/Properties.plist
+   100. I Just Wanna Listen To You/I Just Wanna Listen To You.pages/preview-micro.jpg
+   101. I Just Wanna Listen To You/I Just Wanna Listen To You.pages/preview-web.jpg
+   102. I Just Wanna Listen To You/I Just Wanna Listen To You.pages/preview.jpg
+   103. I Just Wanna Listen To You/I_Just_Wanna_Listen_To_You.m4a
+   104. I Look Up To The Holy God/I Look Up To The Holy God - C#m - maybe old version.pages
+   105. I Look Up To The Holy God/I Look Up To The Holy God - C#m.docx
+   106. I Look Up To The Holy God/I Look Up To The Holy God - Cm (original key).docx
+   107. I Look Up To The Holy God/I Look Up To The Holy God - Cm (original key).pages
+   108. I Love The Way/I Love The Way (chords) - 5-22-21.mov
+   109. I Love The Way/I Love The Way (whole song -- minus additional Choruses) BARITONE - 5-22-21.mov
+   110. I Love The Way/I Love The Way 23ee5a73f1d9806d97b5e173f0db0315.md
+   111. I Love The Way/I_Love_The_Way_-_gradually_more_full_then_key_changes_upwards_-_4-2-23.m4a
+   112. I Love The Way/I_Love_The_Way__and_in_higher_keys_too_(first_part_is_me_finding_it)_-_4-3-23.m4a
+   113. I Love You Oh My Father/Bridge_for_I_Love_You_Oh_My_Father.m4a
+   114. I Love You Oh My Father/I Love You, O My Father 1a5fd3d6fb2b43a49a18453f3ccd2bb4.md
+   115. I Love You Oh My Father/I_Love_You_Oh_My_Father 1.m4a
+   116. I Love You Oh My Father/I_Love_You_Oh_My_Father.m4a
+   117. I Love You Oh My Father/I_Love_You_oh_my_Father__Bridge__Intro.m4a
+   118. I Love You Oh My Father/a_little_bit_of_I_Love_You_Oh_My_Father.m4a
+   119. I Love You Oh My Father/more_of_I_Love_You_O_My_Father.m4a
+   120. I Will Be Still/I Will Be Still.pages
+   121. Is Loving Worth The Loss/Another_verse_idea_Is_Loving_Worth_The_Loss.m4a
+   122. Is Loving Worth The Loss/Bridge_idea_Is_Loving_Worth_The_Loss.m4a
+   123. Is Loving Worth The Loss/Chorus_transposes_Is_Loving_Worth_The_Loss.m4a
+   124. Is Loving Worth The Loss/Is Loving Worth The Loss.md
+   125. Is Loving Worth The Loss/Is_Losing_Worth_The_Loss_2.jpg
+   126. Is Loving Worth The Loss/Is_Loving_Worth_The_Loss.m4a
+   127. Is Loving Worth The Loss/Is_Loving_Worth_The_Loss_1.jpg
+   128. Is Loving Worth The Loss/Is_Loving_Worth_The_Loss_with_guitar.m4a
+   129. Is Loving Worth The Loss/Jesus_Chorus_Is_Loving_Worth_The_Loss.m4a
+   130. Is Loving Worth The Loss/Really_high_Is_Loving_Worth_The_Loss_(Nay).m4a
+   131. Is Loving Worth The Loss/Verse_idea_Is_Loving_Worth_The_Loss.m4a
+   132. Isaiah 25/Isaiah 25.pages
+   133. Life's A Dream/Life’s A Dream 23ee5a73f1d9802f810bd20d9fe15764.md
+   134. Live In Purity/.DS_Store
+   135. Live In Purity/Live In Purity 3145100186ba4c87bfb383c73f1cc04a.md
+   136. Live In Purity/Live_In_Purity.pdf
+   137. Live In Purity/Live_In_Purity_(in_car_w_wife_Britt__Christian)_-_10-25-2020.m4a
+   138. Livin' For The King/Livin_For_The_King.m4a
+   139. Livin' For The King/Livin_For_The_KingPiano_4ths_idea.m4a
+   140. Livin' For The King/Livin_For_The_King__05-10-22.m4a
+   141. Livin' For The King/Livin_For_The_King__Bridge_with_Chords_).m4a
+   142. Livin' For The King/Livin_For_The_King__new_Bridge.m4a
+   143. Livin' For The King/Livin_for_the_King__pause_before_last_Chorus.m4a
+   144. Livin' For The King/Livin’ For The King 2ba1c8bed73f491f8c42a23ddae042a7.md
+   145. Moth To The Flame/Moth To The Flame.txt
+   146. My Body/My Body 9e20edb44c8348b4a2e7e81a32fe1b7b.md
+   147. My Body/My_Body_(Im_Not_My_Own).m4a
+   148. My Body/My_Body_(Temple).m4a
+   149. My Body/My_Body_high_with_rumble.m4a
+   150. My Body/fun_triple_vocal_break_My_Body.m4a
+   151. My Soul's Tied In Your Soul/My Soul's Tied In Your Soul.txt
+   152. My Soul's Tied In Your Soul/My Soul’s Tied In Your Soul 10be5a73f1d980e18e29f7eee09f96c8.md
+   153. My Soul's Tied In Your Soul/My_Souls_Tied_In_Your_Soul_(My_Heart_Breaks).m4a
+   154. My Soul's Tied In Your Soul/My_Souls_Tied_In_Your_Soul_-_1.jpg
+   155. My Soul's Tied In Your Soul/My_Souls_Tied_In_Your_Soul_-_2.jpg
+   156. My Soul's Tied In Your Soul/My_Souls_Tied_In_Your_Soul_-_3.jpg
+   157. My Soul's Tied In Your Soul/writing_My_Souls_Tied_In_Your_Soul.m4a
+   158. My, My Mind/Haunted/Haunted_1.jpg
+   159. My, My Mind/Haunted/Haunted_2.jpg
+   160. My, My Mind/Haunted/Haunted_3.jpg
+   161. My, My Mind/Haunted/Haunted_4.jpg
+   162. My, My Mind/Haunted/Haunted_5.jpg
+   163. My, My Mind/Haunted/Haunted_6.jpg
+   164. My, My Mind/My, My Mind 9b9f353c3cf044668128886b6b60d892.md
+   165. My, My Mind/My, My Mind.txt
+   166. My, My Mind/My, My Mind_1.jpg
+   167. My, My Mind/My, My Mind_2.jpg
+   168. My, My Mind/My, My Mind_3.jpg
+   169. My, My Mind/My_My_Mind__new_song_07-15-24.m4a
+   170. Offer My Body As A Living Sacrifice/Offer My Body As A Living Sacrifice fc7d67786b30464ea1b4ab6cb74d8dae.md
+   171. Offer My Body As A Living Sacrifice/Romans_Offer_My_Body_as_a_living_Sacrifice.m4a
+   172. Oh How Wonderful Are You Jesus/Oh How Wonderful Are You Jesus.doc
+   173. Oh Marvelous Love Of My Blessed Jesus/Oh Marvelous Love Of My Blessed Jesus.pages
+   174. People Are People/People Are People-WOchords.pages
+   175. People Are People/People Are People.md
+   176. People Are People/People Are People.pages
+   177. Perfect For Me/Perfect For Me.doc
+   178. Pressured/Pressured 0eadbfc3cfa74a85ae955773e1027766.md
+   179. Pressured/Pressured_-_Happy_New_Ending_)_4-30-21.m4a
+   180. Pressured/Pressured_2.m4a
+   181. Pressured/Pressured_3.m4a
+   182. Pressured/Pressured_4.m4a
+   183. Pressured/Pressured_5.m4a
+   184. Pressured/Pressured_6.m4a
+   185. Pressured/Pressured_Song_WITH_Ending_-_5-28-21.m4a
+   186. Pressured/Pressured_Spoken_Word_NEW__11-29-2020.m4a
+   187. Pressured/Pressured__some_ending_chords_(new_voicings).m4a
+   188. Speak Your Word/Speak Your Word 18fe5a73f1d980e8aff8e9baee4db3eb.md
+   189. Sweet Chaos/Sweet Chaos - new song guitar idea.amr
+   190. Taste And See/Chords/.DS_Store
+   191. Taste And See/Taste And See 58681e3c10d24884a4eacb94a460f291.md
+   192. Taste And See/Taste_And_See__baritone_A_-_5-27-21.m4a
+   193. Taste And See/Taste_And_See__baritone_E_-_5-27-21.m4a
+   194. Temptation/Temptation BARITONE - 5-22-21.mov
+   195. The Show's Over (In The Arms Of Jesus)/The Show’s Over (In The Arms of Jesus) 241e5a73f1d980d1886fd2af5f4c53cf.md
+   196. The Unlovely One/.DS_Store
+   197. The Unlovely One/The Unlovely One 4c641e35366a40dbba93e8602a4a33ea.md
+   198. The Unlovely One/The Unlovely One.pages/Data/Hardcover_bullet_black-13.png
+   199. The Unlovely One/The Unlovely One.pages/Index.zip
+   200. The Unlovely One/The Unlovely One.pages/Metadata/BuildVersionHistory.plist
+  ... and 403 more
+
+Same path but different content (needs review) (24):
+     1. .DS_Store
+     2. Be It Unto Me/.DS_Store
+     3. Concrete/.DS_Store
+     4. Ever Deeper/Ever Deeper.pages
+     5. Everybody Let's Vacate/.DS_Store
+     6. Finding It Hard/.DS_Store
+     7. Following Your Voice/Figuring out chords -- guitar + bass combined.rtf
+     8. Following Your Voice/Following Your Voice-2.reason
+     9. I Look Up To The Holy God/I Look Up To The Holy God - C#m.pages
+    10. I Want To Be Free/.DS_Store
+    11. Life's A Dream/.DS_Store
+    12. Taste And See/.DS_Store
+    13. Temptation/.DS_Store
+    14. Worst Of All Sinners/.DS_Store
+    15. __MY ARRANGEMENTS__/.DS_Store
+    16. __MY ARRANGEMENTS__/Come Thou Fount 5-4/.DS_Store
+    17. __MY ARRANGEMENTS__/It Is Well With My Soul/.DS_Store
+    18. __MY ARRANGEMENTS__/Lord I Need You/.DS_Store
+    19. __OLD__/.DS_Store
+    20. __OLD__/Children of God/.DS_Store
+    21. __OLD__/My God/.DS_Store
+    22. __SONG IDEAS__/.DS_Store
+    23. __SONG IDEAS__/Heartbeat Of Life/.DS_Store
+    24. __SPOKEN WORD__/.DS_Store

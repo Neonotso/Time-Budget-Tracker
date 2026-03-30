@@ -1,0 +1,181 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>8:1 Bible Readers Signup</title>
+    <style>
+      * { box-sizing: border-box; }
+      html, body { width: 100%; max-width: 100%; overflow-x: hidden; }
+      body { font-family: system-ui, sans-serif; margin: 20px; background: #fafafa; }
+      .card { max-width: 720px; margin: 0 auto; background: #fff; border: 1px solid #ddd; border-radius: 12px; padding: 16px; overflow-x: hidden; }
+      .header-img { width: 100%; border-radius: 10px; margin-bottom: 12px; border: 1px solid #eee; display: block; }
+      h1 { margin-top: 0; font-size: 1.4rem; line-height: 1.2; }
+      label { display:block; margin: 10px 0 6px; font-weight: 600; font-size: 1rem; }
+      input, select, button {
+        width:100%;
+        min-height: 44px;
+        padding:10px;
+        border-radius:8px;
+        border:1px solid #ccc;
+        box-sizing: border-box;
+        font-size: 1rem;
+      }
+      button { background:#4f46e5; border:none; color:#fff; font-weight:700; margin-top:12px; cursor:pointer; }
+      button:disabled { opacity: .6; cursor:not-allowed; }
+      .muted { color:#666; font-size: .95rem; }
+      .church-info {
+        margin-top: 14px;
+        padding-top: 12px;
+        border-top: 1px solid #e5e7eb;
+        color: #374151;
+        font-size: .95rem;
+        line-height: 1.35;
+      }
+      .ok { color:#166534; font-weight:700; margin-top:12px; font-size: 1rem; }
+      .err { color:#991b1b; font-weight:700; margin-top:12px; font-size: 1rem; }
+
+      @media (max-width: 900px) {
+        body { margin: 0; padding: 0; }
+        .card { max-width: 100%; width: 100%; margin: 0; background: #fff; border: 0; border-radius: 0; padding: 10px 8px 14px; }
+        .header-img { border-radius: 0; margin: 0 0 10px; border: 0; }
+        h1 { margin: 0 0 12px; font-size: 3.1rem; line-height: 1.02; }
+        label { margin: 16px 0 10px; font-weight: 700; font-size: 1.75rem; }
+        input, select, button {
+          min-height: 74px;
+          padding: 14px 16px;
+          border-radius:10px;
+          border:1px solid #bfbfbf;
+          font-size: 1.7rem;
+        }
+        select#slot { font-size: 1.95rem; min-height: 84px; }
+        button { margin-top:18px; font-size: 2.05rem; min-height: 82px; }
+        .muted { font-size: 1.85rem; line-height: 1.2; }
+        .church-info {
+          margin-top: 18px;
+          padding-top: 14px;
+          font-size: 1.35rem;
+          line-height: 1.3;
+        }
+        .ok, .err { margin-top:14px; font-size: 1.4rem; }
+      }
+
+      body.mobile-force { margin: 0; padding: 0; }
+      body.mobile-force .card { max-width: 100%; width: 100%; margin: 0; background: #fff; border: 0; border-radius: 0; padding: 10px 8px 14px; }
+      body.mobile-force .header-img { border-radius: 0; margin: 0 0 10px; border: 0; }
+      body.mobile-force h1 { margin: 0 0 12px; font-size: 3.1rem; line-height: 1.02; }
+      body.mobile-force label { margin: 16px 0 10px; font-weight: 700; font-size: 1.75rem; }
+      body.mobile-force input,
+      body.mobile-force select,
+      body.mobile-force button { min-height: 74px; padding: 14px 16px; border-radius: 10px; border:1px solid #bfbfbf; font-size: 1.7rem; }
+      body.mobile-force select#slot { font-size: 1.95rem; min-height: 84px; }
+      body.mobile-force button { margin-top: 18px; font-size: 2.05rem; min-height: 82px; }
+      body.mobile-force .muted { font-size: 1.85rem; line-height: 1.2; }
+      body.mobile-force .church-info {
+        margin-top: 18px;
+        padding-top: 14px;
+        font-size: 1.35rem;
+        line-height: 1.3;
+      }
+      body.mobile-force .ok,
+      body.mobile-force .err { margin-top:14px; font-size: 1.4rem; }
+    </style>
+  </head>
+  <body>
+    <div class="card">
+      <? if (payload.headerDataUrl || payload.headerUrl) { ?>
+      <img
+        class="header-img"
+        src="<?= payload.headerDataUrl || payload.headerUrl ?>"
+        alt="8:1 The Word Among Us"
+        onerror="if (this.src !== '<?= payload.headerUrl ?>') this.src='<?= payload.headerUrl ?>';"
+      />
+      <? } ?>
+      <h1>8:1 Bible Readers Signup</h1>
+      <p class="muted">Only currently open slots are shown.</p>
+
+      <label for="slot">Open Slot</label>
+      <select id="slot"></select>
+
+      <label for="firstName">First Name</label>
+      <input id="firstName" autocomplete="given-name" />
+
+      <label for="lastName">Last Name</label>
+      <input id="lastName" autocomplete="family-name" />
+
+      <label for="phone">Mobile Phone</label>
+      <input id="phone" autocomplete="tel" />
+
+      <button id="submitBtn" onclick="submitForm()">Sign Me Up</button>
+      <div id="msg"></div>
+
+      <p class="church-info">
+        Bauer Community Fellowship<br />
+        4852 Bauer Rd,<br />
+        Hudsonville, MI 49426
+      </p>
+    </div>
+
+    <script>
+      const payload = <?!= JSON.stringify(payload) ?>;
+      const slotEl = document.getElementById('slot');
+      const msgEl = document.getElementById('msg');
+      const submitBtn = document.getElementById('submitBtn');
+
+      const isPhoneUA = /iPhone|iPod|Android.+Mobile|Mobile\//i.test(navigator.userAgent || '');
+      if (isPhoneUA) document.body.classList.add('mobile-force');
+
+      function renderSlots() {
+        slotEl.innerHTML = '';
+        payload.slots.forEach(s => {
+          const opt = document.createElement('option');
+          opt.value = s.row;
+          opt.textContent = `${s.section} — ${s.label}`;
+          slotEl.appendChild(opt);
+        });
+        if (!payload.slots.length) {
+          const opt = document.createElement('option');
+          opt.value = '';
+          opt.textContent = 'No open slots right now';
+          slotEl.appendChild(opt);
+          submitBtn.disabled = true;
+        }
+      }
+
+      function setMsg(type, text) {
+        msgEl.className = type;
+        msgEl.textContent = text;
+      }
+
+      function submitForm() {
+        setMsg('', '');
+        submitBtn.disabled = true;
+
+        const form = {
+          row: slotEl.value,
+          firstName: document.getElementById('firstName').value,
+          lastName: document.getElementById('lastName').value,
+          phone: document.getElementById('phone').value,
+        };
+
+        google.script.run
+          .withSuccessHandler((res) => {
+            if (res && res.ok) {
+              setMsg('ok', res.message || 'Signed up!');
+              location.reload();
+            } else {
+              setMsg('err', (res && res.message) || 'Could not save signup.');
+            }
+            submitBtn.disabled = false;
+          })
+          .withFailureHandler((err) => {
+            setMsg('err', err && err.message ? err.message : 'Unexpected error.');
+            submitBtn.disabled = false;
+          })
+          .submitSignup(form);
+      }
+
+      renderSlots();
+    </script>
+  </body>
+</html>

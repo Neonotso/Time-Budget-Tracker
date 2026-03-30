@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Ableton Bridge JSON-RPC Methods (MVP)",
+  "type": "object",
+  "properties": {
+    "methods": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name", "params"],
+        "properties": {
+          "name": { "type": "string" },
+          "params": { "type": "object" }
+        }
+      }
+    }
+  },
+  "required": ["methods"],
+  "examples": [
+    {
+      "methods": [
+        {"name":"health","params":{}},
+        {"name":"list_tracks","params":{}},
+        {"name":"set_param","params":{"deviceId":"track-6:1:Compressor2","param":"Threshold","value":0.55}}
+      ]
+    }
+  ]
+}

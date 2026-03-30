@@ -1,0 +1,18 @@
+{
+  "file": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/Blazing Light of God/Blazing_Light_of_God_-_key_of_Bm_-_8-string_on_Fender_amp.m4a",
+  "duration_sec": 1024.874667,
+  "bit_rate": "66615",
+  "streams": [
+    {
+      "index": 0,
+      "codec_name": "aac",
+      "codec_type": "audio",
+      "sample_rate": "48000",
+      "channels": 1
+    }
+  ],
+  "tempo_bpm_est": null,
+  "key_estimate": null,
+  "time_signature_estimate": "4/4 (estimated)",
+  "analysis_image": "/Users/ryantaylorvegh/.openclaw/workspace/blazing_light_analysis.png"
+}

@@ -1,0 +1,66 @@
+--- a/Users/ryantaylorvegh/.openclaw/workspace/HEARTBEAT.md
++++ b/Users/ryantaylorvegh/.openclaw/workspace/HEARTBEAT.md
+@@ -3,23 +3,3 @@
+-## Active conversation check (ALWAYS run first)
+-
++# Active conversation check (DISABLED for continuous heartbeat)
+- Before running ANY heartbeat checks, check if there's been an active conversation in the last 10 minutes:
+-  Find the most recent session .jsonl file in `~/.openclaw/agents/main/sessions/`
+-  Check its modification time
+-  If modified within the last 10 minutes, reply `HEARTBEAT_OK` and skip all other checks
+-  This prevents interrupting active conversations
++```python
+import os, time
+from pathlib import Path
+
+sessions_dir = Path.home() / ".openclaw" / "agents" / "main" / "sessions"
+latest = max(sessions_dir.glob("*.jsonl"), key=lambda p: p.stat().st_mtime)
+age_minutes = (time.time() - latest.stat().st_mtime) / 60
+
+if age_minutes < 10:
+    # Active conversation - skip heartbeat checks
++    # Active conversation - RUN HEARTBEAT CHECKS (no conversation prevention)
++    print("HEARTBEAT_OK")
+```
+
+## Wednesday quiet rule
+- If current local day is Wednesday (America/Detroit), do not run routine checks in this file.
+- Reply exactly: `HEARTBEAT_OK`.
+
+## Weekly lesson automation check
+
+On each heartbeat:
+1. Check this week's lessons from calendars:
+   - Private Lessons (`6qpnjqcot3plkotpupcbi5l17g@group.calendar.google.com`)
+   - Kingdom Music School (`c5f832065582c736e9e3f2c4ea0b3ff9c81243e1aa10acdbdd9f191ce52317ef@group.calendar.google.com`)
+2. For lessons that have already ended today:
+   - If lesson title contains `Voice`: ONLY check `~/Downloads` for audio matching student name + today date; do not look for reMarkable files as a trigger.
+   - If lesson title contains `Drum`: audio is optional/not required.
+3. Run routine when trigger conditions are met:
+   - ensure student folder exists in Drive `Lessons/`
+   - perform reMarkable export inside the routine (search student name, export PNG)
+   - upload notes (and audio for Voice when available) to student Drive folder
+   - group into date folder format: `YYYY MM Month DD`
+   - send lesson update message (email or iMessage automation via Apps Script, based on student contact)
+   - move local source artifacts to Trash (not permanent delete)
+4. If trigger condition not met yet, do nothing and wait for next heartbeat.
+
+## Book Editing - COMPLETE
+- **Final Document:** https://docs.google.com/document/d/18M1xJOrgRAML_7PSEq722ewBjCM-REnvtN4NFofJRjw/edit
+- **Content:** ~260K characters (cleaned), chapters 1-19, 26-27 + Prologue
+- **Formatting:** Title (bold), Prologue (bold+underline), Chapter headings (bold+underline), character headings (bold)
+- **Note:** Font size changes must be done manually in Google Docs
+
+## Venmo-to-budget semi-regular check
+- On heartbeat (daytime/evening), run a lightweight Venmo check using `scripts/venmo_transactions.py`.
+- Focus on expected payer windows:
+  - Tuesday: Evan, Mandy (Caleb), Jim Luke
+  - Thursday evening: Leah (Valentino)
+  - Friday: Victoria
+- Compare current-month Venmo entries against `💰 Transactions` sheet.
+- If a Venmo item is missing from budget transactions, add it automatically with correct direction:
+  - money to Ryan => Income (G:J)
+  - money from Ryan => Expense (B:E)
+- **CRITICAL: Before adding any transaction, check if it already exists** by searching the Transactions sheet for the same description/amount/date combo. If it exists, skip adding it (prevents duplicates like the Evan Stein incident on 3/17).
+- If an expected payment is missing, notify Ryan briefly in chat (do not send payment reminders to third parties unless Ryan asks).
+```

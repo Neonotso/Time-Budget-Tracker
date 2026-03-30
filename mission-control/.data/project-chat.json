@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "id": 1,
+      "projectId": "monthly-budget",
+      "role": "user",
+      "text": "hi",
+      "at": "02:32 AM"
+    },
+    {
+      "id": 2,
+      "projectId": "monthly-budget",
+      "role": "assistant",
+      "text": "I’m ready to continue, but I don’t have an active task/process to resume right now.\n\nPlease paste the last request (or tell me the exact task), and I’ll pick it up immediately.",
+      "at": "02:33 AM"
+    }
+  ]
+}

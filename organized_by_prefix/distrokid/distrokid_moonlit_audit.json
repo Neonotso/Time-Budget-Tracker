@@ -1,0 +1,76 @@
+{
+  "album": "The Moonlit Sunrise",
+  "expected_count": 13,
+  "found": 2,
+  "missing": 11,
+  "audit": [
+    {
+      "title": "Moonlight Upon the First Sunrise",
+      "status": "FOUND",
+      "path": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/Moonlight Upon the First Sunrise/Moonlight Upon the First Sunrise.m4a"
+    },
+    {
+      "title": "The Fountain of Your Heart",
+      "status": "MISSING",
+      "path": null
+    },
+    {
+      "title": "The Kindness of My Heart",
+      "status": "MISSING",
+      "path": null
+    },
+    {
+      "title": "Scarlet Love",
+      "status": "MISSING",
+      "path": null
+    },
+    {
+      "title": "Looking Glass",
+      "status": "MISSING",
+      "path": null
+    },
+    {
+      "title": "A Time",
+      "status": "FOUND",
+      "path": "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/A Time/A Time.m4a"
+    },
+    {
+      "title": "Two to Flow",
+      "status": "MISSING",
+      "path": null
+    },
+    {
+      "title": "Howling at Midnight",
+      "status": "MISSING",
+      "path": null
+    },
+    {
+      "title": "Death by Roses",
+      "status": "MISSING",
+      "path": null
+    },
+    {
+      "title": "On This Haunted Eve",
+      "status": "MISSING",
+      "path": null
+    },
+    {
+      "title": "The Reach of Your Arms",
+      "status": "MISSING",
+      "path": null
+    },
+    {
+      "title": "Near the Dawn",
+      "status": "MISSING",
+      "path": null
+    },
+    {
+      "title": "On the Last Sunrise",
+      "status": "MISSING",
+      "path": null
+    }
+  ],
+  "moonlit_related_files": [
+    "/Users/ryantaylorvegh/Library/CloudStorage/Dropbox/My Songs/Moonlight Upon the First Sunrise/Moonlight Upon the First Sunrise.m4a"
+  ]
+}
